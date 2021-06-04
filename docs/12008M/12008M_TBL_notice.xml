@@ -1,0 +1,3716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3</VALUE>
+         <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL</VALUE>
+            <IDENTIFIER>12008M/TBL</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2008/tab_1/oj</VALUE>
+            <IDENTIFIER>treaty:teu_2008:tab_1:oj</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS</VALUE>
+            <IDENTIFIER>EUMS</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS</OP-CODE>
+         <IDENTIFIER>EUMS</IDENTIFIER>
+         <PREFLABEL>The Member States</PREFLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DEU.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DEU.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidierte Fassung des Vertrags über die Europäische Union - Übereinstimmungstabellen</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0005</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DEU</VALUE>
+               <IDENTIFIER>12008M/TBL.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <TREATY_NAME type="data">
+         <VALUE>teu_2008</VALUE>
+      </TREATY_NAME>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/LAV</VALUE>
+            <IDENTIFIER>LAV</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>LAV</OP-CODE>
+         <IDENTIFIER>LAV</IDENTIFIER>
+         <PREFLABEL>Latvian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2008/tab_1/oj</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Ενοποιημένη απόδοση της Συνθήκης για την Ευρωπαϊκή Ένωση - Πίνακες αντιστοιχίας</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ELL.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.ELL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ELL.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0006</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ELL</VALUE>
+               <IDENTIFIER>12008M/TBL.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>2007-12-13</VALUE>
+         <YEAR>2007</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>13</DAY>
+      </DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.GLE.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.GLE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Leagan comhdhlúite den Chonradh ar an Aontas Eorpach - Táblaí comhghaoil</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.GLE.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.GLE.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+                     <IDENTIFIER>GLE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>GLE</OP-CODE>
+                  <IDENTIFIER>GLE</IDENTIFIER>
+                  <PREFLABEL>Irish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.GLE.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.GLE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0011</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.GLE</VALUE>
+               <IDENTIFIER>12008M/TBL.GLE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d05d74cf-87cc-4ed9-9d43-28da2ea08f9e</VALUE>
+            <IDENTIFIER>d05d74cf-87cc-4ed9-9d43-28da2ea08f9e</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2008/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2008:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTXT</VALUE>
+               <IDENTIFIER>12008M/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:12008M/TBL</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Consolidated version of the Treaty on European Union - Tables of equivalences</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.ENG.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.RON.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.RON.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.RON.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.RON.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/RON</VALUE>
+                     <IDENTIFIER>RON</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>RON</OP-CODE>
+                  <IDENTIFIER>RON</IDENTIFIER>
+                  <PREFLABEL>Romanian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versiune consolidată a Tratatului privind Uniunea Europeană - Tabele de corespondenţă</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.RON.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.RON.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0020</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0020</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.RON</VALUE>
+               <IDENTIFIER>12008M/TBL.RON</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>12008M/TBL</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verżjoni konsolidata tat-Trattat dwar l-Unjoni ewropea - Tabella ta' korrispondenza</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.MLT.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.MLT.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.MLT.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.MLT.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/MLT</VALUE>
+                     <IDENTIFIER>MLT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>MLT</OP-CODE>
+                  <IDENTIFIER>MLT</IDENTIFIER>
+                  <PREFLABEL>Maltese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.MLT.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.MLT.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0016</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.MLT</VALUE>
+               <IDENTIFIER>12008M/TBL.MLT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SLK</VALUE>
+            <IDENTIFIER>SLK</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SLK</OP-CODE>
+         <IDENTIFIER>SLK</IDENTIFIER>
+         <PREFLABEL>Slovak</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.CES.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.CES.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidované znění Smlouvy o Evropské unii - Srovnávací tabulky</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.CES.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.CES.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/CES</VALUE>
+                     <IDENTIFIER>CES</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>CES</OP-CODE>
+                  <IDENTIFIER>CES</IDENTIFIER>
+                  <PREFLABEL>Czech</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.CES.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.CES.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0003</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.CES</VALUE>
+               <IDENTIFIER>12008M/TBL.CES</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+               <IDENTIFIER>DGEN</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>DGEN</OP-CODE>
+            <IDENTIFIER>DGEN</IDENTIFIER>
+            <PREFLABEL>General provisions</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POL.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.POL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Wersja skonsolidowana Traktatu o Unii Europejskiej - Tabele ekwiwalencyjne</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POL.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.POL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+                     <IDENTIFIER>POL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POL</OP-CODE>
+                  <IDENTIFIER>POL</IDENTIFIER>
+                  <PREFLABEL>Polish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.POL.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.POL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0018</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0018</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POL</VALUE>
+               <IDENTIFIER>12008M/TBL.POL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_CELEX type="data">
+         <VALUE>12008M/TBL</VALUE>
+      </ID_CELEX>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/HUN</VALUE>
+            <IDENTIFIER>HUN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>HUN</OP-CODE>
+         <IDENTIFIER>HUN</IDENTIFIER>
+         <PREFLABEL>Hungarian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FIN.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Euroopan unionista tehdyn sopimuksen konsolidoitu toisinto - Vastaavuustaulukot</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FIN.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.FIN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0010</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FIN</VALUE>
+               <IDENTIFIER>12008M/TBL.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Geconsolideerde versie van het Verdrag betreffende de Europese Unie - Concordantietabel - Concordantietabel</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.NLD.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.NLD.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0017</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0017</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.NLD</VALUE>
+               <IDENTIFIER>12008M/TBL.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SPA.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.SPA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SPA.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de la Unión Europea - Tablas de correspondencias</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0008</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SPA</VALUE>
+               <IDENTIFIER>12008M/TBL.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Swedish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Prečiščena različica Pogodbe o Evropski uniji - Preglednica preštevilčenja iz člena 5 Lizbonske pogodbe</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLV.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.SLV.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLV</VALUE>
+                     <IDENTIFIER>SLV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLV</OP-CODE>
+                  <IDENTIFIER>SLV</IDENTIFIER>
+                  <PREFLABEL>Slovenian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLV.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.SLV.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.SLV.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.SLV.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0022</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0022</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLV</VALUE>
+               <IDENTIFIER>12008M/TBL.SLV</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>2008-07-31</VALUE>
+         <YEAR>2008</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>31</DAY>
+      </DATE_CREATION_LEGACY>
+      <STORED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_040/I-G</VALUE>
+            <IDENTIFIER>I-G</IDENTIFIER>
+            <TYPE>fd_040</TYPE>
+         </URI>
+         <OP-CODE>I-G</OP-CODE>
+         <IDENTIFIER>I-G</IDENTIFIER>
+         <PREFLABEL>Italy - Government</PREFLABEL>
+      </STORED_BY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/BUL</VALUE>
+            <IDENTIFIER>BUL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>BUL</OP-CODE>
+         <IDENTIFIER>BUL</IDENTIFIER>
+         <PREFLABEL>Bulgarian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>2007-12-13</VALUE>
+         <YEAR>2007</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>13</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.6  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.1.6 builddate:14/08/2013 15:19:31</BUILD_INFO>
+            <COMMENT_ON_DATE>{DATSIG|http://publications.europa.eu/resource/authority/fd_335/DATSIG}</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{PE|http://publications.europa.eu/resource/authority/fd_335/PE}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LIT.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.LIT.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Europos Sąjungos Sutarties suvestinė redakcija - Atitikties lentelės</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LIT</VALUE>
+                     <IDENTIFIER>LIT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LIT</OP-CODE>
+                  <IDENTIFIER>LIT</IDENTIFIER>
+                  <PREFLABEL>Lithuanian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LIT.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.LIT.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.LIT.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.LIT.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0014</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0014</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LIT</VALUE>
+               <IDENTIFIER>12008M/TBL.LIT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2008/tab_1/oj</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <IDENTIFIER type="data">
+         <VALUE>623855</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/CES</VALUE>
+            <IDENTIFIER>CES</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>CES</OP-CODE>
+         <IDENTIFIER>CES</IDENTIFIER>
+         <PREFLABEL>Czech</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS</VALUE>
+            <IDENTIFIER>EUMS</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS</OP-CODE>
+         <IDENTIFIER>EUMS</IDENTIFIER>
+         <PREFLABEL>The Member States</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/EST</VALUE>
+                     <IDENTIFIER>EST</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>EST</OP-CODE>
+                  <IDENTIFIER>EST</IDENTIFIER>
+                  <PREFLABEL>Estonian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Euroopa Liidu lepingu konsolideeritud versioon - VASTAVUSTABELID</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.EST.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.EST.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.EST.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.EST.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.EST.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.EST.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0009</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.EST</VALUE>
+               <IDENTIFIER>12008M/TBL.EST</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/LIT</VALUE>
+            <IDENTIFIER>LIT</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>LIT</OP-CODE>
+         <IDENTIFIER>LIT</IDENTIFIER>
+         <PREFLABEL>Lithuanian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/EST</VALUE>
+            <IDENTIFIER>EST</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>EST</OP-CODE>
+         <IDENTIFIER>EST</IDENTIFIER>
+         <PREFLABEL>Estonian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.HUN.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.HUN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.HUN.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.HUN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/HUN</VALUE>
+                     <IDENTIFIER>HUN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>HUN</OP-CODE>
+                  <IDENTIFIER>HUN</IDENTIFIER>
+                  <PREFLABEL>Hungarian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Az Európai Unióról szóló szerződés - Megfelelési táblázatok</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.HUN.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.HUN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0012</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0012</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.HUN</VALUE>
+               <IDENTIFIER>12008M/TBL.HUN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2019-01-09T03:33:24.014+01:00</VALUE>
+         <YEAR>2019</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>09</DAY>
+      </LASTMODIFICATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.BUL.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.BUL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/BUL</VALUE>
+                     <IDENTIFIER>BUL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>BUL</OP-CODE>
+                  <IDENTIFIER>BUL</IDENTIFIER>
+                  <PREFLABEL>Bulgarian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Консолидиран текст на Договора за Европейския съюз - Таблица на съответствието</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.BUL.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.BUL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.BUL.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.BUL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0002</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.BUL</VALUE>
+               <IDENTIFIER>12008M/TBL.BUL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ITA.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ITA.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Trattato sull'Unione europea - Tavole di corrispondenza</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0013</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0013</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ITA</VALUE>
+               <IDENTIFIER>12008M/TBL.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLK.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.SLK.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLK</VALUE>
+                     <IDENTIFIER>SLK</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLK</OP-CODE>
+                  <IDENTIFIER>SLK</IDENTIFIER>
+                  <PREFLABEL>Slovak</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidované znenie Zmluvy o Európskej únii - Tabuľky zhody</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLK.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.SLK.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.SLK.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.SLK.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0021</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0021</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SLK</VALUE>
+               <IDENTIFIER>12008M/TBL.SLK</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/RON</VALUE>
+            <IDENTIFIER>RON</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>RON</OP-CODE>
+         <IDENTIFIER>RON</IDENTIFIER>
+         <PREFLABEL>Romanian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolideret udgave af traktaten om den Europæiske Union - Sammenligningstabel</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DAN.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.DAN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DAN.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0004</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.DAN</VALUE>
+               <IDENTIFIER>12008M/TBL.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+            <IDENTIFIER>POL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POL</OP-CODE>
+         <IDENTIFIER>POL</IDENTIFIER>
+         <PREFLABEL>Polish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POR.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.POR.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versão consolidada do Tratado da União Europeia - QUADROS DE CORRESPONDÊNCIA</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POR.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.POR.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0019</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.POR</VALUE>
+               <IDENTIFIER>12008M/TBL.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>2008</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2008-05-09</VALUE>
+                  <YEAR>2008</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>09</DAY>
+               </WORK_DATE_DOCUMENT>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>2008-05-09</VALUE>
+                  <YEAR>2008</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>09</DAY>
+               </DATE_PUBLICATION>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>115</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Union, C 115, 09 May 2008</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.pdf</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ENG.pdf</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.xhtml</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ENG.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.fmx4</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.ENG.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml"/>
+            <MANIFESTATION manifestation-type="print"/>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0dc8c8a7-477a-4cfe-8a74-b8d82429c010</VALUE>
+            <IDENTIFIER>0dc8c8a7-477a-4cfe-8a74-b8d82429c010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R</VALUE>
+               <IDENTIFIER>JOC_2008_115_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <IDENTIFIER type="data">
+         <VALUE>12008M/TBL</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SWE.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.SWE.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsoliderad version av fördraget om Europeiska unionen - Jämförelsetabeller</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SWE.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0023</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0023</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.SWE</VALUE>
+               <IDENTIFIER>12008M/TBL.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>2007-12-13</VALUE>
+         <YEAR>2007</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>13</DAY>
+      </DATE>
+      <DATE type="date">
+         <VALUE>2008-07-31</VALUE>
+         <YEAR>2008</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+            <IDENTIFIER>GLE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>GLE</OP-CODE>
+         <IDENTIFIER>GLE</IDENTIFIER>
+         <PREFLABEL>Irish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+            <IDENTIFIER>DGEN</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>DGEN</OP-CODE>
+         <IDENTIFIER>DGEN</IDENTIFIER>
+         <PREFLABEL>General provisions</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_DATE_SIGNATURE type="date">
+         <VALUE>2007-12-13</VALUE>
+         <YEAR>2007</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>13</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{PRT_LIS|http://publications.europa.eu/resource/authority/place/PRT_LIS}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_SIGNATURE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>2007-12-13</VALUE>
+         <YEAR>2007</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>13</DAY>
+      </WORK_DATE_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE>celex:12008M/TBL</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SLV</VALUE>
+            <IDENTIFIER>SLV</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SLV</OP-CODE>
+         <IDENTIFIER>SLV</IDENTIFIER>
+         <PREFLABEL>Slovenian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>M</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Līguma par Eiropas Savienību konsolidētā versija - Atbilstības tabulas</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LAV</VALUE>
+                     <IDENTIFIER>LAV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LAV</OP-CODE>
+                  <IDENTIFIER>LAV</IDENTIFIER>
+                  <PREFLABEL>Latvian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LAV.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.LAV.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LAV.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.LAV.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.LAV.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.LAV.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0015</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0015</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.LAV</VALUE>
+               <IDENTIFIER>12008M/TBL.LAV</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2008/tab_1/oj</VALUE>
+      </ELI>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finnish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>/TBL</VALUE>
+      </IDENTIFIER>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>12008M/TBL</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2007-12-13</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Version consolidée du traité sur l'Union européenne - Tableaux de correspondance</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FRA.html</VALUE>
+                        <IDENTIFIER>12008M/TBL.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FRA.print</VALUE>
+                        <IDENTIFIER>12008M/TBL.FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_2008_115_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0366</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0361</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0001</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.FRA</VALUE>
+               <IDENTIFIER>12008M/TBL.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/MLT</VALUE>
+            <IDENTIFIER>MLT</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>MLT</OP-CODE>
+         <IDENTIFIER>MLT</IDENTIFIER>
+         <PREFLABEL>Maltese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>M</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+         <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+            <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Consolidated version of the Treaty on European Union - Tables of equivalences</VALUE>
+      </EXPRESSION_TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.02</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.print</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-19T17:42:36.130+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>19</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL</VALUE>
+               <IDENTIFIER>12008M/TBL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2008/tab_1/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2008:tab_1:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <TITLE type="data">
+         <VALUE>Consolidated version of the Treaty on European Union - Tables of equivalences</VALUE>
+      </TITLE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.02</VALUE>
+         <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.print</VALUE>
+            <IDENTIFIER>12008M/TBL.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <PAGE_FIRST type="data">
+         <VALUE>0361</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>6</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <PAGE_LAST type="data">
+         <VALUE>0366</VALUE>
+      </PAGE_LAST>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-19T17:42:36.130+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>19</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0dc8c8a7-477a-4cfe-8a74-b8d82429c010.0006.03</VALUE>
+            <IDENTIFIER>0dc8c8a7-477a-4cfe-8a74-b8d82429c010.0006.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_115_R.ENG.print</VALUE>
+               <IDENTIFIER>JOC_2008_115_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2008.115.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2008.115.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0366</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0361</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</VALUE>
+         <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html</VALUE>
+            <IDENTIFIER>12008M/TBL.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01/DOC_1</VALUE>
+            <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html.12008M_TBLen.html</VALUE>
+               <IDENTIFIER>12008M/TBL.ENG.html.12008M_TBLen.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>12008M_TBLen.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_SIZE type="data">
+               <VALUE>13207</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-12008M/TBL.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</VALUE>
+               <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html</VALUE>
+                  <IDENTIFIER>12008M/TBL.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</VALUE>
+               <IDENTIFIER>58f748ad-f0e2-4d9f-9291-ed2c9029bec3.0007.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12008M%2FTBL.ENG.html</VALUE>
+                  <IDENTIFIER>12008M/TBL.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-19T17:42:36.130+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>19</DAY>
+      </LASTMODIFICATIONDATE>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

@@ -1,0 +1,3780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06</VALUE>
+         <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09</VALUE>
+            <IDENTIFIER>12012M/PRO/09</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2012/pro_9/oj</VALUE>
+            <IDENTIFIER>treaty:teu_2012:pro_9:oj</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Version consolidée du traité de l'Union européenne#PROTOCOLES#Protocole (n° 9) sur la décision du Conseil relative à la mise en œuvre des articles 16, paragraphe 4, du traité sur l'Union européenne et 238, paragraphe 2, du traité sur le fonctionnement de l'Union européenne entre le 1er novembre 2014 et le 31 mars 2017, d'une part, et à partir du 1er avril 2017, d'autre part</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FRA.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.FRA.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FRA.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0017</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0017</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FRA</VALUE>
+               <IDENTIFIER>12012M/PRO/09.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>2012</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+               </DATE_PUBLICATION>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>326</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.fmx4</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ENG.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Union, C 326, 26 October 2012</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.pdfa1a</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ENG.pdfa1a</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.xhtml</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ENG.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1a">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1a</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e7d644d3-1e8c-11e2-91ce-01aa75ed71a1</VALUE>
+            <IDENTIFIER>e7d644d3-1e8c-11e2-91ce-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R</VALUE>
+               <IDENTIFIER>JOC_2012_326_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2012/pro_9/oj</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/LAV</VALUE>
+            <IDENTIFIER>LAV</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>LAV</OP-CODE>
+         <IDENTIFIER>LAV</IDENTIFIER>
+         <PREFLABEL>Latvian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE type="date">
+         <VALUE>2012-12-18</VALUE>
+         <YEAR>2012</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>18</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidované znenie Zmluvy o Európskej únii#PROTOKOLY#Protokol (č. 9) o rozhodnutí Rady o vykonávaní článku 16 ods. 4 Zmluvy o Európskej únii a článku 238 ods. 2 Zmluvy o fungovaní Európskej únie od 1. novembra 2014 do 31. marca 2017 na jednej strane a od 1. apríla 2017 na strane druhej</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLK.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SLK.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLK.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SLK.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLK</VALUE>
+                     <IDENTIFIER>SLK</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLK</OP-CODE>
+                  <IDENTIFIER>SLK</IDENTIFIER>
+                  <PREFLABEL>Slovak</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.SLK.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.SLK.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0020</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0020</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLK</VALUE>
+               <IDENTIFIER>12012M/PRO/09.SLK</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versão consolidada do Tratado da União Europeia#PROTOCOLOS#Protocolo (N.° 9) relativo à decisão do Conselho relativa à aplicação do n.° 4 do artigo 16.° do Tratado da União Europeia e do n.° 2 do artigo 238.° do Tratado sobre o Funcionamento da União Europeia entre 1 de Novembro de 2014 e 31 de Março de 2017, por um lado, e a partir de 1 de Abril de 2017, por outro</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POR.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.POR.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POR.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.POR.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.POR.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0008</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POR</VALUE>
+               <IDENTIFIER>12012M/PRO/09.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS</VALUE>
+            <IDENTIFIER>EUMS</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS</OP-CODE>
+         <IDENTIFIER>EUMS</IDENTIFIER>
+         <PREFLABEL>The Member States</PREFLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DAN.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.DAN.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DAN.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.DAN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolideret udgave af traktaten om Den Europæiske Union#PROTOKOLLER#Protokol (nr. 9) om Rådets afgørelse om gennemførelse af artikel 16, stk. 4, i traktaten om Den Europæiske Union og artikel 238, stk. 2, i traktaten om Den Europæiske Unions funktionsmåde dels mellem den 1. november 2014 og den 31. marts 2017 og dels fra den 1. april 2017</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0009</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DAN</VALUE>
+               <IDENTIFIER>12012M/PRO/09.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>12012M/PRO/09</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/PROTOCOLE</VALUE>
+            <IDENTIFIER>PROTOCOLE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>PROTOCOLE</OP-CODE>
+         <IDENTIFIER>PROTOCOLE</IDENTIFIER>
+         <PREFLABEL>Protocol</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Ενοποιημένη απόδοση της Συνθήκης για την Ευρωπαϊκή Ένωση#ΠΡΩΤΟΚΟΛΛΑ#Πρωτόκολλο (αριθ. 9) σχετικά με την απόφαση του Συμβουλίου όσον αφορά την εφαρμογή του άρθρου 16, παράγραφος 4 της Συνθήκης για την Ευρωπαϊκή Ένωση και του άρθρου 238, παράγραφος 2, της Συνθήκης για τη λειτουργία της Ευρωπαϊκής Ένωσης μεταξύ της 1ης Νοεμβρίου 2014 και της 31ης Μαρτίου 2017, αφενός, και από της 1ης Απριλίου 2017, αφετέρου</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ELL.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ELL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ELL.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ELL.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0005</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ELL</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SLK</VALUE>
+            <IDENTIFIER>SLK</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SLK</OP-CODE>
+         <IDENTIFIER>SLK</IDENTIFIER>
+         <PREFLABEL>Slovak</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_DATE_SIGNATURE type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+            <COMMENT_ON_DATE>{NLD_MST|http://publications.europa.eu/resource/authority/place/NLD_MST}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_SIGNATURE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LAV.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.LAV.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Līguma par Eiropas Savienību konsolidētā versija#PROTOKOLI#9. protokols - par Padomes lēmumu attiecībā uz Līguma par Eiropas Savienību 16. panta 4. punkta un Līguma par Eiropas Savienības darbību 238. panta 2. punkta īstenošanu laikposmā no 2014. gada 1. novembra līdz 2017. gada 31. martam, no vienas puses, un pēc 2017. gada 1. aprīļa, no otras puses</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LAV.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.LAV.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LAV</VALUE>
+                     <IDENTIFIER>LAV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LAV</OP-CODE>
+                  <IDENTIFIER>LAV</IDENTIFIER>
+                  <PREFLABEL>Latvian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.LAV.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.LAV.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0021</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0021</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LAV</VALUE>
+               <IDENTIFIER>12012M/PRO/09.LAV</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>1069378</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/BUL</VALUE>
+            <IDENTIFIER>BUL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>BUL</OP-CODE>
+         <IDENTIFIER>BUL</IDENTIFIER>
+         <PREFLABEL>Bulgarian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versione consolidata del trattato dell'Unione europea#PROTOCOLLI#Protocollo (N. 9) sulla decisione del consiglio relativa all'attuazione degli articoli 16, paragrafo 4, del trattato sull'Unione Europea e 238, paragrafo 2 del trattato sul funzionamento dell'Unione Europea tra il 1° novembre 2014 e il 31 marzo 2017, da un lato, e dal 1° aprile 2017, dall'altro 357</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ITA.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ITA.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ITA.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0013</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0013</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ITA</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <STORED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_040/I-G</VALUE>
+            <IDENTIFIER>I-G</IDENTIFIER>
+            <TYPE>fd_040</TYPE>
+         </URI>
+         <OP-CODE>I-G</OP-CODE>
+         <IDENTIFIER>I-G</IDENTIFIER>
+         <PREFLABEL>Italy - Government</PREFLABEL>
+      </STORED_BY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Swedish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 54.2 {ET|http://publications.europa.eu/resource/authority/fd_335/ET} {JO|http://publications.europa.eu/resource/authority/fd_335/JO} {L|http://publications.europa.eu/resource/authority/fd_335/L} 293/93 {P|http://publications.europa.eu/resource/authority/fd_335/P} 61</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/HUN</VALUE>
+            <IDENTIFIER>HUN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>HUN</OP-CODE>
+         <IDENTIFIER>HUN</IDENTIFIER>
+         <PREFLABEL>Hungarian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.BUL.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.BUL.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Консолидиран текст на Договора за Европейския Съюз#ПРОТОКОЛИ#Протокол (№ 9) относно решението на Съвета относно прилагането на член 16, параграф 4 от Договора за Европейския съюз и член 238, параграф 2 от Договора за функционирането на Европейския съюз между 1 ноември 2014 г. и 31 март 2017 г., от една страна, и след 1 април 2017 г., от друга страна</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/BUL</VALUE>
+                     <IDENTIFIER>BUL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>BUL</OP-CODE>
+                  <IDENTIFIER>BUL</IDENTIFIER>
+                  <PREFLABEL>Bulgarian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.BUL.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.BUL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.BUL.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.BUL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0011</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.BUL</VALUE>
+               <IDENTIFIER>12012M/PRO/09.BUL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:12012M/PRO/09</VALUE>
+      </WORK_ID_DOCUMENT>
+      <ID_CELEX type="data">
+         <VALUE>12012M/PRO/09</VALUE>
+      </ID_CELEX>
+      <DATE type="date">
+         <VALUE>2012-10-26</VALUE>
+         <YEAR>2012</YEAR>
+         <MONTH>10</MONTH>
+         <DAY>26</DAY>
+      </DATE>
+      <TREATY_NAME type="data">
+         <VALUE>teu_2012</VALUE>
+      </TREATY_NAME>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2012/pro_9/oj</VALUE>
+      </IDENTIFIER>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>2012-10-26</VALUE>
+         <YEAR>2012</YEAR>
+         <MONTH>10</MONTH>
+         <DAY>26</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+            <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </WORK_DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsoliderad version av fördraget om Europeiska unionen#PROTOKOLL#Protokoll (nr 9) om rådets beslut om genomförande av artikel 16.4 i fördraget om Europeiska unionen och artikel 238.2 i fördraget om Europeiska unionens funktionssätt under tiden 1 november 2014-31 mars 2017 och från och med den 1 april 2017</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SWE.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SWE.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SWE.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SWE.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0006</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SWE</VALUE>
+               <IDENTIFIER>12012M/PRO/09.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+            <IDENTIFIER>PROT</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>PROT</OP-CODE>
+         <IDENTIFIER>PROT</IDENTIFIER>
+         <PREFLABEL>Protocol</PREFLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>/PRO/09</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.HUN.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.HUN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/HUN</VALUE>
+                     <IDENTIFIER>HUN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>HUN</OP-CODE>
+                  <IDENTIFIER>HUN</IDENTIFIER>
+                  <PREFLABEL>Hungarian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Az Európai Unióról szóló szerződés egységes szerkezetbe foglalt változata#JEGYZŐKÖNYVEK#(9.) Jegyzőkönyv - az Európai Unióról szóló szerződés 16. cikke (4) bekezdésének és az Európai Unió működéséről szóló szerződés 238. cikke (2) bekezdésének egyrészről 2014. november 1. és 2017. március 31. közötti, másrészről 2017. április 1-jétől kezdődő végrehajtásáról szóló tanácsi határozatról</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.HUN.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.HUN.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.HUN.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.HUN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0022</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0022</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.HUN</VALUE>
+               <IDENTIFIER>12012M/PRO/09.HUN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+               <IDENTIFIER>INST</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>INST</OP-CODE>
+            <IDENTIFIER>INST</IDENTIFIER>
+            <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>2012-12-18</VALUE>
+         <YEAR>2012</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>18</DAY>
+      </DATE_CREATION_LEGACY>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LIT</VALUE>
+                     <IDENTIFIER>LIT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LIT</OP-CODE>
+                  <IDENTIFIER>LIT</IDENTIFIER>
+                  <PREFLABEL>Lithuanian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LIT.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.LIT.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Europos Sąjungos sutarties suvestinė redakcija#PROTOKOLAI#Protokolas (Nr. 9) dėl Tarybos sprendimo dėl Europos Sąjungos sutarties 16 straipsnio 4 dalies ir Sutarties dėl Europos Sąjungos veikimo 238 straipsnio 2 dalies įgyvendinimo 2014 m. lapkričio 1 d. - 2017 m. kovo 31 d. laikotarpiu ir nuo 2017 m. balandžio 1 d.</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LIT.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.LIT.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.LIT.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.LIT.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0014</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0014</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.LIT</VALUE>
+               <IDENTIFIER>12012M/PRO/09.LIT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS</VALUE>
+            <IDENTIFIER>EUMS</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS</OP-CODE>
+         <IDENTIFIER>EUMS</IDENTIFIER>
+         <PREFLABEL>The Member States</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.RON.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.RON.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versiune consolidată a Tratatului privind Uniunea Europeană#PROTOCOALE#Protocolul (nr. 9) privind decizia Consiliului referitoare la punerea în aplicare a articolului 16 alineatul (4) din Tratatul privind Uniunea Europeană și a articolului 238 alineatul (2) din Tratatul privind funcționarea Uniunii Europene între 1 noiembrie 2014 și 31 martie 2017, pe de o parte, și începând cu 1 aprilie 2017, pe de altă parte</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.RON.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.RON.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/RON</VALUE>
+                     <IDENTIFIER>RON</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>RON</OP-CODE>
+                  <IDENTIFIER>RON</IDENTIFIER>
+                  <PREFLABEL>Romanian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.RON.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.RON.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0019</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.RON</VALUE>
+               <IDENTIFIER>12012M/PRO/09.RON</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/CES</VALUE>
+            <IDENTIFIER>CES</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>CES</OP-CODE>
+         <IDENTIFIER>CES</IDENTIFIER>
+         <PREFLABEL>Czech</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+                     <IDENTIFIER>POL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POL</OP-CODE>
+                  <IDENTIFIER>POL</IDENTIFIER>
+                  <PREFLABEL>Polish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Wersja skonsolidowana Traktatu o Unii Europejskiej#PROTOKOŁY#Protokół (nr 9) w sprawie decyzji Rady odnoszącej się do wykonania artykułu 16 ustęp 4 Traktatu o Unii Europejskiej i artykułu 238 ustęp 2 Traktatu o funkcjonowaniu Unii Europejskiej w okresie między 1 listopada 2014 roku a 31 marca 2017 roku i od 1 kwietnia 2017 roku</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POL.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.POL.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POL.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.POL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.POL.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.POL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0010</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.POL</VALUE>
+               <IDENTIFIER>12012M/PRO/09.POL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>2012-10-26</VALUE>
+         <YEAR>2012</YEAR>
+         <MONTH>10</MONTH>
+         <DAY>26</DAY>
+      </DATE_DOCUMENT>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2012/pro_9/oj</VALUE>
+      </ELI>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidované znění Smlouvy o Evropské unii#PROTOKOLY#Protokol (č. 9) o rozhodnutí Rady, kterým se provádí čl. 16 odst. 4 Smlouvy o Evropské unii a čl. 238 odst. 2 Smlouvy o fungování Evropské unie jednak mezi 1. listopadem 2014 a 31. březnem 2017 a jednak od 1. dubna 2017</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/CES</VALUE>
+                     <IDENTIFIER>CES</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>CES</OP-CODE>
+                  <IDENTIFIER>CES</IDENTIFIER>
+                  <PREFLABEL>Czech</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.CES.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.CES.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.CES.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.CES.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.CES.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.CES.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0001</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.CES</VALUE>
+               <IDENTIFIER>12012M/PRO/09.CES</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/2bf140bf-a3f8-4ab2-b506-fd71826e6da6</VALUE>
+            <IDENTIFIER>2bf140bf-a3f8-4ab2-b506-fd71826e6da6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FTXT</VALUE>
+               <IDENTIFIER>12012M/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2012/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2012:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/RON</VALUE>
+            <IDENTIFIER>RON</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>RON</OP-CODE>
+         <IDENTIFIER>RON</IDENTIFIER>
+         <PREFLABEL>Romanian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.EST.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.EST.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/EST</VALUE>
+                     <IDENTIFIER>EST</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>EST</OP-CODE>
+                  <IDENTIFIER>EST</IDENTIFIER>
+                  <PREFLABEL>Estonian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.EST.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.EST.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Euroopa Liidu lepingu konsolideeritud versioon#PROTOKOLLID#Protokoll (nr 9) Nõukogu otsuse kohta, mis käsitleb Euroopa Liidu lepingu artikli 16 lõike 4 ja Euroopa Liidu toimimise lepingu artikli 238 lõike 2 rakendamist ühelt poolt ajavahemikus 1. november 2014 - 31. märts 2017 ja teiselt poolt alates 1. aprillist 2017</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.EST.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.EST.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0012</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0012</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.EST</VALUE>
+               <IDENTIFIER>12012M/PRO/09.EST</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>celex:12012M/PRO/09</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/EST</VALUE>
+            <IDENTIFIER>EST</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>EST</OP-CODE>
+         <IDENTIFIER>EST</IDENTIFIER>
+         <PREFLABEL>Estonian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2019-01-09T03:01:51.313+01:00</VALUE>
+         <YEAR>2019</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>09</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/LIT</VALUE>
+            <IDENTIFIER>LIT</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>LIT</OP-CODE>
+         <IDENTIFIER>LIT</IDENTIFIER>
+         <PREFLABEL>Lithuanian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+            <IDENTIFIER>GLE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>GLE</OP-CODE>
+         <IDENTIFIER>GLE</IDENTIFIER>
+         <PREFLABEL>Irish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.MLT.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.MLT.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/MLT</VALUE>
+                     <IDENTIFIER>MLT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>MLT</OP-CODE>
+                  <IDENTIFIER>MLT</IDENTIFIER>
+                  <PREFLABEL>Maltese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verżjoni konsolidata tat-Trattat dwar l-Unjoni Ewropea#PROTOKOLLI#Protokoll (nru 9) dwar id-Deċiżjoni tal-Kunsill dwar l-implimentazzjoni ta' l-Artikolu 16(4) ta-Trattat dwar l-Unjoni Ewropea u l-Artikolu 238(2) tat-Trattat dwar il-funzjonament ta' l-Unjoni Ewropea bejn l-1 ta' novembru 2014 u l-31 ta' marzu 2017 minn naħa waħda, u mill-1 ta' april 2017 min-naħa l-oħra</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.MLT.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.MLT.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.MLT.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.MLT.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0002</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.MLT</VALUE>
+               <IDENTIFIER>12012M/PRO/09.MLT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>12012M/PRO/09</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DEU.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.DEU.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Konsolidierte Fassung des Vertrags über die Europäische Union#PROTOKOLLE#Protokoll (Nr. 9) über den Beschluss des Rates über die Anwendung des Artikels 16 Absatz 4 des Vertrags über die Europäische Union und des Artikels 238 Absatz 2 des des Vertrags über die Arbeitsweise der Europäischen Union zwischen dem 1. November 2014 und dem 31. März 2017 einerseits und ab dem 1. April 2017 andererseits</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DEU.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0007</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.DEU</VALUE>
+               <IDENTIFIER>12012M/PRO/09.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+            <IDENTIFIER>POL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POL</OP-CODE>
+         <IDENTIFIER>POL</IDENTIFIER>
+         <PREFLABEL>Polish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/MLT</VALUE>
+            <IDENTIFIER>MLT</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>MLT</OP-CODE>
+         <IDENTIFIER>MLT</IDENTIFIER>
+         <PREFLABEL>Maltese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Prečiščena različica Pogodbe o Evropski uniji#PROTOKOLI#Protokol (št. 9) o Sklepu Sveta o izvajanju člena 16(4) Pogodbe o Evropski uniji in člena 238(2) Pogodbe o delovanju Evropske unije med 1. novembrom 2014 in 31. marcem 2017 ter od 1. aprila 2017 naprej</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLV.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SLV.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLV.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SLV.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLV</VALUE>
+                     <IDENTIFIER>SLV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLV</OP-CODE>
+                  <IDENTIFIER>SLV</IDENTIFIER>
+                  <PREFLABEL>Slovenian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.SLV.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.SLV.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0023</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0023</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SLV</VALUE>
+               <IDENTIFIER>12012M/PRO/09.SLV</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SPA.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SPA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Versión consolidada del Tratado de la Unión Europea#PROTOCOLOS#Protocolo (n° 9) sobre la Decisión del Consejo relativa a la aplicacion del apartado 4 del articulo 16 del Tratado de la Unión Europea y del apartado 2 del articulo 238 del Tratado de Funcionamiento de la Unión Europea entre el 1 de noviembre de 2014 y el 31 de marzo de 2017, por una parte, y a partir del 1 de abril de 2017, por otra</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SPA.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.SPA.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0016</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.SPA</VALUE>
+               <IDENTIFIER>12012M/PRO/09.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+            <IDENTIFIER>INST</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>INST</OP-CODE>
+         <IDENTIFIER>INST</IDENTIFIER>
+         <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finnish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Geconsolideerde versie van het Verdrag betreffende de Europese Unie#PROTOCOLLEN#Protocol (Nr. 9) inzake het besluit van de raad betreffende de uitvoering van artikel 16, lid 4, van het verdrag betreffende de Europese Unie en artikel 238, lid 2, van het verdrag betreffende de werking van de Europese Unie tussen 1 november 2014 en 31 maart 2017, enerzijds, en vanaf 1 april 2017, anderzijds</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.NLD.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.NLD.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.NLD.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0018</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0018</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.NLD</VALUE>
+               <IDENTIFIER>12012M/PRO/09.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FIN.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.FIN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FIN.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.FIN.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Euroopan unionista tehdyn sopimuksen konsolidoitu toisinto#PÖYTÄKIRJAT#Pöytäkirja (N:o 9) Neuvoston päätöksestä, joka koskee Euroopan unionista tehdyn sopimuksen 16 artiklan 4 kohdan ja Euroopan unionin toiminnasta tehdyn sopimuksen 238 artiklan 2 kohdan täytäntöönpanoa 1 päivän marraskuuta 2014 ja 31 päivän maaliskuuta 2017 välisenä aikana sekä 1 päivästä huhtikuuta 2017 alkaen</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0004</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.FIN</VALUE>
+               <IDENTIFIER>12012M/PRO/09.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Leagan comhdhlúite den Chonradh ar an Aontas Eorpach#PRÓTACAIL#Prótacal (Uimh. 9) a bhaineann leis an gCinneadh ón gComhairle maidir le cur chun feidhme Airteagal 16(4) den Chonradh ar an Aontas Eorpach agus Airteagal 238(2) den Chonradh ar Fheidhmiú an Aontais Eorpaigh idir an 1 Samhain 2014 agus an 31 Márta 2017, de pháirt amháin, agus ón 1 Aibreán 2017 ar aghaidh, den pháirt eile</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+                     <IDENTIFIER>GLE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>GLE</OP-CODE>
+                  <IDENTIFIER>GLE</IDENTIFIER>
+                  <PREFLABEL>Irish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.GLE.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.GLE.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0015</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0015</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.GLE</VALUE>
+               <IDENTIFIER>12012M/PRO/09.GLE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>12012M/PRO/09</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-10-26</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>10</MONTH>
+                  <DAY>26</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:02/04/2014 02:15:06</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Consolidated version of the Treaty on European Union#PROTOCOLS#Protocol (No 9) on the decision of the Council relating to the implementation of Article 16(4) of the Treaty on European Union and Article 238(2) of the Treaty on the Functioning of the European Union between 1 November 2014 and 31 March 2017 on the one hand, and as from 1 April 2017 on the other</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ENG.xhtml</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.print</VALUE>
+                        <IDENTIFIER>12012M/PRO/09.ENG.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2012_326_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0274</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SLV</VALUE>
+            <IDENTIFIER>SLV</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SLV</OP-CODE>
+         <IDENTIFIER>SLV</IDENTIFIER>
+         <PREFLABEL>Slovenian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>M</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>M</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+         <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+            <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Consolidated version of the Treaty on European Union#PROTOCOLS#Protocol (No 9) on the decision of the Council relating to the implementation of Article 16(4) of the Treaty on European Union and Article 238(2) of the Treaty on the Functioning of the European Union between 1 November 2014 and 31 March 2017 on the one hand, and as from 1 April 2017 on the other</VALUE>
+      </EXPRESSION_TITLE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09</VALUE>
+               <IDENTIFIER>12012M/PRO/09</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2012/pro_9/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2012:pro_9:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG.xhtml</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.01</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.print</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>Consolidated version of the Treaty on European Union#PROTOCOLS#Protocol (No 9) on the decision of the Council relating to the implementation of Article 16(4) of the Treaty on European Union and Article 238(2) of the Treaty on the Functioning of the European Union between 1 November 2014 and 31 March 2017 on the one hand, and as from 1 April 2017 on the other</VALUE>
+      </TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-07T08:54:30.407+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>07</DAY>
+      </LASTMODIFICATIONDATE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="xhtml">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</VALUE>
+         <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml</VALUE>
+            <IDENTIFIER>12012M/PRO/09.ENG.xhtml</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02/DOC_1</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml.C_2012326EN.01000101.doc.html</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG.xhtml.C_2012326EN.01000101.doc.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_NAME type="data">
+               <VALUE>C_2012326EN.01000101.doc.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>5157</VALUE>
+            </STREAM_SIZE>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-12012M/PRO/09.ENG.xhtml.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</VALUE>
+               <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml</VALUE>
+                  <IDENTIFIER>12012M/PRO/09.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</VALUE>
+               <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.xhtml</VALUE>
+                  <IDENTIFIER>12012M/PRO/09.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-07T08:54:30.407+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>07</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>PROVIDED</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>xhtml</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <TYPE>xhtml</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="xhtml"/>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.01</VALUE>
+         <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG.print</VALUE>
+            <IDENTIFIER>12012M/PRO/09.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-02T11:33:41.799+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>02</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0274</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <PAGE_LAST type="data">
+         <VALUE>0274</VALUE>
+      </PAGE_LAST>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <PAGE_FIRST type="data">
+         <VALUE>0274</VALUE>
+      </PAGE_FIRST>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</VALUE>
+            <IDENTIFIER>23f41845-95d4-4fd9-a5fb-d9bbf0d69b06.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12012M%2FPRO%2F09.ENG</VALUE>
+               <IDENTIFIER>12012M/PRO/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e7d644d3-1e8c-11e2-91ce-01aa75ed71a1.0001.03</VALUE>
+            <IDENTIFIER>e7d644d3-1e8c-11e2-91ce-01aa75ed71a1.0001.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2012.326.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2012.326.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2012_326_R.ENG.print</VALUE>
+               <IDENTIFIER>JOC_2012_326_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0274</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+</NOTICE>

@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148</VALUE>
+         <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09</VALUE>
+            <IDENTIFIER>11965F/PRO/PRI/09</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/fusion/pro_1/art_9/sign</VALUE>
+            <IDENTIFIER>treaty:fusion:pro_1:art_9:sign</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </BASED_ON>
+      <TREATY_NAME type="data">
+         <VALUE>fusion</VALUE>
+      </TREATY_NAME>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1965-04-08</VALUE>
+         <YEAR>1965</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>08</DAY>
+      </WORK_DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.NLD.print</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.NLD.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERDRAG TOT INSTELLING VAN EEN RAAD EN EEN COMMISSIE WELKE DE EUROPESE GEMEENSCHAPPEN GEMEEN HEBBEN, PROTOCOL BETREFFENDE DE VOORRECHTEN EN IMMUNITEITEN VAN DE EUROPESE GEMEENSCHAPPEN, HOOFDSTUK III: LEDEN VAN DE VERGADERING, ARTIKEL 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0014</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1967_152_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1967_152_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0004</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.NLD</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.FIN.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Sopimus Euroopan yhteisöjen yhteisen neuvoston ja yhteisen komission perustamisesta - Pöytäkirja Euroopan yhteisöjen erioikeuksista ja vapauksista - III luku - Euroopan parlamentin jäsenet - 9 artikla</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0010</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.FIN</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/PROTOCOLE</VALUE>
+            <IDENTIFIER>PROTOCOLE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>PROTOCOLE</OP-CODE>
+         <IDENTIFIER>PROTOCOLE</IDENTIFIER>
+         <PREFLABEL>Protocol</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/1b280d37-4399-4e34-9efe-eecd4a87f493</VALUE>
+            <IDENTIFIER>1b280d37-4399-4e34-9efe-eecd4a87f493</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A204</VALUE>
+               <IDENTIFIER>11957A204</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_204/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_204:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.DEU.print</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERTRAG ZUR EINSETZUNG EINES GEMEINSAMEN RATES UND EINER GEMEINSAMEN KOMMISSION DER EUROPAEISCHEN GEMEINSCHAFTEN, PROTOKOLL UEBER DIE VORRECHTE UND BEFREIUNGEN DER EUROPAEISCHEN GEMEINSCHAFTEN, KAPITEL III: MITGLIEDER DER VERSAMMLUNG, ARTIKEL 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.DEU.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0014</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1967_152_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1967_152_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0002</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.DEU</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>1967-07-01</VALUE>
+         <YEAR>1967</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/814838a0-7850-4998-ab22-e77826badff8</VALUE>
+            <IDENTIFIER>814838a0-7850-4998-ab22-e77826badff8</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E236</VALUE>
+               <IDENTIFIER>11957E236</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_236/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_236:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAKTAT OM OPRETTELSE AF ET FAELLES RAAD OG EN FAELLES KOMMISSION FOR DE EUROPAEISKE FAELLESSKABER, PROTOKOL VEDROERENDE DE EUROPAEISKE FAELLESSKABERS PRIVILEGIER OG IMMUNITETER, KAPITEL III: MEDLEMMER AF FORSAMLINGEN, ARTIKEL 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.DAN.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0005</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.DAN</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <IDENTIFIER type="data">
+         <VALUE>10386</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/89b3b5b7-e861-4de6-b92c-7c280ca6d6fb</VALUE>
+            <IDENTIFIER>89b3b5b7-e861-4de6-b92c-7c280ca6d6fb</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_0002_004</VALUE>
+               <IDENTIFIER>JOP_1967_152_0002_004</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FTXT</VALUE>
+               <IDENTIFIER>11965F/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/fusion/sign</VALUE>
+               <IDENTIFIER>treaty:fusion:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.FRA.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.FRA.print</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAITE INSTITUANT UN CONSEIL UNIQUE ET UNE COMMISSION UNIQUE DES COMMUNAUTES EUROPEENNES, PROTOCOLE SUR LES PRIVILEGES ET IMMUNITES DES COMMUNAUTES EUROPEENNES, CHAPITRE III: MEMBRES DE L' ASSEMBLEE, ARTICLE 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0014</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1967_152_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1967_152_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0001</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.FRA</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/fusion/pro_1/art_9/sign</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11965F/PRO/PRI/09</VALUE>
+      </WORK_ID_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE>11965F/PRO/PRI/09</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>F</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.SWE.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Fördraget om upprättandet av ett gemensamt råd och en gemensam kommission för Europeiska gemenskaperna - Protokoll om Europeiska gemenskapernas immunitet och privilegier - Kapital III - Europaparlamentets ledamöter - Artikel 9</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0011</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.SWE</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/1b280d37-4399-4e34-9efe-eecd4a87f493</VALUE>
+            <IDENTIFIER>1b280d37-4399-4e34-9efe-eecd4a87f493</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A204</VALUE>
+               <IDENTIFIER>11957A204</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_204/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_204:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/da490378-9fee-4c48-9458-80e80c54cad1</VALUE>
+            <IDENTIFIER>da490378-9fee-4c48-9458-80e80c54cad1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/62007CA0200</VALUE>
+               <IDENTIFIER>62007CA0200</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_313_R_0006_01</VALUE>
+               <IDENTIFIER>JOC_2008_313_R_0006_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:23/07/2014 16:16:08</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>AJ</TYPE_OF_LINK_TARGET>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/814838a0-7850-4998-ab22-e77826badff8</VALUE>
+            <IDENTIFIER>814838a0-7850-4998-ab22-e77826badff8</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E236</VALUE>
+               <IDENTIFIER>11957E236</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_236/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_236:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/fusion/pro_1/art_9/sign</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1967-07-01</VALUE>
+         <YEAR>1967</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 16:59:54</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {165F038|http://publications.europa.eu/resource/celex/11965F038} {;|http://publications.europa.eu/resource/authority/fd_335/%3B} {JO|http://publications.europa.eu/resource/authority/fd_335/JO} {L|http://publications.europa.eu/resource/authority/fd_335/L} 152/67 {P|http://publications.europa.eu/resource/authority/fd_335/P} 1</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TREATY ESTABLISHING A SINGLE COUNCIL AND A SINGLE COMMISSION OF THE EUROPEAN COMMUNITIES, PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE EUROPEAN COMMUNITIES, CHAPTER III: MEMBERS OF THE ASSEMBLY, ARTICLE 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS6</VALUE>
+            <IDENTIFIER>EUMS6</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS6</OP-CODE>
+         <IDENTIFIER>EUMS6</IDENTIFIER>
+         <PREFLABEL>The six Member States: Belgium, Germany, France, Italy, Luxembourg, Netherlands</PREFLABEL>
+      </CREATED_BY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/fusion/pro_1/art_9/sign</VALUE>
+      </ELI>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/57e646bc-73df-4e53-bd15-59684bf8d0e3</VALUE>
+            <IDENTIFIER>57e646bc-73df-4e53-bd15-59684bf8d0e3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_96/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_96:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K096</VALUE>
+               <IDENTIFIER>11951K096</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <DATE type="date">
+         <VALUE>1965-04-08</VALUE>
+         <YEAR>1965</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>08</DAY>
+      </DATE>
+      <ID_CELEX type="data">
+         <VALUE>11965F/PRO/PRI/09</VALUE>
+      </ID_CELEX>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado por el que se contituye un Consejo unico y una Comision unica de las Comunidades Europeas, Protocolo sobre los privilegios e inmunidades de las Comunidades Europeas, Capitulo III: Miembros del Parlamento Europeo, Articulo 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.SPA.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0008</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.SPA</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1967-07-13</VALUE>
+                  <YEAR>1967</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Protocole sur les privilèges et immunités des Communautés européennes</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b"/>
+            <MANIFESTATION manifestation-type="html"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOP_1967_152_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0016</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0013</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/44427997-6258-4dba-b288-eac9cb453e5f</VALUE>
+            <IDENTIFIER>44427997-6258-4dba-b288-eac9cb453e5f</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_0013_005</VALUE>
+               <IDENTIFIER>JOP_1967_152_0013_005</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1967-07-13</VALUE>
+                  <YEAR>1967</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1967</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1967-07-13</VALUE>
+                  <YEAR>1967</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>13</DAY>
+               </DATE_PUBLICATION>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>152</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-P</VALUE>
+                     <IDENTIFIER>OJ-P</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-P</OP-CODE>
+                  <IDENTIFIER>OJ-P</IDENTIFIER>
+                  <PREFLABEL>OJ-P</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Journal officiel des Communautés européennes, P 152, 13 juillet 1967</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOP_1967_152_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_R.FRA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOP_1967_152_R.FRA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5e532f11-4c9d-4ee4-91b0-42ddf9ba88dc</VALUE>
+            <IDENTIFIER>5e532f11-4c9d-4ee4-91b0-42ddf9ba88dc</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_R</VALUE>
+               <IDENTIFIER>JOP_1967_152_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado que institui um Conselho único e uma Comissão única das Comunidades Europeias, 2 - Protocolo relativo aos Privilégios e Imunidades das Comunidades Europeias, Capítulo III - Membros do Parlamento Europeu, Artigo 9°.</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.POR.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0009</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.POR</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη περί ιδρύσεως ενιαίου Συμβουλίου και ενιαίας Επιτροπής των Ευρωπαϊκών Κοινοτήτων, Πρωτόκολλο περί των προνομίων και ασυλιών των Ευρωπαϊκών Κοινοτήτων, Κεφάλαιο ΙΙΙ: Μέλη της συνελεύσεως, Άρθρο 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ELL.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0007</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ELL</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0fc8a0d2-b6fd-4419-aaf1-ae982d1c8966</VALUE>
+            <IDENTIFIER>0fc8a0d2-b6fd-4419-aaf1-ae982d1c8966</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F028</VALUE>
+               <IDENTIFIER>11965F028</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/fusion/art_28/sign</VALUE>
+               <IDENTIFIER>treaty:fusion:art_28:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11965F/PRO/PRI/09</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11965F/PRO/PRI/09</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+               <IDENTIFIER>INST</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>INST</OP-CODE>
+            <IDENTIFIER>INST</IDENTIFIER>
+            <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2020-11-30T17:06:00.597+01:00</VALUE>
+         <YEAR>2020</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>30</DAY>
+      </LASTMODIFICATIONDATE>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+            <IDENTIFIER>PROT</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>PROT</OP-CODE>
+         <IDENTIFIER>PROT</IDENTIFIER>
+         <PREFLABEL>Protocol</PREFLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1965-04-08</VALUE>
+         <YEAR>1965</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>08</DAY>
+      </DATE_CREATION_LEGACY>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/57e646bc-73df-4e53-bd15-59684bf8d0e3</VALUE>
+            <IDENTIFIER>57e646bc-73df-4e53-bd15-59684bf8d0e3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_96/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_96:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K096</VALUE>
+               <IDENTIFIER>11951K096</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS6</VALUE>
+            <IDENTIFIER>EUMS6</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS6</OP-CODE>
+         <IDENTIFIER>EUMS6</IDENTIFIER>
+         <PREFLABEL>The six Member States: Belgium, Germany, France, Italy, Luxembourg, Netherlands</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1965-04-08</VALUE>
+                  <YEAR>1965</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>08</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>F</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11965F/PRO/PRI/09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Protocol</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ITA.print</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRATTATO CHE ISTITUISCE UN CONSIGLIO UNICO ED UNA COMMISSIONE UNICA DELLE COMUNITA EUROPEE, PROTOCOLLO SUI PRIVILEGI E SULLE IMMUNITA DELLE COMUNITA EUROPEE, CAPO III: MEMBRI DELL' ASSEMBLEA, ARTICOLO 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ITA.html</VALUE>
+                        <IDENTIFIER>11965F/PRO/PRI/09.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0014</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1967_152_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1967_152_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0003</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ITA</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/ab68c92d-6cc6-4dac-be96-b379258353e6</VALUE>
+            <IDENTIFIER>ab68c92d-6cc6-4dac-be96-b379258353e6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/62007CJ0200</VALUE>
+               <IDENTIFIER>62007CJ0200</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/ecli/ECLI%3AEU%3AC%3A2008%3A579</VALUE>
+               <IDENTIFIER>ECLI:EU:C:2008:579</IDENTIFIER>
+               <TYPE>ecli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <IDENTIFIER type="data">
+         <VALUE>/PRO/PRI/09</VALUE>
+      </IDENTIFIER>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+            <IDENTIFIER>INST</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>INST</OP-CODE>
+         <IDENTIFIER>INST</IDENTIFIER>
+         <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+      </IS_ABOUT>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1965-04-08</VALUE>
+         <YEAR>1965</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>08</DAY>
+      </DATE_DOCUMENT>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>F</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1967-07-13</VALUE>
+                  <YEAR>1967</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Protocole sur les privilèges et immunités des Communautés européennes</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b"/>
+            <MANIFESTATION manifestation-type="html"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOP_1967_152_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0016</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0013</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/44427997-6258-4dba-b288-eac9cb453e5f</VALUE>
+            <IDENTIFIER>44427997-6258-4dba-b288-eac9cb453e5f</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOP_1967_152_0013_005</VALUE>
+               <IDENTIFIER>JOP_1967_152_0013_005</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+      <RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/ab68c92d-6cc6-4dac-be96-b379258353e6</VALUE>
+            <IDENTIFIER>ab68c92d-6cc6-4dac-be96-b379258353e6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/62007CJ0200</VALUE>
+               <IDENTIFIER>62007CJ0200</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/ecli/ECLI%3AEU%3AC%3A2008%3A579</VALUE>
+               <IDENTIFIER>ECLI:EU:C:2008:579</IDENTIFIER>
+               <TYPE>ecli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW>
+      <RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/da490378-9fee-4c48-9458-80e80c54cad1</VALUE>
+            <IDENTIFIER>da490378-9fee-4c48-9458-80e80c54cad1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/62007CA0200</VALUE>
+               <IDENTIFIER>62007CA0200</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2008_313_R_0006_01</VALUE>
+               <IDENTIFIER>JOC_2008_313_R_0006_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>AJ</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:23/07/2014 16:16:08</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</VALUE>
+         <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG</VALUE>
+            <IDENTIFIER>11965F/PRO/PRI/09.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-07-01T07:21:10.063+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>01</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>TREATY ESTABLISHING A SINGLE COUNCIL AND A SINGLE COMMISSION OF THE EUROPEAN COMMUNITIES, PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE EUROPEAN COMMUNITIES, CHAPTER III: MEMBERS OF THE ASSEMBLY, ARTICLE 9</VALUE>
+      </EXPRESSION_TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <TITLE type="data">
+         <VALUE>TREATY ESTABLISHING A SINGLE COUNCIL AND A SINGLE COMMISSION OF THE EUROPEAN COMMUNITIES, PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE EUROPEAN COMMUNITIES, CHAPTER III: MEMBERS OF THE ASSEMBLY, ARTICLE 9</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/fusion/pro_1/art_9/sign</VALUE>
+               <IDENTIFIER>treaty:fusion:pro_1:art_9:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</VALUE>
+         <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html</VALUE>
+            <IDENTIFIER>11965F/PRO/PRI/09.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-01T21:30:50.315+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>01</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01/DOC_1</VALUE>
+            <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html.11965F_PRO_PRI_09en.html</VALUE>
+               <IDENTIFIER>11965F/PRO/PRI/09.ENG.html.11965F_PRO_PRI_09en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>11965F_PRO_PRI_09en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11965F/PRO/PRI/09.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_SIZE type="data">
+               <VALUE>2020</VALUE>
+            </STREAM_SIZE>
+         </TECHMD>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</VALUE>
+               <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html</VALUE>
+                  <IDENTIFIER>11965F/PRO/PRI/09.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</VALUE>
+               <IDENTIFIER>83747c6a-ceb1-42ea-9348-e6b71d6af148.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11965F%2FPRO%2FPRI%2F09.ENG.html</VALUE>
+                  <IDENTIFIER>11965F/PRO/PRI/09.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

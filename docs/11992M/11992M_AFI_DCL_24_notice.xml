@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59</VALUE>
+         <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/teu/fna_1/dcl_24/sign</VALUE>
+            <IDENTIFIER>treaty:teu:fna_1:dcl_24:sign</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24</VALUE>
+            <IDENTIFIER>11992M/AFI/DCL/24</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Fördraget om Europeiska unionen - Förklaring (nr 24) om djurskydd</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.SWE.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0011</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.SWE</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2018-12-20T20:48:56.776+01:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>20</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+               <IDENTIFIER>DGEN</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>DGEN</OP-CODE>
+            <IDENTIFIER>DGEN</IDENTIFIER>
+            <PREFLABEL>General provisions</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.FRA.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traité sur l'Union européenne - Déclaration relative à la protection des animaux</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0001</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.FRA</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.FRA</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11992M/AFI/DCL/24</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {JO|http://publications.europa.eu/resource/authority/fd_335/JO} {L|http://publications.europa.eu/resource/authority/fd_335/L} 93/293 {P|http://publications.europa.eu/resource/authority/fd_335/P} 61</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:16/12/2014 16:29:50</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.DAN.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traktat om Den Europæiske Union - Erklæring om dyrebeskyttelse</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0005</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.DAN</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.DAN</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.POR.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado da União Europeia - Declaração relativa a protecção dos animais</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0009</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.POR</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.POR</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1992-07-29</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>29</DAY>
+      </DATE_CREATION_LEGACY>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu/fna_1/dcl_24/sign</VALUE>
+      </ELI>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+            <IDENTIFIER>DECLAR</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>DECLAR</OP-CODE>
+         <IDENTIFIER>DECLAR</IDENTIFIER>
+         <PREFLABEL>Declaration</PREFLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>/AFI/DCL/24</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+               <IDENTIFIER>AGRI</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>AGRI</OP-CODE>
+            <IDENTIFIER>AGRI</IDENTIFIER>
+            <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Vertrag über die Europäische Union - Erklärung zum Tierschutz</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.DEU.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0002</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.DEU</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.DEU</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+      </WORK_DATE_DOCUMENT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>11992M/AFI/DCL/24</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη για την Ευρωπαϊκή Ένωση - Δήλωση σχετικά με την προστασία των ζώων</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ELL.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0007</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ELL</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ELL</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+      </DATE>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/433f7aeb-00a2-49a6-bbbf-9cd6859a4cd1</VALUE>
+            <IDENTIFIER>433f7aeb-00a2-49a6-bbbf-9cd6859a4cd1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FTXT</VALUE>
+               <IDENTIFIER>11992M/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1992_191_R_0001_01</VALUE>
+               <IDENTIFIER>JOC_1992_191_R_0001_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu/sign</VALUE>
+               <IDENTIFIER>treaty:teu:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+               <IDENTIFIER>VETE</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>VETE</OP-CODE>
+            <IDENTIFIER>VETE</IDENTIFIER>
+            <PREFLABEL>Veterinary legislation</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.SPA.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de la Unión Europea - Declaración relativa a la protección de los animales</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0008</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.SPA</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.SPA</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>12395</VALUE>
+      </IDENTIFIER>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+      </DATE_DOCUMENT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11992M/AFI/DCL/24</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+            <IDENTIFIER>DGEN</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>DGEN</OP-CODE>
+         <IDENTIFIER>DGEN</IDENTIFIER>
+         <PREFLABEL>General provisions</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Sopimus Euroopan unionista - Julistus eläinsuojelusta</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.FIN.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0010</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.FIN</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>M</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.NLD.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verdrag betreffende de Europese Unie - Verklaring betreffende de bescherming van dieren</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0004</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.NLD</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.NLD</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <DATE type="date">
+         <VALUE>1992-07-29</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>29</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1992</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>191</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1992-07-29</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>29</DAY>
+               </DATE_PUBLICATION>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-07-29</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>29</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 191, 29 July 1992</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1992_191_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1992_191_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1992_191_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1992_191_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/769ed8bf-5994-4cb0-bd8e-41bbcba26f7b</VALUE>
+            <IDENTIFIER>769ed8bf-5994-4cb0-bd8e-41bbcba26f7b</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1992_191_R</VALUE>
+               <IDENTIFIER>JOC_1992_191_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <DATE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <TREATY_NAME type="data">
+         <VALUE>teu</VALUE>
+      </TREATY_NAME>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu/fna_1/dcl_24/sign</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty on European Union - Declaration on the protection of animals</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/DGEN</VALUE>
+                        <IDENTIFIER>DGEN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>DGEN</OP-CODE>
+                     <IDENTIFIER>DGEN</IDENTIFIER>
+                     <PREFLABEL>General provisions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DECLAR</VALUE>
+                     <IDENTIFIER>DECLAR</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DECLAR</OP-CODE>
+                  <IDENTIFIER>DECLAR</IDENTIFIER>
+                  <PREFLABEL>Declaration</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1992-02-07</VALUE>
+                  <YEAR>1992</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>07</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+                        <IDENTIFIER>VETE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>VETE</OP-CODE>
+                     <IDENTIFIER>VETE</IDENTIFIER>
+                     <PREFLABEL>Veterinary legislation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>11992M/AFI/DCL/24</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ITA.html</VALUE>
+                        <IDENTIFIER>11992M/AFI/DCL/24.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Trattato sull'Unione europea - Dichiarazione sulla protezione degli animali</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0003</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ITA</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ITA</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu/fna_1/dcl_24/sign</VALUE>
+      </IDENTIFIER>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/AGRI</VALUE>
+            <IDENTIFIER>AGRI</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>AGRI</OP-CODE>
+         <IDENTIFIER>AGRI</IDENTIFIER>
+         <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+      </IS_ABOUT>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/VETE</VALUE>
+            <IDENTIFIER>VETE</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>VETE</OP-CODE>
+         <IDENTIFIER>VETE</IDENTIFIER>
+         <PREFLABEL>Veterinary legislation</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11992M/AFI/DCL/24</VALUE>
+      </WORK_ID_DOCUMENT>
+      <ID_CELEX type="data">
+         <VALUE>11992M/AFI/DCL/24</VALUE>
+      </ID_CELEX>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/DECLARATION</VALUE>
+            <IDENTIFIER>DECLARATION</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>DECLARATION</OP-CODE>
+         <IDENTIFIER>DECLARATION</IDENTIFIER>
+         <PREFLABEL>Declaration</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>M</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006</VALUE>
+         <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ENG</VALUE>
+            <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG</VALUE>
+            <IDENTIFIER>11992M/AFI/DCL/24.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <TITLE type="data">
+         <VALUE>Treaty on European Union - Declaration on the protection of animals</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu/fna_1/dcl_24/sign</VALUE>
+               <IDENTIFIER>treaty:teu:fna_1:dcl_24:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-12-17T11:41:14.185+01:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>17</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Treaty on European Union - Declaration on the protection of animals</VALUE>
+      </EXPRESSION_TITLE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</VALUE>
+         <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html</VALUE>
+            <IDENTIFIER>11992M/AFI/DCL/24.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-10T20:15:14.134+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>10</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006.01/DOC_1</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html.11992M_AFI_DCL_24en.html</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ENG.html.11992M_AFI_DCL_24en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>11992M_AFI_DCL_24en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_SIZE type="data">
+               <VALUE>1897</VALUE>
+            </STREAM_SIZE>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11992M/AFI/DCL/24.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</VALUE>
+               <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html</VALUE>
+                  <IDENTIFIER>11992M/AFI/DCL/24.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</VALUE>
+               <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG.html</VALUE>
+                  <IDENTIFIER>11992M/AFI/DCL/24.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9cc21099-7068-4f8c-b654-37951cad9f59.0006</VALUE>
+            <IDENTIFIER>9cc21099-7068-4f8c-b654-37951cad9f59.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1992.191.01.0103.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1992.191.01.0103.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11992M%2FAFI%2FDCL%2F24.ENG</VALUE>
+               <IDENTIFIER>11992M/AFI/DCL/24.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

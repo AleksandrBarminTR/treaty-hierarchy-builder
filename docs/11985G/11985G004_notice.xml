@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e</VALUE>
+         <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985G004</VALUE>
+            <IDENTIFIER>11985G004</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/tgreenl/art_4/sign</VALUE>
+            <IDENTIFIER>treaty:tgreenl:art_4:sign</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <IDENTIFIER type="data">
+         <VALUE>11073</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <TREATY_NAME type="data">
+         <VALUE>tgreenl</VALUE>
+      </TREATY_NAME>
+      <IDENTIFIER type="data">
+         <VALUE>004</VALUE>
+      </IDENTIFIER>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+            <IDENTIFIER>PTOM</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>PTOM</OP-CODE>
+         <IDENTIFIER>PTOM</IDENTIFIER>
+         <PREFLABEL>Overseas countries and territories</PREFLABEL>
+      </IS_ABOUT>
+      <DATE type="date">
+         <VALUE>1985-02-01</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/tgreenl/art_4/sign</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/9b26fbed-8ea4-4dc8-9207-d47ef764a42c</VALUE>
+            <IDENTIFIER>9b26fbed-8ea4-4dc8-9207-d47ef764a42c</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/tgreenl/sign</VALUE>
+               <IDENTIFIER>treaty:tgreenl:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G%2FTXT</VALUE>
+               <IDENTIFIER>11985G/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </BASED_ON>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+               <IDENTIFIER>PTOM</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>PTOM</OP-CODE>
+            <IDENTIFIER>PTOM</IDENTIFIER>
+            <PREFLABEL>Overseas countries and territories</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-L</VALUE>
+                     <IDENTIFIER>OJ-L</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-L</OP-CODE>
+                  <IDENTIFIER>OJ-L</IDENTIFIER>
+                  <PREFLABEL>OJ-L</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>029</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1985-02-01</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>01</DAY>
+               </DATE_PUBLICATION>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-02-01</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>01</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, L 29, 1 February 1985</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d300520d-1a96-43f2-ab6c-0fd8bccb3737</VALUE>
+            <IDENTIFIER>d300520d-1a96-43f2-ab6c-0fd8bccb3737</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R</VALUE>
+               <IDENTIFIER>JOL_1985_029_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/tgreenl/art_4/sign</VALUE>
+      </ELI>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11985G004</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-02-01</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>01</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty amending, with regard to Greenland, the Treaties establishing the European Communities #Protocol on special arrangements for Greenland</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html"/>
+            <MANIFESTATION manifestation-type="pdfa1b"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0001</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0007</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f1f4a405-276c-4cc1-ac03-710fea8c3565</VALUE>
+            <IDENTIFIER>f1f4a405-276c-4cc1-ac03-710fea8c3565</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R_0001_005</VALUE>
+               <IDENTIFIER>JOL_1985_029_R_0001_005</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/57e646bc-73df-4e53-bd15-59684bf8d0e3</VALUE>
+            <IDENTIFIER>57e646bc-73df-4e53-bd15-59684bf8d0e3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_96/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_96:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K096</VALUE>
+               <IDENTIFIER>11951K096</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/57e646bc-73df-4e53-bd15-59684bf8d0e3</VALUE>
+            <IDENTIFIER>57e646bc-73df-4e53-bd15-59684bf8d0e3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_96/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_96:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K096</VALUE>
+               <IDENTIFIER>11951K096</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ITA.html</VALUE>
+                        <IDENTIFIER>11985G004.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ITA.print</VALUE>
+                        <IDENTIFIER>11985G004.ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRATTATO CHE MODIFICA I TRATTATI CHE ISTITUISCONO LE COMUNITA EUROPEE PER QUANTO RIGUARDA LA GROENLANDIA, ARTICOLO 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0003</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ITA</VALUE>
+               <IDENTIFIER>11985G004.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERTRAG ZUR AENDERUNG DER VERTRAEGE ZUR GRUENDUNG DER EUROPAEISCHEN GEMEINSCHAFTEN BEZUEGLICH GROENLANDS, ARTIKEL 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.DEU.html</VALUE>
+                        <IDENTIFIER>11985G004.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.DEU.print</VALUE>
+                        <IDENTIFIER>11985G004.DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0002</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.DEU</VALUE>
+               <IDENTIFIER>11985G004.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1984-03-13</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </WORK_DATE_DOCUMENT>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1984-03-13</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </DATE_CREATION_LEGACY>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </BASED_ON>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11985G004</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <DATE type="date">
+         <VALUE>1984-03-13</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/1b280d37-4399-4e34-9efe-eecd4a87f493</VALUE>
+            <IDENTIFIER>1b280d37-4399-4e34-9efe-eecd4a87f493</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A204</VALUE>
+               <IDENTIFIER>11957A204</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_204/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_204:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1985-02-01</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:30/06/2014 11:07:35</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 6</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/1b280d37-4399-4e34-9efe-eecd4a87f493</VALUE>
+            <IDENTIFIER>1b280d37-4399-4e34-9efe-eecd4a87f493</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A204</VALUE>
+               <IDENTIFIER>11957A204</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_204/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_204:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη για την τροποποίηση των συνθηκών για την ίδρυση των Ευρωπαϊκών Κοινοτήτων όσον αφορά τη Γροιλανδία, Άρθρο 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ELL.print</VALUE>
+                        <IDENTIFIER>11985G004.ELL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ELL.html</VALUE>
+                        <IDENTIFIER>11985G004.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0007</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ELL</VALUE>
+               <IDENTIFIER>11985G004.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2019-01-25T14:18:09.782+01:00</VALUE>
+         <YEAR>2019</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>25</DAY>
+      </LASTMODIFICATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAKTAT OM AENDRING AF TRAKTATERNE OM OPRETTELSE AF DE EUROPAEISKE FAELLESSKABER FOR SAA VIDT ANGAAR GROENLAND, ARTIKEL 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.DAN.print</VALUE>
+                        <IDENTIFIER>11985G004.DAN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.DAN.html</VALUE>
+                        <IDENTIFIER>11985G004.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0005</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.DAN</VALUE>
+               <IDENTIFIER>11985G004.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS10</VALUE>
+            <IDENTIFIER>EUMS10</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS10</OP-CODE>
+         <IDENTIFIER>EUMS10</IDENTIFIER>
+         <PREFLABEL>The ten Member States: Belgium, Denmark, Germany, Ireland, Greece, France, Italy, Luxembourg, Netherlands, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.NLD.html</VALUE>
+                        <IDENTIFIER>11985G004.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERDRAG HOUDENDE WIJZIGING VAN DE VERDRAGEN TOT OPRICHTING VAN DE EUROPESE GEMEENSCHAPPEN VOOR WAT GROENLAND BETREFT, ARTIKEL 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.NLD.print</VALUE>
+                        <IDENTIFIER>11985G004.NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0004</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.NLD</VALUE>
+               <IDENTIFIER>11985G004.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.SPA.html</VALUE>
+                        <IDENTIFIER>11985G004.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado por el que se modifican los Tratados constitutivos de las Comunidades Europeas en lo respecta a Groenlandia, Articulo 4</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0008</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.SPA</VALUE>
+               <IDENTIFIER>11985G004.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/814838a0-7850-4998-ab22-e77826badff8</VALUE>
+            <IDENTIFIER>814838a0-7850-4998-ab22-e77826badff8</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E236</VALUE>
+               <IDENTIFIER>11957E236</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_236/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_236:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1984-03-13</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </DATE_DOCUMENT>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/814838a0-7850-4998-ab22-e77826badff8</VALUE>
+            <IDENTIFIER>814838a0-7850-4998-ab22-e77826badff8</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E236</VALUE>
+               <IDENTIFIER>11957E236</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_236/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_236:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11985G004</VALUE>
+      </IDENTIFIER>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS10</VALUE>
+            <IDENTIFIER>EUMS10</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS10</OP-CODE>
+         <IDENTIFIER>EUMS10</IDENTIFIER>
+         <PREFLABEL>The ten Member States: Belgium, Denmark, Germany, Ireland, Greece, France, Italy, Luxembourg, Netherlands, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.FRA.html</VALUE>
+                        <IDENTIFIER>11985G004.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAITE MODIFIANT LES TRAITES INSTITUANT LES COMMUNAUTES EUROPEENNES EN CE QUI CONCERNE LE GROENLAND ARTICLE 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.FRA.print</VALUE>
+                        <IDENTIFIER>11985G004.FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0001</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.FRA</VALUE>
+               <IDENTIFIER>11985G004.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_CELEX type="data">
+         <VALUE>11985G004</VALUE>
+      </ID_CELEX>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado que altera os Tratados que instituem as Comunidades Europeias no que respeita à Gronelândia, Texto do Tratado, Artigo 4°.</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.POR.html</VALUE>
+                        <IDENTIFIER>11985G004.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0009</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.POR</VALUE>
+               <IDENTIFIER>11985G004.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>11985G004</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d568cd41-922d-451c-93a8-0c6f9ba184ca</VALUE>
+            <IDENTIFIER>d568cd41-922d-451c-93a8-0c6f9ba184ca</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957EN04</VALUE>
+               <IDENTIFIER>11957EN04</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:30/06/2014 11:07:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <ROLE2>{C|http://publications.europa.eu/resource/authority/fd_375/C}</ROLE2>
+            <START_OF_VALIDITY>1985-02-01</START_OF_VALIDITY>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/tgreenl/art_4/sign</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PTOM</VALUE>
+                        <IDENTIFIER>PTOM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PTOM</OP-CODE>
+                     <IDENTIFIER>PTOM</IDENTIFIER>
+                     <PREFLABEL>Overseas countries and territories</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-03-13</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11985G004</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>G</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TREATY AMENDING, WITH REGARD TO GREENLAND, THE TREATIES ESTABLISHING THE EUROPEAN COMMUNITIES, ARTICLE 4</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html</VALUE>
+                        <IDENTIFIER>11985G004.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.print</VALUE>
+                        <IDENTIFIER>11985G004.ENG.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+               <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>G</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>G</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-02-01</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>01</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty amending, with regard to Greenland, the Treaties establishing the European Communities #Protocol on special arrangements for Greenland</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html"/>
+            <MANIFESTATION manifestation-type="pdfa1b"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0001</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0007</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_029_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f1f4a405-276c-4cc1-ac03-710fea8c3565</VALUE>
+            <IDENTIFIER>f1f4a405-276c-4cc1-ac03-710fea8c3565</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R_0001_005</VALUE>
+               <IDENTIFIER>JOL_1985_029_R_0001_005</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+         <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+            <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004</VALUE>
+               <IDENTIFIER>11985G004</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/tgreenl/art_4/sign</VALUE>
+               <IDENTIFIER>treaty:tgreenl:art_4:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>TREATY AMENDING, WITH REGARD TO GREENLAND, THE TREATIES ESTABLISHING THE EUROPEAN COMMUNITIES, ARTICLE 4</VALUE>
+      </EXPRESSION_TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-07-03T09:28:29.171+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>03</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html</VALUE>
+               <IDENTIFIER>11985G004.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>TREATY AMENDING, WITH REGARD TO GREENLAND, THE TREATIES ESTABLISHING THE EUROPEAN COMMUNITIES, ARTICLE 4</VALUE>
+      </TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.02</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.print</VALUE>
+               <IDENTIFIER>11985G004.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.02</VALUE>
+         <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.print</VALUE>
+            <IDENTIFIER>11985G004.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-06-12T20:17:20.705+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>12</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+               <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d300520d-1a96-43f2-ab6c-0fd8bccb3737.0004.02</VALUE>
+            <IDENTIFIER>d300520d-1a96-43f2-ab6c-0fd8bccb3737.0004.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.029.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1985.029.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.029.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1985.029.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_029_R.ENG.print</VALUE>
+               <IDENTIFIER>JOL_1985_029_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+               <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <PAGE_LAST type="data">
+         <VALUE/>
+      </PAGE_LAST>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE/>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE/>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</VALUE>
+         <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html</VALUE>
+            <IDENTIFIER>11985G004.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+               <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01/DOC_1</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html.11985G004en.html</VALUE>
+               <IDENTIFIER>11985G004.ENG.html.11985G004en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11985G004.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_NAME type="data">
+               <VALUE>11985G004en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_SIZE type="data">
+               <VALUE>1687</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</VALUE>
+               <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html</VALUE>
+                  <IDENTIFIER>11985G004.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</VALUE>
+               <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG.html</VALUE>
+                  <IDENTIFIER>11985G004.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-02T02:32:36.242+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>02</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</VALUE>
+            <IDENTIFIER>48aff517-44bc-42c4-ac4e-c58b5fa4041e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985G004.ENG</VALUE>
+               <IDENTIFIER>11985G004.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

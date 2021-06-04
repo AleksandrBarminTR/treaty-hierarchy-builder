@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e</VALUE>
+         <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11994N174</VALUE>
+            <IDENTIFIER>11994N174</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/art_174/sign</VALUE>
+            <IDENTIFIER>treaty:acc_1994:act_1:art_174:sign</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1994-06-24</VALUE>
+         <YEAR>1994</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>24</DAY>
+      </DATE_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE>174</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </BASED_ON>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+               <IDENTIFIER>ADH</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>ADH</OP-CODE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <PREFLABEL>Accession</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <IDENTIFIER type="data">
+         <VALUE>11994N174</VALUE>
+      </IDENTIFIER>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/AUT</VALUE>
+            <IDENTIFIER>AUT</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>AUT</OP-CODE>
+         <IDENTIFIER>AUT</IDENTIFIER>
+         <PREFLABEL>Austria</PREFLABEL>
+         <ALTLABEL>Republic of Austria</ALTLABEL>
+         <ALTLABEL>Austrian</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Akt om villkoren för Konungariket Norges, Republiken Österrikes, Republiken Finlands och Konungariket Sveriges anslutning till de fördrag som ligger till grund för Europeiska unionen och om anpassning av fördragen - Del fem : Genomförandebestämmelser - Avdelning III : Slutbestämmelser - Artikel 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.SWE.html</VALUE>
+                        <IDENTIFIER>11994N174.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0010</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.SWE</VALUE>
+               <IDENTIFIER>11994N174.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finnish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11994N174</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f69c7f56-e66d-4994-b308-fe61cf755b3f</VALUE>
+            <IDENTIFIER>f69c7f56-e66d-4994-b308-fe61cf755b3f</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_3/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_3:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F03</VALUE>
+               <IDENTIFIER>11994N/PRO/03</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE type="date">
+         <VALUE>1995-01-01</VALUE>
+         <YEAR>1995</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/fa277acf-e227-4754-bcc4-fa45b159a1ca</VALUE>
+            <IDENTIFIER>fa277acf-e227-4754-bcc4-fa45b159a1ca</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN11</VALUE>
+               <IDENTIFIER>11994NN11</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_11/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_11:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/074f6904-0ab7-4305-bbf7-6bc88a776869</VALUE>
+            <IDENTIFIER>074f6904-0ab7-4305-bbf7-6bc88a776869</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN03</VALUE>
+               <IDENTIFIER>11994NN03</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_3/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_3:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/2aed841f-cbdb-4bff-bd66-fc3c4d020353</VALUE>
+            <IDENTIFIER>2aed841f-cbdb-4bff-bd66-fc3c4d020353</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/vpro_8/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:vpro_8:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F08</VALUE>
+               <IDENTIFIER>11994N/PRO/08</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_8/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_8:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Sweden</PREFLABEL>
+         <ALTLABEL>Swedish</ALTLABEL>
+         <ALTLABEL>Kingdom of Sweden</ALTLABEL>
+      </CREATED_BY>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/71bcd157-1658-4ee3-8fb8-88610040c6bc</VALUE>
+            <IDENTIFIER>71bcd157-1658-4ee3-8fb8-88610040c6bc</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_15/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_15:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN15</VALUE>
+               <IDENTIFIER>11994NN15</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b7c16445-6081-4a43-b319-a42b97d76f90</VALUE>
+            <IDENTIFIER>b7c16445-6081-4a43-b319-a42b97d76f90</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_7/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_7:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN07</VALUE>
+               <IDENTIFIER>11994NN07</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+            <IDENTIFIER>GLE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>GLE</OP-CODE>
+         <IDENTIFIER>GLE</IDENTIFIER>
+         <PREFLABEL>Irish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finland</PREFLABEL>
+         <ALTLABEL>Republic of Finland</ALTLABEL>
+         <ALTLABEL>Finnish</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/db6e0826-7a4c-4a73-bdae-e2e7c25bc5af</VALUE>
+            <IDENTIFIER>db6e0826-7a4c-4a73-bdae-e2e7c25bc5af</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_19/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_19:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN19</VALUE>
+               <IDENTIFIER>11994NN19</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.ITA.html</VALUE>
+                        <IDENTIFIER>11994N174.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ATTO relativo alle condizioni di adesione del Regno di Norvegia, della Repubblica d' Austria, della Repubblica di Finlandia e del Regno di Svezia e agli adattamenti dei trattati sui quali si fonda l' Unione europea - PARTE QUINTA : DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE ATTO - TITOLO III : DISPOSIZIONI FINALI - Articolo 174</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0003</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ITA</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ITA</VALUE>
+               <IDENTIFIER>11994N174.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/NOR</VALUE>
+            <IDENTIFIER>NOR</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>NOR</OP-CODE>
+         <IDENTIFIER>NOR</IDENTIFIER>
+         <PREFLABEL>Norway</PREFLABEL>
+         <ALTLABEL>Norwegian</ALTLABEL>
+         <ALTLABEL>Kingdom of Norway</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>N</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/05fb952b-7ae9-4ffd-98b0-02fafbdba7b6</VALUE>
+            <IDENTIFIER>05fb952b-7ae9-4ffd-98b0-02fafbdba7b6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F02</VALUE>
+               <IDENTIFIER>11994N/PRO/02</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_2/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_2:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NOR</VALUE>
+            <IDENTIFIER>NOR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NOR</OP-CODE>
+         <IDENTIFIER>NOR</IDENTIFIER>
+         <PREFLABEL>Norwegian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1994-08-29</VALUE>
+         <YEAR>1994</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>29</DAY>
+      </DATE_CREATION_LEGACY>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/acc_1994/act_1/art_174/sign</VALUE>
+      </ELI>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4d7954b3-c3a9-4ec1-933c-ac09019eaf2d</VALUE>
+            <IDENTIFIER>4d7954b3-c3a9-4ec1-933c-ac09019eaf2d</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F10</VALUE>
+               <IDENTIFIER>11994N/PRO/10</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_10/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_10:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.FIN.html</VALUE>
+                        <IDENTIFIER>11994N174.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Asiakirja Norjan kuningaskunnan, Itävallan tasavallan, Suomen tasavallan ja Ruotsin kuningaskunnan liittymisehdoista ja niiden sopimusten mukautuksista, joihin Euroopan unioni perustuu - Viides osa: Tämän Asiakirjan soveltamista koskevat määräykset - III osasto: Loppumääräykset - 174 artikla</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0011</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.FIN</VALUE>
+               <IDENTIFIER>11994N174.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/babbe7cf-eff0-4ec4-8c47-5e4aac5aa52b</VALUE>
+            <IDENTIFIER>babbe7cf-eff0-4ec4-8c47-5e4aac5aa52b</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN10</VALUE>
+               <IDENTIFIER>11994NN10</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_10/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_10:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <IDENTIFIER type="data">
+         <VALUE>12588</VALUE>
+      </IDENTIFIER>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/51945b50-f492-404d-99aa-016eb31811e5</VALUE>
+            <IDENTIFIER>51945b50-f492-404d-99aa-016eb31811e5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN14</VALUE>
+               <IDENTIFIER>11994NN14</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_14/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_14:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0da70428-f952-42c2-a366-0d6a687c2ad0</VALUE>
+            <IDENTIFIER>0da70428-f952-42c2-a366-0d6a687c2ad0</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN02</VALUE>
+               <IDENTIFIER>11994NN02</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_2/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_2:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d63174b6-bc4f-4c14-9d60-43b58f4769a6</VALUE>
+            <IDENTIFIER>d63174b6-bc4f-4c14-9d60-43b58f4769a6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F07</VALUE>
+               <IDENTIFIER>11994N/PRO/07</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_7/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_7:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/97bbb35d-4a56-4558-afdd-657d8b3b622a</VALUE>
+            <IDENTIFIER>97bbb35d-4a56-4558-afdd-657d8b3b622a</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_18/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_18:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN18</VALUE>
+               <IDENTIFIER>11994NN18</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/ada6196e-195a-4d7b-9433-39aa1a85c86b</VALUE>
+            <IDENTIFIER>ada6196e-195a-4d7b-9433-39aa1a85c86b</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_6/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_6:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN06</VALUE>
+               <IDENTIFIER>11994NN06</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>AKTE betreffende de toetredingsvoorwaarden voor het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden en de aanpassing van de Verdragen waarop de Europese Unie is gegrond - VIJFDE DEEL : BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN DEZE AKTE - TITEL III : SLOTBEPALINGEN - Artikel 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.NLD.html</VALUE>
+                        <IDENTIFIER>11994N174.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0004</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.NLD</VALUE>
+               <IDENTIFIER>11994N174.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.NLD</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/AUT</VALUE>
+            <IDENTIFIER>AUT</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>AUT</OP-CODE>
+         <IDENTIFIER>AUT</IDENTIFIER>
+         <PREFLABEL>Austria</PREFLABEL>
+         <ALTLABEL>Republic of Austria</ALTLABEL>
+         <ALTLABEL>Austrian</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html</VALUE>
+                        <IDENTIFIER>11994N174.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE III : FINAL PROVISIONS - Article 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG</VALUE>
+               <IDENTIFIER>11994N174.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_CELEX type="data">
+         <VALUE>11994N174</VALUE>
+      </ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.SPA.html</VALUE>
+                        <IDENTIFIER>11994N174.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTA relativa a las condiciones de adhesión del Reino de Noruega, de la República de Austria, de la República de Finlandia y del Reino de Suecia y a las adaptaciones de los Tratados en los que se basa la Unión Europea - QUINTA PARTE : DISPOSICIONES RELATIVAS A LA APLICACIÓN DE LA PRESENTE ACTA - TÍTULO III : DISPOSICIONES FINALES - Artículo 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0008</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.SPA</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.SPA</VALUE>
+               <IDENTIFIER>11994N174.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <TREATY_NAME type="data">
+         <VALUE>acc_1994</VALUE>
+      </TREATY_NAME>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1995-01-01</VALUE>
+         <YEAR>1995</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:16/12/2014 16:29:50</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {194N/TTE/02|http://publications.europa.eu/resource/celex/11994N%2FTTE%2F02}</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b06c1b98-2e06-4a73-b202-7ccc653474ba</VALUE>
+            <IDENTIFIER>b06c1b98-2e06-4a73-b202-7ccc653474ba</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_1/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_1:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F01</VALUE>
+               <IDENTIFIER>11994N/PRO/01</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>ADH</OP-CODE>
+         <IDENTIFIER>ADH</IDENTIFIER>
+         <PREFLABEL>Accession</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4543e868-c347-11e4-bbe1-01aa75ed71a1</VALUE>
+            <IDENTIFIER>4543e868-c347-11e4-bbe1-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FTXT</VALUE>
+               <IDENTIFIER>11994N/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finland</PREFLABEL>
+         <ALTLABEL>Republic of Finland</ALTLABEL>
+         <ALTLABEL>Finnish</ALTLABEL>
+      </CREATED_BY>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Sweden</PREFLABEL>
+         <ALTLABEL>Swedish</ALTLABEL>
+         <ALTLABEL>Kingdom of Sweden</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/72e2e094-02d6-4745-b8e2-139f6a473b48</VALUE>
+            <IDENTIFIER>72e2e094-02d6-4745-b8e2-139f6a473b48</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_6/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_6:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F06</VALUE>
+               <IDENTIFIER>11994N/PRO/06</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/017ffa3f-dfd9-449a-ba2e-3e2bf438c17a</VALUE>
+            <IDENTIFIER>017ffa3f-dfd9-449a-ba2e-3e2bf438c17a</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN01</VALUE>
+               <IDENTIFIER>11994NN01</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_1/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_1:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4c294944-2eeb-4dc1-93ab-3f46cd9892e3</VALUE>
+            <IDENTIFIER>4c294944-2eeb-4dc1-93ab-3f46cd9892e3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN13</VALUE>
+               <IDENTIFIER>11994NN13</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_13/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_13:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/acc_1994/act_1/art_174/sign</VALUE>
+      </IDENTIFIER>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4efbcf3b-d7f0-4b36-bb1a-e0dee393c378</VALUE>
+            <IDENTIFIER>4efbcf3b-d7f0-4b36-bb1a-e0dee393c378</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_5/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_5:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN05</VALUE>
+               <IDENTIFIER>11994NN05</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.DEU.html</VALUE>
+                        <IDENTIFIER>11994N174.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>AKTE über die Bedingungen des Beitritts des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden und die Anpassungen der die Europäische Union begründenden Verträge - FÜNFTER TEIL : BESTIMMUNGEN ÜBER DIE DURCHFÜHRUNG DIESER AKTE - TITEL III : SCHLUSSBESTIMMUNGEN - Artikel 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0002</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.DEU</VALUE>
+               <IDENTIFIER>11994N174.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.DEU</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/bcaeef78-342a-424c-93c1-d728935684fe</VALUE>
+            <IDENTIFIER>bcaeef78-342a-424c-93c1-d728935684fe</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN17</VALUE>
+               <IDENTIFIER>11994NN17</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_17/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_17:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/37e14ae1-6d7a-40bc-933a-4342ae2a7b31</VALUE>
+            <IDENTIFIER>37e14ae1-6d7a-40bc-933a-4342ae2a7b31</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_9/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_9:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN09</VALUE>
+               <IDENTIFIER>11994NN09</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Swedish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>241</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-08-29</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>08</MONTH>
+                  <DAY>29</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1994-08-29</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>08</MONTH>
+                  <DAY>29</DAY>
+               </DATE_PUBLICATION>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1994_241_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1994_241_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 241, 29 August 1994</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1994_241_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1994_241_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1994_241_R.ENG.xhtml</VALUE>
+                        <IDENTIFIER>JOC_1994_241_R.ENG.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1994_241_R.ENG.fmx4</VALUE>
+                        <IDENTIFIER>JOC_1994_241_R.ENG.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/2ffd0243-f4d6-4c08-9edb-bdc57b73c5c5</VALUE>
+            <IDENTIFIER>2ffd0243-f4d6-4c08-9edb-bdc57b73c5c5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1994_241_R</VALUE>
+               <IDENTIFIER>JOC_1994_241_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/acc_1994/act_1/art_174/sign</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b82d0e8c-fb08-4198-a889-0cfe6d7f299f</VALUE>
+            <IDENTIFIER>b82d0e8c-fb08-4198-a889-0cfe6d7f299f</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F04</VALUE>
+               <IDENTIFIER>11994N/PRO/04</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_4/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_4:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/NOR</VALUE>
+            <IDENTIFIER>NOR</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>NOR</OP-CODE>
+         <IDENTIFIER>NOR</IDENTIFIER>
+         <PREFLABEL>Norway</PREFLABEL>
+         <ALTLABEL>Norwegian</ALTLABEL>
+         <ALTLABEL>Kingdom of Norway</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.ELL.html</VALUE>
+                        <IDENTIFIER>11994N174.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ΠΡΑΞΗ περί των όρων προσχωρήσεως του Βασιλείου της Νορβηγίας, της Δημοκρατίας της Αυστρίας, της Δημοκρατίας της Φινλανδίας και του Βασιλείου της Σουηδίας και των προσαρμογών των συνθηκών επί των οποίων βασίζεται η Ένωση - ΜΕΡΟΣ ΠΕΜΠΤΟ : ΔΙΑΤΑΞΕΙΣ ΕΦΑΡΜΟΓΗΣ ΤΗΣ ΠΑΡΟΥΣΑΣ ΠΡΑΞΗΣ - ΤΙΤΛΟΣ ΙΙΙ : ΤΕΛΙΚΕΣ ΔΙΑΤΑΞΕΙΣ - Άρθρο 174</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0007</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ELL</VALUE>
+               <IDENTIFIER>11994N174.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ELL</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>1994-08-29</VALUE>
+         <YEAR>1994</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>29</DAY>
+      </DATE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/01ffa60e-3b94-4904-af36-979909633d63</VALUE>
+            <IDENTIFIER>01ffa60e-3b94-4904-af36-979909633d63</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F09</VALUE>
+               <IDENTIFIER>11994N/PRO/09</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_9/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_9:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11994N174</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTO relativo às condições de adesão do Reino da Noruega, da República da Áustria, da República da Finlândia e do Reino da Suécia e às adaptações dos Tratados em que se funda a União Europeia - QUINTA PARTE : DISPOSIÇÕES RELATIVAS À APLICAÇÃO DO PRESENTE ACTO - TÍTULO III : DISPOSIÇÕES FINAIS - Artigo 174</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.POR.html</VALUE>
+                        <IDENTIFIER>11994N174.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0009</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.POR</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.POR</VALUE>
+               <IDENTIFIER>11994N174.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b914754d-cda6-4696-a8f8-01d7bbaad7f1</VALUE>
+            <IDENTIFIER>b914754d-cda6-4696-a8f8-01d7bbaad7f1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_12/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_12:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN12</VALUE>
+               <IDENTIFIER>11994NN12</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c2f7694a-1651-40de-a97e-d2b53e7245df</VALUE>
+            <IDENTIFIER>c2f7694a-1651-40de-a97e-d2b53e7245df</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FPRO%2F05</VALUE>
+               <IDENTIFIER>11994N/PRO/05</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/pro_5/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:pro_5:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.DAN.html</VALUE>
+                        <IDENTIFIER>11994N174.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>AKT vedrørende vilkårene for Kongeriget Norges, Republikken Østrigs, Republikken Finlands og Kongeriget Sveriges tiltrædelse og tilpasningerne af de traktater, der danner grundlag for Den Europæiske Union - FEMTE DEL BESTEMMELSER OM IVÆRKSÆTTELSEN AF DENNE AKT - AFSNIT III : AFSLUTTENDE BESTEMMELSER - Artikel 174</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0005</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.DAN</VALUE>
+               <IDENTIFIER>11994N174.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.DAN</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c0f2d772-e082-4bc3-8997-e109a1c99536</VALUE>
+            <IDENTIFIER>c0f2d772-e082-4bc3-8997-e109a1c99536</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_16/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_16:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN16</VALUE>
+               <IDENTIFIER>11994NN16</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11994N174</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cddd2ae9-0207-45d6-980d-50b379294639</VALUE>
+            <IDENTIFIER>cddd2ae9-0207-45d6-980d-50b379294639</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_4/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_4:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN04</VALUE>
+               <IDENTIFIER>11994NN04</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1994-06-24</VALUE>
+         <YEAR>1994</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>24</DAY>
+      </WORK_DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N174</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N174.FRA.html</VALUE>
+                        <IDENTIFIER>11994N174.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTE relatif aux conditions d' adhésion du Royaume de Norvège, de la République d' Autriche, de la République de Finlande et du Royaume de Suède et aux adaptations des traités sur lesquels est fondée l' Union européenne - CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À LA MISE EN APPLICATION DU PRÉSENT ACTE - TITRE III : DISPOSITIONS FINALES - Article 174</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0001</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.FRA</VALUE>
+               <IDENTIFIER>11994N174.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.FRA</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2018-12-20T22:12:36.069+01:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>20</DAY>
+      </LASTMODIFICATIONDATE>
+      <DATE type="date">
+         <VALUE>1994-06-24</VALUE>
+         <YEAR>1994</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>24</DAY>
+      </DATE>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d3b96a45-f1da-4861-b0c4-b91231053e72</VALUE>
+            <IDENTIFIER>d3b96a45-f1da-4861-b0c4-b91231053e72</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/anx_8/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:anx_8:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994NN08</VALUE>
+               <IDENTIFIER>11994NN08</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>N</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006</VALUE>
+         <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ENG</VALUE>
+            <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG</VALUE>
+            <IDENTIFIER>11994N174.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html</VALUE>
+               <IDENTIFIER>11994N174.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-12-17T14:06:16.609+01:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>17</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE III : FINAL PROVISIONS - Article 174</VALUE>
+      </EXPRESSION_TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <TITLE type="data">
+         <VALUE>ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE III : FINAL PROVISIONS - Article 174</VALUE>
+      </TITLE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174</VALUE>
+               <IDENTIFIER>11994N174</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/art_174/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:art_174:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</VALUE>
+         <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html</VALUE>
+            <IDENTIFIER>11994N174.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-10T19:06:47.060+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>10</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG</VALUE>
+               <IDENTIFIER>11994N174.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01/DOC_1</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html.11994N174en.html</VALUE>
+               <IDENTIFIER>11994N174.ENG.html.11994N174en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11994N174.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_SIZE type="data">
+               <VALUE>2149</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_NAME type="data">
+               <VALUE>11994N174en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+         </TECHMD>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</VALUE>
+               <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html</VALUE>
+                  <IDENTIFIER>11994N174.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</VALUE>
+               <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG.html</VALUE>
+                  <IDENTIFIER>11994N174.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/5135b1ec-86bb-4449-9308-e64624a24e2e.0006</VALUE>
+            <IDENTIFIER>5135b1ec-86bb-4449-9308-e64624a24e2e.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1994.241.01.0051.03.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1994.241.01.0051.03.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N174.ENG</VALUE>
+               <IDENTIFIER>11994N174.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6</VALUE>
+         <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29</VALUE>
+            <IDENTIFIER>11979HN01/03/JR(01)</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.NLD.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICATIE VOOR :# DOCUMENTEN BETREFFENDE DE TOETREDING VAN DE HELLEENSE REPUBLIEK TOT DE EUROPESE GEMEENSCHAPPEN, AKTE BETREFFENDE DE TOETREDINGSVOORWAARDEN VOOR DE HELLEENSE REPUBLIEK EN DE AANPASSINGEN VAN DE VERDRAGEN, BIJLAGE I LIJST BEDOELD IN ARTIKEL 21 VAN DE TOETREDINGSAKTE, III. RECHT VAN VESTIGING EN VRIJ VERRICHTEN VAN DIENSTEN, J) DIERENARTSEN</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.NLD.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).NLD.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0004</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.NLD</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.04.NLD</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.04.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.SPA.html</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICACIÓN A :# Documentos relativos a la adhesion de la Republica Helenica a las Comunidades Europeas, Acta relativa a las condiciones de adhesion de la Republica Helenica y a las adaptaciones de los Tratados, Anexo I: Lista prevista en el articulo 21 del Acta de Adhesion, III: Derecho de establecimiento y libre prestacion de servicios, J ) Veterinarios</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0008</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.SPA</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+            <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>CORRIGENDUM</OP-CODE>
+         <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+         <PREFLABEL>Corrigendum</PREFLABEL>
+         <ALTLABEL>Corrigenda</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>N01/03/JR(01)</VALUE>
+      </IDENTIFIER>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-12-15T11:58:11.102+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>15</DAY>
+      </LASTMODIFICATIONDATE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1981-12-02</VALUE>
+         <YEAR>1981</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>02</DAY>
+      </DATE_DOCUMENT>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11979HN01/03/JR(01)</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>BERICHTIGUNG FÜR :# DOKUMENTE BETREFFEND DEN BEITRITT DER REPUBLIK GRIECHENLAND ZU DEN EUROPAEISCHEN GEMEINSCHAFTEN, AKTE UEBER DIE BEDINGUNGEN DES BEITRITTS DER REPUBLIK GRIECHENLAND UND DIE ANPASSUNGEN DER VERTRAEGE, ANHANG I LISTE ZU ARTIKEL 21 DER BEITRITTSAKTE, III. NIEDERLASSUNGSRECHT UND FREIER DIENSTLEISTUNGSVERKEHR, J) TICKAERZTE</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DEU.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DEU.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).DEU.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0002</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.05.DEU</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.05.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DEU</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ITA.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ITA.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ITA.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RETTIFICA A:# ATTI RELATIVI ALL' ADESIONE DELLA REPUBBLICA ELLENICA ALLE COMUNITA EUROPEE, ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA ELLENICA ED AGLI ADATTAMENTI DEI TRATTATI, ALLEGATO I ELENCO DI CUI ALL' ARTICOLO 21 DELL' ATTO DI ADESIONE, III. DIRITTO DI STABILIMENTO E LIBERA PRESTAZIONE DEI SERVIZI , J) VETERINARI</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0003</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.04.ITA</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.04.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ITA</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c2f67748-091b-49cc-9edf-df08bc2b604b</VALUE>
+            <IDENTIFIER>c2f67748-091b-49cc-9edf-df08bc2b604b</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1979_291_R_0009_01</VALUE>
+               <IDENTIFIER>JOL_1979_291_R_0009_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1979/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1979:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979H%2FTXT</VALUE>
+               <IDENTIFIER>11979H/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11979HN01/03/JR(01)</VALUE>
+      </WORK_ID_DOCUMENT>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS9</VALUE>
+            <IDENTIFIER>EUMS9</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS9</OP-CODE>
+         <IDENTIFIER>EUMS9</IDENTIFIER>
+         <PREFLABEL>The nine Member States: Belgium, Denmark, Germany, Ireland, France, Italy, Luxembourg, Netherlands, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <YEAR type="data">
+         <VALUE>1979</VALUE>
+      </YEAR>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1979</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS9</VALUE>
+            <IDENTIFIER>EUMS9</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS9</OP-CODE>
+         <IDENTIFIER>EUMS9</IDENTIFIER>
+         <PREFLABEL>The nine Member States: Belgium, Denmark, Germany, Ireland, France, Italy, Luxembourg, Netherlands, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ΔΙΟΡΘΩΤΙΚΟ Α :# Πράξεις περί προσχωρήσεως της Ελληνικής Δημοκρατίας στις Ευρωπαϊκές Κοινότητες, Πράξη περί των όρων προσχωρήσεως της Ελληνικής Δημοκρατίας και των προσαρμογών των συνθηκών, Παράρτημα Ι: Πίνακας προβλεπόμενος στο άρθρο 21 της Πράξεως προσχωρήσεως, ΙΙΙ. Δικαίωμα εγκαταστάσεως και ελεύθερη παροχή υπηρεσιών, ι ) Κτηνίατροι</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ELL.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ELL.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ELL.html</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ELL.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ELL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0007</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.04.ELL</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.04.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ELL</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1978</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>01978L1026-19810101</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>01978L1026-19810101</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>1026</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-01-01</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>L</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>1026</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT</VALUE>
+                     <IDENTIFIER>CONS_TEXT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CONS_TEXT</OP-CODE>
+                  <IDENTIFIER>CONS_TEXT</IDENTIFIER>
+                  <PREFLABEL>Consolidated text</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>0</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:act_consolidated</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Council Directive of 18 December 1978 concerning the mutual recognition of diplomas, certificates and other evidence of formal qualifications in veterinary medicine, including measures to facilitate the effective exercise of the right of establishment and freedom to provide services (78/1026/EEC)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/fdb92c71-4202-4b37-b5f9-5d861ba6fcb6.0004.01</VALUE>
+                     <IDENTIFIER>fdb92c71-4202-4b37-b5f9-5d861ba6fcb6.0004.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/01978L1026-19810101.ENG.pdf</VALUE>
+                        <IDENTIFIER>01978L1026-19810101.ENG.pdf</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/fdb92c71-4202-4b37-b5f9-5d861ba6fcb6</VALUE>
+            <IDENTIFIER>fdb92c71-4202-4b37-b5f9-5d861ba6fcb6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/consolidation/1978L1026%2F19810101</VALUE>
+               <IDENTIFIER>1978L1026/19810101</IDENTIFIER>
+               <TYPE>consolidation</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/01978L1026-19810101</VALUE>
+               <IDENTIFIER>01978L1026-19810101</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/dir/1978/1026/1981-01-01</VALUE>
+               <IDENTIFIER>dir:1978:1026:1981-01-01</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+      <RESOURCE_LEGAL_NUMBER_CORRIGENDUM type="data">
+         <VALUE>1</VALUE>
+      </RESOURCE_LEGAL_NUMBER_CORRIGENDUM>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>HN</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-L</VALUE>
+                     <IDENTIFIER>OJ-L</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-L</OP-CODE>
+                  <IDENTIFIER>OJ-L</IDENTIFIER>
+                  <PREFLABEL>OJ-L</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>346</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1981</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </DATE_PUBLICATION>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, L 346, 2 December 1981</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e879206d-c9a0-4f3e-83f5-a511c0441918</VALUE>
+            <IDENTIFIER>e879206d-c9a0-4f3e-83f5-a511c0441918</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R</VALUE>
+               <IDENTIFIER>JOL_1981_346_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Oikaistaan#Asiakirjat Helleenien tasavallan liittymisestä Euroopan yhteisöihin - Asiakirja Helleenien tasavallan liittymisehdoista ja perustamissopimusten mukautuksista - Liite I - Luettelo, josta määrätään liittymisasiakirjan 21 artiklassa - III. Sijoittautumisoikeus ja palvelujen tarjoamisen vapaus - J. Eläinlääkärit</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0010</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.FIN</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/GRC</VALUE>
+            <IDENTIFIER>GRC</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>GRC</OP-CODE>
+         <IDENTIFIER>GRC</IDENTIFIER>
+         <PREFLABEL>Greece</PREFLABEL>
+         <ALTLABEL>Hellenic Republic</ALTLABEL>
+         <ALTLABEL>Greece</ALTLABEL>
+         <ALTLABEL>Kingdom of Greece</ALTLABEL>
+         <ALTLABEL>Greek</ALTLABEL>
+      </CREATED_BY>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11979HN01/03/JR(01)</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DAN.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).DAN.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DAN.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).DAN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>BERIGTIGELSE TIL :# TEKSTER VEDROERENDE DEN HELLENSKE REPUBLIKS TILTRAEDELSE AF DE EUROPAEISKE FAELLESSKABER, AKT VEDROERENDE VILKAARENE FOR DEN HELLENSKE REPUBLIKS TILTRAEDELSE OG TILPASNINGERNE AF TRAKTATERNE, BILAG I LISTE NAEVNT I ARTIKEL 21 I TILTRAEDELSESAKTEN, III. ETABLERINGSRET OG FRI UDVEKSLING AF TJENESTEYDELSER, J) DYRLAEGER</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0005</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.04.DAN</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.04.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.DAN</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICATIF A :# ACTES RELATIFS A L' ADHESION DE LA REPUBLIQUE HELLENIQUE AUX COMMUNAUTES EUROPEENNES, ACTE RELATIF AUX CONDITIONS D' ADHESION DE LA REPUBLIQUE HELLENIQUE ET AUX ADAPTATIONS DES TRAITES, ANNEXE I LISTE PREVUE A L' ARTICLE 21 DE L' ACTE D' ADHESION, III. DROIT D' ETABLISSEMENT ET LIBRE PRESTATION DE SERVICES, J) VETERINAIRES</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.FRA.pdfa1b</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).FRA.pdfa1b</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.FRA.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0024</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1981_346_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1981_346_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0001</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1981.346.01.0024.04.FRA</VALUE>
+               <IDENTIFIER>OJ.L_.1981.346.01.0024.04.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.FRA</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/GRC</VALUE>
+            <IDENTIFIER>GRC</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>GRC</OP-CODE>
+         <IDENTIFIER>GRC</IDENTIFIER>
+         <PREFLABEL>Greece</PREFLABEL>
+         <ALTLABEL>Hellenic Republic</ALTLABEL>
+         <ALTLABEL>Greece</ALTLABEL>
+         <ALTLABEL>Kingdom of Greece</ALTLABEL>
+         <ALTLABEL>Greek</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <IDENTIFIER type="data">
+         <VALUE>10971</VALUE>
+      </IDENTIFIER>
+      <IDENTIFIER type="data">
+         <VALUE>11979HN01/03/JR(01)</VALUE>
+      </IDENTIFIER>
+      <ID_CELEX type="data">
+         <VALUE>11979HN01/03/JR(01)</VALUE>
+      </ID_CELEX>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1981-12-02</VALUE>
+         <YEAR>1981</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>02</DAY>
+      </WORK_DATE_DOCUMENT>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1981-12-02</VALUE>
+         <YEAR>1981</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>02</DAY>
+      </DATE_CREATION_LEGACY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/JR(01)</VALUE>
+               </ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-12-02</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>02</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html</VALUE>
+                        <IDENTIFIER>11979HN01/03/JR(01).ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>CORRIGENDUM TO:# DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, III. RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES, J) VETERINARY SURGEONS</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>1981-12-02</VALUE>
+         <YEAR>1981</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>02</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_CORRECTS_RESOURCE_LEGAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1979</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LES</VALUE>
+                        <IDENTIFIER>LES</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LES</OP-CODE>
+                     <IDENTIFIER>LES</IDENTIFIER>
+                     <PREFLABEL>Freedom of establishment</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11979HN01/03/J</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1979-05-28</VALUE>
+                  <YEAR>1979</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>28</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11979HN01/03/J</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>HN</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, III. RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES, J) VETERINARY SURGEONS</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/3750fcaa-f01b-45c9-b6a2-e692dfbaee94.0006.02</VALUE>
+                     <IDENTIFIER>3750fcaa-f01b-45c9-b6a2-e692dfbaee94.0006.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJ.ENG.print</VALUE>
+                        <IDENTIFIER>11979HN01/03/J.ENG.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/3750fcaa-f01b-45c9-b6a2-e692dfbaee94.0006.01</VALUE>
+                     <IDENTIFIER>3750fcaa-f01b-45c9-b6a2-e692dfbaee94.0006.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJ.ENG.html</VALUE>
+                        <IDENTIFIER>11979HN01/03/J.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE/>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1979_291_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1979_291_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0092</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/3750fcaa-f01b-45c9-b6a2-e692dfbaee94</VALUE>
+            <IDENTIFIER>3750fcaa-f01b-45c9-b6a2-e692dfbaee94</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJ</VALUE>
+               <IDENTIFIER>11979HN01/03/J</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:01/04/2014 15:38:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_CORRECTS_RESOURCE_LEGAL>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>HN</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1978</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>01978L1026-19810101</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <ID_CELEX type="data">
+                  <VALUE>01978L1026-19810101</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>1026</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1981-01-01</VALUE>
+                  <YEAR>1981</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>L</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>1026</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT</VALUE>
+                     <IDENTIFIER>CONS_TEXT</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CONS_TEXT</OP-CODE>
+                  <IDENTIFIER>CONS_TEXT</IDENTIFIER>
+                  <PREFLABEL>Consolidated text</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>0</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:act_consolidated</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Council Directive of 18 December 1978 concerning the mutual recognition of diplomas, certificates and other evidence of formal qualifications in veterinary medicine, including measures to facilitate the effective exercise of the right of establishment and freedom to provide services (78/1026/EEC)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/fdb92c71-4202-4b37-b5f9-5d861ba6fcb6.0004.01</VALUE>
+                     <IDENTIFIER>fdb92c71-4202-4b37-b5f9-5d861ba6fcb6.0004.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/01978L1026-19810101.ENG.pdf</VALUE>
+                        <IDENTIFIER>01978L1026-19810101.ENG.pdf</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/fdb92c71-4202-4b37-b5f9-5d861ba6fcb6</VALUE>
+            <IDENTIFIER>fdb92c71-4202-4b37-b5f9-5d861ba6fcb6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/consolidation/1978L1026%2F19810101</VALUE>
+               <IDENTIFIER>1978L1026/19810101</IDENTIFIER>
+               <TYPE>consolidation</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/01978L1026-19810101</VALUE>
+               <IDENTIFIER>01978L1026-19810101</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/dir/1978/1026/1981-01-01</VALUE>
+               <IDENTIFIER>dir:1978:1026:1981-01-01</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006</VALUE>
+         <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG</VALUE>
+            <IDENTIFIER>11979HN01/03/JR(01).ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>CORRIGENDUM TO:# DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, III. RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES, J) VETERINARY SURGEONS</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>CORRIGENDUM TO:# DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, III. RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES, J) VETERINARY SURGEONS</VALUE>
+      </EXPRESSION_TITLE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01)</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-12-15T16:30:26.042+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>15</DAY>
+      </LASTMODIFICATIONDATE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</VALUE>
+         <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html</VALUE>
+            <IDENTIFIER>11979HN01/03/JR(01).ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01/DOC_1</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html.11979HN01_03_JR_01_en.html</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ENG.html.11979HN01_03_JR_01_en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_SIZE type="data">
+               <VALUE>2145</VALUE>
+            </STREAM_SIZE>
+            <STREAM_NAME type="data">
+               <VALUE>11979HN01_03_JR_01_en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11979HN01/03/JR(01).ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</VALUE>
+               <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html</VALUE>
+                  <IDENTIFIER>11979HN01/03/JR(01).ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</VALUE>
+               <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG.html</VALUE>
+                  <IDENTIFIER>11979HN01/03/JR(01).ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-12-15T16:30:26.042+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>15</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/45fd67db-023d-458f-b6ff-12a3d04577d6.0006</VALUE>
+            <IDENTIFIER>45fd67db-023d-458f-b6ff-12a3d04577d6.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11979HN01%2F03%2FJR%2801%29.ENG</VALUE>
+               <IDENTIFIER>11979HN01/03/JR(01).ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>2016-12-15T16:30:35.559+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>15</DAY>
+      </CREATIONDATE>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

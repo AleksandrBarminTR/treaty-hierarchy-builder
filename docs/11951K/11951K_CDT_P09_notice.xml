@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98</VALUE>
+         <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/cnv_1/par_9/sign</VALUE>
+            <IDENTIFIER>treaty:ceca:cnv_1:par_9:sign</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09</VALUE>
+            <IDENTIFIER>11951K/CDT/P09</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/ceca/cnv_1/par_9/sign</VALUE>
+      </IDENTIFIER>
+      <DATE type="date">
+         <VALUE>2002-07-23</VALUE>
+         <YEAR>2002</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>23</DAY>
+      </DATE>
+      <IDENTIFIER type="data">
+         <VALUE>9361</VALUE>
+      </IDENTIFIER>
+      <IDENTIFIER type="data">
+         <VALUE>/CDT/P09</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1952-07-23</VALUE>
+         <YEAR>1952</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>23</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 16:59:54</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {151K084|http://publications.europa.eu/resource/celex/11951K084} {151K099|http://publications.europa.eu/resource/celex/11951K099}</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERTRAG UEBER DIE GRUENDUNG DER EUROPAEISCHEN GEMEINSCHAFT FUER KOHLE UND STAHL ( EGKS ), ABKOMMEN UEBER DIE UEBERGANGSBESTIMMUNGEN, ERSTER TEIL - INGANGSETZUNG DES VERTRAGES, KAPITEL II: ERRICHTUNG DES GEMEINSAMEN MARKTES, BESEITIGUNG DER ZOELLE UND DER MENGENMAESSIGEN BESCHRAENKUNGEN, PARAGRAPH 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.DEU.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0003</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.DEU</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VERDRAG TOT OPRICHTING VAN DE EUROPESE GEMEENSCHAP VOOR KOLEN EN STAAL ( EGKS ), OVEREENKOMST MET BETREKKING TOT DE OVERGANGSBEPALINGEN, EERSTE DOEL - HET IN TOEPASSING BRENGEN VAN HET VERDRAG, HOOFDSTUK II: INSTELLING VAN DE GEMEENSCHAPPELIJKE MARKT, OPHEFFING VAN DE DOUANERECHTEN EN DE KWANTITATIEVE BEPERKINGEN, PARAGRAAF 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.NLD.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0005</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.NLD</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.SWE.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Fördraget om upprättandet av Europeiska kol- och stålgemenskapen (EKSG) &#151; Konvention om övergångsbestämmelser - Första delen - Fördragets genomförande - Kapitel 2 - Upprättande av den gemensamma marknaden - Avskaffande av tullar och kvantitativa restriktioner - 9 §</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0011</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.SWE</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.SPA.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado constitutivo de la Comunidad Europea del Carbon y del Acero ( CECA ), Convenio relativo a las disposiciones transitorias, Primera Parte: Aplicacion del Tratado, Capitulo II: Establecimiento del mercado comun, Supresion de los derechos de aduana y de las restricciones cuantitativas, apartado 9</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0009</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.SPA</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty establishing the European Coal and Steel Community - Convention on the Transitional Provisions - Part One - Implementation of the Treaty - Chapter 2 - Establishment of the Common Market - Elimination of customs duties and quantitative restrictions - Article 9</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11951K/CDT/P09</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>false</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS6</VALUE>
+            <IDENTIFIER>EUMS6</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS6</OP-CODE>
+         <IDENTIFIER>EUMS6</IDENTIFIER>
+         <PREFLABEL>The six Member States: Belgium, Germany, France, Italy, Luxembourg, Netherlands</PREFLABEL>
+      </CREATED_BY>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cde6f4f6-139a-4352-aa02-d930947af4d2</VALUE>
+            <IDENTIFIER>cde6f4f6-139a-4352-aa02-d930947af4d2</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FTXT</VALUE>
+               <IDENTIFIER>11951K/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2019-01-25T15:27:53.058+01:00</VALUE>
+         <YEAR>2019</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>25</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f1884774-6cf6-4911-a51e-14b15c20e1e9</VALUE>
+            <IDENTIFIER>f1884774-6cf6-4911-a51e-14b15c20e1e9</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP08</VALUE>
+               <IDENTIFIER>11951K/CDT/P08</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/cnv_1/par_8/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:cnv_1:par_8:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.FIN.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Euroopan hiili- ja teräsyhteisön perustamissopimus (EHTY) - Yleissopimus siirtymämääräyksistä - Ensimmäinen osa - Sopimuksen täytäntöönpano - II luku - Yhteismarkkinoiden toteuttaminen - Tullien ja määrällisten rajoitusten poistaminen - 9 artikla</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0001</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.FIN</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_CELEX type="data">
+         <VALUE>11951K/CDT/P09</VALUE>
+      </ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRATTATO CHE ISTITUISCE LA COMUNITA EUROPEA DEL CARBONE E DELL' ACCIAIO ( CECA ), CONVENZIONE SULLE DISPOSIZIONI TRANSITORIE, PARTE PRIMA - APPLICAZIONE DEL TRATTATO, CAPO II: INSTAURAZIONE DEL MERCATO COMUNE, ABOLIZIONE DEI DIRITTI DOGANALI E DELLE RESTRIZIONI QUANTITATIVE, PARAGRAFO 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ITA.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0004</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ITA</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>11951K/CDT/P09</VALUE>
+      </IDENTIFIER>
+      <DATE type="date">
+         <VALUE>1952-07-23</VALUE>
+         <YEAR>1952</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>23</DAY>
+      </DATE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1951-04-18</VALUE>
+         <YEAR>1951</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </DATE_DOCUMENT>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </BASED_ON>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS6</VALUE>
+            <IDENTIFIER>EUMS6</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS6</OP-CODE>
+         <IDENTIFIER>EUMS6</IDENTIFIER>
+         <PREFLABEL>The six Member States: Belgium, Germany, France, Italy, Luxembourg, Netherlands</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <DATE type="date">
+         <VALUE>1951-04-18</VALUE>
+         <YEAR>1951</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </DATE>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.DAN.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAKTAT OM OPRETTELSE AF DET EUROPAEISKE KUL- OG STAALFAELLESSKAB ( EKSF ), KONVENTION OM OVERGANGSBESTEMMELSERNE, FOERSTE DEL - IKRAFTSAETTELSE AF TRAKTATEN, KAPITEL II: OPRETTELSE AF DET FAELLES MARKED, OPHAEVELSE AF TOLD OG KVANTITATIVE RESTRIKTIONER, PARAGRAF 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0006</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.DAN</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1951-04-18</VALUE>
+         <YEAR>1951</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </WORK_DATE_DOCUMENT>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1951-04-18</VALUE>
+         <YEAR>1951</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </DATE_CREATION_LEGACY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.FRA.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>TRAITE INSTITUANT LA COMMUNAUTE EUROPEENNE DU CHARBON ET DE L' ACIER ( CECA ), CONVENTION RELATIVE AUX DISPOSITIONS TRANSITOIRES, PREMIERE PARTIE - MISE EN APPLICATION DU TRAITE, CHAPITRE II: ETABLISSEMENT DU MARCHE COMMUN, SUPPRESSION DES DROITS DE DOUANE ET DES RESTRICTIONS QUANTITATIVES, PARAGRAPHE 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0002</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.FRA</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TREATY_NAME type="data">
+         <VALUE>ceca</VALUE>
+      </TREATY_NAME>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11951K/CDT/P09</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>K</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/ceca/cnv_1/par_9/sign</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+               <IDENTIFIER>LCM</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>LCM</OP-CODE>
+            <IDENTIFIER>LCM</IDENTIFIER>
+            <PREFLABEL>Free movement of goods</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11951K/CDT/P09</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη περί ιδρύσεως της Ευρωπαϊκής Κοινότητος Άνθρακος και Χάλυβος ( ΕΚΑΧ ), Μέρος πρώτο - Θέση σε εφαρμογή της συνθήκης, Κεφάλαιο ΙΙ: Δημιουργία της κοινής αγοράς, Κατάργηση των Τελωνειακών δασμών και των Ποσοτικών περιορισμών, Άρθρο 9</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ELL.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0008</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ELL</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+            <IDENTIFIER>LCM</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>LCM</OP-CODE>
+         <IDENTIFIER>LCM</IDENTIFIER>
+         <PREFLABEL>Free movement of goods</PREFLABEL>
+      </IS_ABOUT>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/ceca/cnv_1/par_9/sign</VALUE>
+      </ELI>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1951-04-18</VALUE>
+                  <YEAR>1951</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>18</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11951K/CDT/P09</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>K</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/LCM</VALUE>
+                        <IDENTIFIER>LCM</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>LCM</OP-CODE>
+                     <IDENTIFIER>LCM</IDENTIFIER>
+                     <PREFLABEL>Free movement of goods</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.POR.html</VALUE>
+                        <IDENTIFIER>11951K/CDT/P09.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado que institui a Comunidade Europeia do Carvão e do Aço (Tratado CECA), Convenção relativa às disposições transitórias, Parte I - Aplicação do Tratado, Capítulo II - Estabelecimento do mercado comum - Supressão dos direitos aduaneiros e das restrições quantitativas, Artigo 9º</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0010</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.POR</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>2002-07-23</VALUE>
+         <YEAR>2002</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>23</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 16:59:54</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_330/V} {197D007|http://publications.europa.eu/resource/celex/11997D007}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>K</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</VALUE>
+         <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG</VALUE>
+            <IDENTIFIER>11951K/CDT/P09.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <TITLE type="data">
+         <VALUE>Treaty establishing the European Coal and Steel Community - Convention on the Transitional Provisions - Part One - Implementation of the Treaty - Chapter 2 - Establishment of the Common Market - Elimination of customs duties and quantitative restrictions - Article 9</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/cnv_1/par_9/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:cnv_1:par_9:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09</VALUE>
+               <IDENTIFIER>11951K/CDT/P09</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-02T00:01:26.872+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>02</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Treaty establishing the European Coal and Steel Community - Convention on the Transitional Provisions - Part One - Implementation of the Treaty - Chapter 2 - Establishment of the Common Market - Elimination of customs duties and quantitative restrictions - Article 9</VALUE>
+      </EXPRESSION_TITLE>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</VALUE>
+         <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html</VALUE>
+            <IDENTIFIER>11951K/CDT/P09.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-02T00:01:26.872+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>02</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01/DOC_1</VALUE>
+            <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html.11951K_CDT_P09en.html</VALUE>
+               <IDENTIFIER>11951K/CDT/P09.ENG.html.11951K_CDT_P09en.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_SIZE type="data">
+               <VALUE>2473</VALUE>
+            </STREAM_SIZE>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-11951K/CDT/P09.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_NAME type="data">
+               <VALUE>11951K_CDT_P09en.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</VALUE>
+               <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html</VALUE>
+                  <IDENTIFIER>11951K/CDT/P09.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</VALUE>
+               <IDENTIFIER>a0e0e246-ffb4-41e5-8c75-54c5ac7ebc98.0007.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11951K%2FCDT%2FP09.ENG.html</VALUE>
+                  <IDENTIFIER>11951K/CDT/P09.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+      </MANIFESTATION_HAS_ITEM>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

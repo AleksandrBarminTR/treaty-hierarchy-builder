@@ -1,0 +1,3084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7</VALUE>
+         <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11997M</VALUE>
+            <IDENTIFIER>11997M</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01</VALUE>
+            <IDENTIFIER>JOC_1997_340_R_0145_01</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f99b00a3-81d5-4ffa-84cb-ff00468bb9fe</VALUE>
+            <IDENTIFIER>f99b00a3-81d5-4ffa-84cb-ff00468bb9fe</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_1997/oj</VALUE>
+               <IDENTIFIER>treaty:teu_1997:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M%2FTXT</VALUE>
+               <IDENTIFIER>11997M/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <RESOURCE_LEGAL_DATE_SIGNATURE type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{NLD_MST|http://publications.europa.eu/resource/authority/place/NLD_MST}</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:24/07/2014 16:20:30</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_SIGNATURE>
+      <DATE type="date">
+         <VALUE>1992-02-07</VALUE>
+         <YEAR>1992</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>07</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+            <IDENTIFIER>JO</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>JO</OP-CODE>
+         <IDENTIFIER>JO</IDENTIFIER>
+         <PREFLABEL>JO</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11997M</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>oj:JOC_1997_340_R_0145_01</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.GLE.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.GLE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.GLE.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.GLE.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+                     <IDENTIFIER>GLE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>GLE</OP-CODE>
+                  <IDENTIFIER>GLE</IDENTIFIER>
+                  <PREFLABEL>Irish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Leagan comhdhlúite an Chonartha ar an Aontas Eorpach</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.GLE.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.GLE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0014</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0014</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.GLE</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.GLE</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.GLE</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.GLE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.GLE</VALUE>
+               <IDENTIFIER>11997M.GLE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SPA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.SPA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de la Unión Europea (versión consolidada)#Tratado UE (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0022</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0022</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SPA</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.SPA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.SPA</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.SPA</VALUE>
+               <IDENTIFIER>11997M.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.NLD.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.NLD.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verdrag betreffende de Europese Unie (geconsolideerde versie)#EU Verdrag (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.NLD.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.NLD.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0017</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0017</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.NLD</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.NLD</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.NLD</VALUE>
+               <IDENTIFIER>11997M.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.NLD</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FIN.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FIN.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FIN.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FIN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Sopimus Euroopan unionista (konsolidoitu toisinto)#EU sopimus (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0024</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0024</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.FIN</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.FIN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FIN</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.FIN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.FIN</VALUE>
+               <IDENTIFIER>11997M.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>219072</VALUE>
+      </IDENTIFIER>
+      <ID_CELEX type="data">
+         <VALUE>11997M</VALUE>
+      </ID_CELEX>
+      <DATE type="date">
+         <VALUE>1999-05-31</VALUE>
+         <YEAR>1999</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Swedish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1997-11-10</VALUE>
+         <YEAR>1997</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>10</DAY>
+      </DATE_DOCUMENT>
+      <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+         <VALUE>VIG1O; #MAN1; PAG10147; #BAS1O; #</VALUE>
+      </RESOURCE_LEGAL_COMMENT_INTERNAL>
+      <YEAR type="data">
+         <VALUE>1997</VALUE>
+      </YEAR>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {192MR|http://publications.europa.eu/resource/celex/11992MR} {ET|http://publications.europa.eu/resource/authority/fd_335/ET} {JO|http://publications.europa.eu/resource/authority/fd_335/JO} {L|http://publications.europa.eu/resource/authority/fd_335/L} 293/93 {P|http://publications.europa.eu/resource/authority/fd_335/P} 61</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:24/07/2014 16:20:30</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1997</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DEU.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DEU.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DEU.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DEU.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Vertrag über die Europäische Union (konsolidierte Fassung)#EU Vertrag (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0016</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.DEU</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.DEU</VALUE>
+               <IDENTIFIER>11997M.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DEU</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.DEU</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty on European Union (consolidated version)#EU Treaty (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG</VALUE>
+               <IDENTIFIER>11997M.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11997M</VALUE>
+      </IDENTIFIER>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11997M</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+               </DATE_PUBLICATION>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>340</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 340, 10 November 1997</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d0515efd-34d6-4c8e-96be-ea9a1b76a9e2</VALUE>
+            <IDENTIFIER>d0515efd-34d6-4c8e-96be-ea9a1b76a9e2</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R</VALUE>
+               <IDENTIFIER>JOC_1997_340_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ELL.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ELL.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη για την Ευρωπαϊκή Ένωση (ενοποιημένη απόδοση)#Συνθήκη ΕΕ (Μάαστριχτ 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ELL.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ELL.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0021</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0021</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ELL</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ELL</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ELL</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ELL</VALUE>
+               <IDENTIFIER>11997M.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1997-11-10</VALUE>
+         <YEAR>1997</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>10</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+            <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+         </ANNOTATION>
+      </WORK_DATE_DOCUMENT>
+      <DATE type="date">
+         <VALUE>1997-11-10</VALUE>
+         <YEAR>1997</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>10</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.POR.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.POR.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado da União Europeia (versão compilada)#Tratado UE (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.POR.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.POR.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.POR.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.POR.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0023</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0023</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.POR</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.POR</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.POR</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.POR</VALUE>
+               <IDENTIFIER>11997M.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traité sur l'Union européenne (version consolidée)#Traité UE (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FRA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FRA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FRA.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FRA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0015</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0015</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.FRA</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.FRA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.FRA</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.FRA</VALUE>
+               <IDENTIFIER>11997M.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DAN.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DAN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traktaten om Den Europæiske Union (konsolideret udgave)#EU Traktaten (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DAN.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.DAN.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0020</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0020</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.DAN</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.DAN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.DAN</VALUE>
+               <IDENTIFIER>11997M.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.DAN</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/47dc79f0-3336-4b12-bb3c-be930c8794b1</VALUE>
+            <IDENTIFIER>47dc79f0-3336-4b12-bb3c-be930c8794b1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/nice/art_1/sign</VALUE>
+               <IDENTIFIER>treaty:nice:art_1:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C001</VALUE>
+               <IDENTIFIER>12001C001</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 40B</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS.EN</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 40A</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS.DK</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27E</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27A</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS. GR</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 44A</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 43A</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27D</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27C</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27B</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 43B</REFERENCE_TO_MODIFIED_LOCATION>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE/>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finnish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SWE.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.SWE.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Fördraget om Europeiska union (konsoliderad version)#EU-fördraget (Maastricht 1992)##</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SWE.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.SWE.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0025</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0025</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.SWE</VALUE>
+               <IDENTIFIER>11997M.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.SWE</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.SWE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.SWE</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.SWE</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <IDENTIFIER type="data">
+         <VALUE>oj:JOC_1997_340_R_0145_01</VALUE>
+      </IDENTIFIER>
+      <DATE type="date">
+         <VALUE>1993-11-01</VALUE>
+         <YEAR>1993</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>M</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE>11997M</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11997M</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1997</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1997-11-10</VALUE>
+                  <YEAR>1997</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                     <BUILD_INFO>cadmos-7218 builddate:23/08/2018 15:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ITA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ITA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Trattato sull'Unione europea (versione consolidata)#Trattato UE (Maastricht 1992)</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ITA.html</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R_0145_01.ITA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0147</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_1997_340_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0146</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0018</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0018</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ITA</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ITA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ITA</VALUE>
+               <IDENTIFIER>11997M.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ITA</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1999-05-31</VALUE>
+         <YEAR>1999</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>31</DAY>
+      </DATE_CREATION_LEGACY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+            <IDENTIFIER>GLE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>GLE</OP-CODE>
+         <IDENTIFIER>GLE</IDENTIFIER>
+         <PREFLABEL>Irish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2019-09-17T07:55:03.243+02:00</VALUE>
+         <YEAR>2019</YEAR>
+         <MONTH>09</MONTH>
+         <DAY>17</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>M</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/47dc79f0-3336-4b12-bb3c-be930c8794b1</VALUE>
+            <IDENTIFIER>47dc79f0-3336-4b12-bb3c-be930c8794b1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/nice/art_1/sign</VALUE>
+               <IDENTIFIER>treaty:nice:art_1:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C001</VALUE>
+               <IDENTIFIER>12001C001</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 40B</REFERENCE_TO_MODIFIED_LOCATION>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS.EN</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 40A</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS.DK</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27E</REFERENCE_TO_MODIFIED_LOCATION>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27A</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{TIT|http://publications.europa.eu/resource/authority/fd_370/TIT} VII. VERS. GR</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 44A</REFERENCE_TO_MODIFIED_LOCATION>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 43A</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27D</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27C</REFERENCE_TO_MODIFIED_LOCATION>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 27B</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 17:05:35</BUILD_INFO>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <START_OF_VALIDITY>2003-02-01</START_OF_VALIDITY>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 43B</REFERENCE_TO_MODIFIED_LOCATION>
+            <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</VALUE>
+         <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG</VALUE>
+            <IDENTIFIER>11997M.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG</VALUE>
+            <IDENTIFIER>JOC_1997_340_R_0145_01.ENG</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG</VALUE>
+            <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Treaty on European Union (consolidated version)#EU Treaty (Maastricht 1992)</VALUE>
+      </EXPRESSION_TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2018-08-23T15:12:10.783+02:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>23</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.03</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.print</VALUE>
+               <IDENTIFIER>11997M.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.print</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>11997M.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.html</VALUE>
+               <IDENTIFIER>11997M.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.html</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M</VALUE>
+               <IDENTIFIER>11997M</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <TITLE type="data">
+         <VALUE>Treaty on European Union (consolidated version)#EU Treaty (Maastricht 1992)</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="pdfa1b">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</VALUE>
+         <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>11997M.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>pdfa1b</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02/DOC_1</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.pdfa1b.c_34019971110en01450172.pdf</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.pdfa1b.c_34019971110en01450172.pdf</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.pdfa1b.c_34019971110en01450172.pdf</VALUE>
+               <IDENTIFIER>11997M.ENG.pdfa1b.c_34019971110en01450172.pdf</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b.c_34019971110en01450172.pdf</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b.c_34019971110en01450172.pdf</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOC_1997_340_R_0145_01.ENG.pdfa1b.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_NAME type="data">
+               <VALUE>c_34019971110en01450172.pdf</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_SIZE type="data">
+               <VALUE>1991257</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</VALUE>
+               <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11997M.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</VALUE>
+               <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11997M.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG</VALUE>
+               <IDENTIFIER>11997M.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-16T09:13:04.116+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>16</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <TYPE>pdfa1b</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="pdfa1b"/>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.03</VALUE>
+         <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.03</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.print</VALUE>
+            <IDENTIFIER>11997M.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.print</VALUE>
+            <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.print</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.print</VALUE>
+            <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.print</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <PAGE_FIRST type="data">
+         <VALUE>0146</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0147</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG</VALUE>
+               <IDENTIFIER>11997M.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d0515efd-34d6-4c8e-96be-ea9a1b76a9e2.0004.02</VALUE>
+            <IDENTIFIER>d0515efd-34d6-4c8e-96be-ea9a1b76a9e2.0004.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R.ENG.print</VALUE>
+               <IDENTIFIER>JOC_1997_340_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>2</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0146</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <PAGE_LAST type="data">
+         <VALUE>0147</VALUE>
+      </PAGE_LAST>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-16T09:13:04.116+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>16</DAY>
+      </LASTMODIFICATIONDATE>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</VALUE>
+         <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html</VALUE>
+            <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.html</VALUE>
+            <IDENTIFIER>11997M.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.html</VALUE>
+            <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.html</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2018-08-23T15:12:10.783+02:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>23</DAY>
+      </LASTMODIFICATIONDATE>
+      <CREATIONDATE type="date">
+         <VALUE>2018-08-23T15:12:19.450+02:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>23</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>PROVIDED</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05/DOC_1</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html.11997Men.html</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html.11997Men.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.html.11997Men.html</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.html.11997Men.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.html.11997Men.html</VALUE>
+               <IDENTIFIER>11997M.ENG.html.11997Men.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_NAME type="data">
+               <VALUE>11997Men.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>3775</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOC_1997_340_R_0145_01.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</VALUE>
+               <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html</VALUE>
+                  <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.html</VALUE>
+                  <IDENTIFIER>11997M.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</VALUE>
+               <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019.05</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG.html</VALUE>
+                  <IDENTIFIER>JOC_1997_340_R_0145_01.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG.html</VALUE>
+                  <IDENTIFIER>11997M.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</VALUE>
+            <IDENTIFIER>cb0ccdcb-0803-46cc-938f-168c78a2bcf7.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1997_340_R_0145_01.ENG</VALUE>
+               <IDENTIFIER>JOC_1997_340_R_0145_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11997M.ENG</VALUE>
+               <IDENTIFIER>11997M.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.1997.340.01.0146.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.1997.340.01.0146.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

@@ -1,0 +1,3753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM</VALUE>
+            <IDENTIFIER>11985I/AVI/COM</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DEU.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DEU.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DEU.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DEU.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOKUMENTE BETREFFEND DEN BEITRITT DES KOENIGREICHS SPANIEN UND DER PORTUGIESISCHEN REPUBLIK ZU DEN EUROPAEISCHEN GEMEINSCHAFTEN, STELLUNGNAHME DER KOMMISSION VOM 31. MAI 1985 ZU DEM ANTRAG DES KOENIGREICHS SPANIEN UND DER PORTUGIESISCHEN REPUBLIK AUF BEITRITT ZU DEN EUROPAEISCHEN GEMEINSCHAFTEN</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.DEU</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.DEU</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DEU</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.DEU</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ATTI RELATIVI ALL' ADESIONE DEL REGNO DI SPAGNA E DELLA REPUBBLICA PORTOGHESE ALLE COMUNITA EUROPEE, PARERE DELLA COMMISSIONE DEL 31 MAGGIO 1985 RELATIVO ALLE DOMANDE DI ADESIONE DEL REGNO DI SPAGNA E DELLA REPUBBLICA PORTOGHESE ALLE COMUNITA EUROPEE</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ITA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ITA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ITA</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ITA</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ITA</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ITA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>I</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c15089cd-f111-4c07-970f-0af5caf8f852</VALUE>
+            <IDENTIFIER>c15089cd-f111-4c07-970f-0af5caf8f852</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A205</VALUE>
+               <IDENTIFIER>11957A205</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_205/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_205:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c15089cd-f111-4c07-970f-0af5caf8f852</VALUE>
+            <IDENTIFIER>c15089cd-f111-4c07-970f-0af5caf8f852</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A205</VALUE>
+               <IDENTIFIER>11957A205</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_205/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_205:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <IDENTIFIER type="data">
+         <VALUE>oj:JOL_1985_302_R_0003_118</VALUE>
+      </IDENTIFIER>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11985I/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+               <IDENTIFIER>ADH</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>ADH</OP-CODE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <PREFLABEL>Accession</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-01-29T14:13:20.415+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>29</DAY>
+      </LASTMODIFICATIONDATE>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>ADH</OP-CODE>
+         <IDENTIFIER>ADH</IDENTIFIER>
+         <PREFLABEL>Accession</PREFLABEL>
+      </IS_ABOUT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC TO THE EUROPEAN COMMUNITIES, COMMISSION OPINION OF 31 MAY 1985 ON THE APPLICATIONS FOR ACCESSION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+            <IDENTIFIER>OPIN</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>OPIN</OP-CODE>
+         <IDENTIFIER>OPIN</IDENTIFIER>
+         <PREFLABEL>Opinion</PREFLABEL>
+         <ALTLABEL>Opinions</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/AVIS</VALUE>
+            <IDENTIFIER>AVIS</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>AVIS</OP-CODE>
+         <IDENTIFIER>AVIS</IDENTIFIER>
+         <PREFLABEL>Opinion</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.NLD.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.NLD.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.NLD.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.NLD.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTEN BETREFFENDE DE TOETREDING VAN HET KONINKRIJK SPANJE EN DE PORTUGESE REPUBLIEK TOT DE EUROPESE GEMEENSCHAPPEN, ADVIES VAN DE COMMISSIE VAN 31 MEI 1985 MET BETREKKING TOT DE VERZOEKEN OM TOETREDING TOT DE EUROPESE GEMEENSCHAPPEN VAN HET KONINKRIJK SPANJE EN VAN DE PORTUGESE REPUBLIEK</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.NLD</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.NLD</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.NLD</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.NLD</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <ID_CELEX type="data">
+         <VALUE>11985I/AVI/COM</VALUE>
+      </ID_CELEX>
+      <IDENTIFIER type="data">
+         <VALUE>11985I/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1985</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1985-05-31</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>31</DAY>
+      </DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FIN.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FIN.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.FIN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC TO THE EUROPEAN COMMUNITIES, COMMISSION OPINION OF 31 MAY 1985 ON THE APPLICATIONS FOR ACCESSION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FIN</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.FIN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.FIN</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SWE.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SWE.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.SWE.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC TO THE EUROPEAN COMMUNITIES, COMMISSION OPINION OF 31 MAY 1985 ON THE APPLICATIONS FOR ACCESSION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.SWE</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SWE</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.SWE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SPA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.SPA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SPA.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.SPA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SPA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Documentos relativos a la adhesión del Reino de Espana y de la Republica Portuguesa a las Comunidades Europeas, Dictamen de la Comision, de 31 de mayo de 1985, relativo a las solicitudes de adhesión a las Comunidades Europeas del Reino de Espana y de la Republica Portuguesa</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.SPA</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.SPA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.SPA</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.SPA</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <YEAR type="data">
+         <VALUE>1985</VALUE>
+      </YEAR>
+      <IDENTIFIER type="data">
+         <VALUE>/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOKUMENTER VEDROERENDE KONGERIGET SPANIENS OG REPUBLIKKEN PORTUGALS TILTROEDELSE AF DE EUROPAEISKE FAELLESSKABER, KOMMISSIONENS UDTALELSE AF 31. MAJ 1985 OM KONGERIGET SPANIENS OG REPUBLIKKEN PORTUGALS ANSOEGNING OM TILTRAEDELSE AF DE EUROPAEISKE FAELLESSKABER</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DAN.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DAN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DAN.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.DAN.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.DAN</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.DAN</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.DAN</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.DAN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+               <IDENTIFIER>PRIN</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>PRIN</OP-CODE>
+            <IDENTIFIER>PRIN</IDENTIFIER>
+            <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTES RELATIFS A L' ADHESION DU ROYAUME D' ESPAGNE ET DE LA REPUBLIQUE PORTUGAISE AUX COMMUNAUTES EUROPEENNES , AVIS DE LA COMMISSION, DU 31 MAI 1985, RELATIF AUX DEMANDES D' ADHESION AUX COMMUNAUTES EUROPEENNES DU ROYAUME D' ESPAGNE ET DE LA REPUBLIQUE PORTUGAISE</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FRA.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.FRA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FRA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.FRA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.FRA</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.FRA</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.FRA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.FRA</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11985I/AVI/COM</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <DATE type="date">
+         <VALUE>1985-05-31</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.POR.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTOS relativos à adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, PARECER DA COMISSÃO de 31 de Maio de 1985 relativo aos pedidos de adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.POR.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.POR.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.POR.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.POR.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.POR.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.POR</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.POR</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.POR</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.POR</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </BASED_ON>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+            <IDENTIFIER>PRIN</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>PRIN</OP-CODE>
+         <IDENTIFIER>PRIN</IDENTIFIER>
+         <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1985-05-31</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>31</DAY>
+      </WORK_DATE_DOCUMENT>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </BASED_ON>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission of the European Communities</ALTLABEL>
+         <ALTLABEL>European Commission</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-L</VALUE>
+                     <IDENTIFIER>OJ-L</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-L</OP-CODE>
+                  <IDENTIFIER>OJ-L</IDENTIFIER>
+                  <PREFLABEL>OJ-L</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1985-11-15</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>15</DAY>
+               </DATE_PUBLICATION>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-11-15</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>15</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>302</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, L 302, 15 November 1985</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.fmx4</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ENG.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.xhtml</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ENG.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/28546a6d-7930-4f52-b17a-752361f7e1bb</VALUE>
+            <IDENTIFIER>28546a6d-7930-4f52-b17a-752361f7e1bb</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R</VALUE>
+               <IDENTIFIER>JOL_1985_302_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>I</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1985</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11985I/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1985-05-31</VALUE>
+                  <YEAR>1985</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.03</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ELL.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Πράξεις γιά την προσχώρηση του Βασιλείου της Ισπανίας και της Πορτογαλικής Δημοκρατίας στις Ευρωπαϊκές Κοινότητες, Γνώμη της Επιτροπής της 31ης Μαΐου 1985 σχετικά με τις αιτήσεις προσχώρησης του Βασιλείου της Ισπανίας και της Πορτογαλικής Δημοκρατίας στις Ευρωπαϊκές Κοινότητες</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.01</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ELL.html</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ELL.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.02</VALUE>
+                     <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ELL.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R_0003_118.ELL.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOL_1985_302_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ELL</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ELL</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ELL</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ELL</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/aeef1fb4-6dcb-4471-8afe-04260a6c8b85</VALUE>
+            <IDENTIFIER>aeef1fb4-6dcb-4471-8afe-04260a6c8b85</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E237</VALUE>
+               <IDENTIFIER>11957E237</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_237/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_237:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/aeef1fb4-6dcb-4471-8afe-04260a6c8b85</VALUE>
+            <IDENTIFIER>aeef1fb4-6dcb-4471-8afe-04260a6c8b85</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E237</VALUE>
+               <IDENTIFIER>11957E237</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_237/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_237:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <DATE type="date">
+         <VALUE>1985-11-15</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>15</DAY>
+      </DATE>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+            <IDENTIFIER>JO</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>JO</OP-CODE>
+         <IDENTIFIER>JO</IDENTIFIER>
+         <PREFLABEL>JO</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/bcfd0e26-2886-41e4-af2a-a5c255d32912</VALUE>
+            <IDENTIFIER>bcfd0e26-2886-41e4-af2a-a5c255d32912</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K098</VALUE>
+               <IDENTIFIER>11951K098</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_98/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_98:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/bcfd0e26-2886-41e4-af2a-a5c255d32912</VALUE>
+            <IDENTIFIER>bcfd0e26-2886-41e4-af2a-a5c255d32912</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K098</VALUE>
+               <IDENTIFIER>11951K098</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_98/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_98:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </BASED_ON>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>oj:JOL_1985_302_R_0003_118</VALUE>
+      </WORK_ID_DOCUMENT>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d09a9050-87b6-4cda-88c5-7a4378f82baa</VALUE>
+            <IDENTIFIER>d09a9050-87b6-4cda-88c5-7a4378f82baa</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1985/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1985:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FTXT</VALUE>
+               <IDENTIFIER>11985I/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0009_121</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0009_121</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE>11079</VALUE>
+      </IDENTIFIER>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1985-11-15</VALUE>
+         <YEAR>1985</YEAR>
+         <MONTH>11</MONTH>
+         <DAY>15</DAY>
+      </DATE_CREATION_LEGACY>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission of the European Communities</ALTLABEL>
+         <ALTLABEL>European Commission</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </CREATED_BY>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11985I/AVI/COM</VALUE>
+      </WORK_ID_DOCUMENT>
+      <TYPE>I</TYPE>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+            <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+            <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC TO THE EUROPEAN COMMUNITIES, COMMISSION OPINION OF 31 MAY 1985 ON THE APPLICATIONS FOR ACCESSION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC</VALUE>
+      </TITLE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-07-28T14:28:20.192+02:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>28</DAY>
+      </LASTMODIFICATIONDATE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>DOCUMENTS CONCERNING THE ACCESSION OF THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC TO THE EUROPEAN COMMUNITIES, COMMISSION OPINION OF 31 MAY 1985 ON THE APPLICATIONS FOR ACCESSION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF SPAIN AND THE PORTUGUESE REPUBLIC</VALUE>
+      </EXPRESSION_TITLE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.03</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.print</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.print</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM</VALUE>
+               <IDENTIFIER>11985I/AVI/COM</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="fmx4">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+            <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+            <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01/DOC_1</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4.L_1985302EN.01000301.doc.xml</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4.L_1985302EN.01000301.doc.xml</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4.L_1985302EN.01000301.doc.xml</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4.L_1985302EN.01000301.doc.xml</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4.L_1985302EN.01000301.doc.xml</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.fmx4.L_1985302EN.01000301.doc.xml</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.fmx4.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_NAME type="data">
+               <VALUE>L_1985302EN.01000301.doc.xml</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>1081</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>2</VALUE>
+            </STREAM_ORDER>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01/DOC_2</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01:DOC_2</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4.L_1985302EN.01000301.xml</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4.L_1985302EN.01000301.xml</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4.L_1985302EN.01000301.xml</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.fmx4.L_1985302EN.01000301.xml</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4.L_1985302EN.01000301.xml</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4.L_1985302EN.01000301.xml</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.fmx4.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_NAME type="data">
+               <VALUE>L_1985302EN.01000301.xml</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>4408</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>3</VALUE>
+            </STREAM_ORDER>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.fmx4</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.fmx4</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.fmx4</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.fmx4</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.fmx4</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.fmx4</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_2</VALUE>
+         </ITEM_IDENTIFIER>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_2</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-21T14:18:35.445+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>21</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eudor</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>fmx4</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <TYPE>fmx4</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="fmx4"/>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.03</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.03</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.print</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.print</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.print</VALUE>
+            <IDENTIFIER>11985I/AVI/COM.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.print</VALUE>
+            <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.print</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0003</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_SECTION_OJ type="data">
+         <VALUE>L1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_SECTION_OJ>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/28546a6d-7930-4f52-b17a-752361f7e1bb.0004.03</VALUE>
+            <IDENTIFIER>28546a6d-7930-4f52-b17a-752361f7e1bb.0004.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R.ENG.print</VALUE>
+               <IDENTIFIER>JOL_1985_302_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <TYPEDOC_PRINTER type="data">
+         <VALUE>OPIN</VALUE>
+      </TYPEDOC_PRINTER>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_TYPEDOC_PRINTER type="data">
+         <VALUE>OPIN</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_TYPEDOC_PRINTER>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <PAGE_LAST type="data">
+         <VALUE>0003</VALUE>
+      </PAGE_LAST>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-21T14:18:35.445+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>21</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="pdfa1b">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>11985I/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-21T14:18:35.445+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>21</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eudor</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>pdfa1b</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02/DOC_1</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.pdfa1b.l_30219851115en00030003.pdf</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.pdfa1b.l_30219851115en00030003.pdf</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b.l_30219851115en00030003.pdf</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b.l_30219851115en00030003.pdf</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.pdfa1b.l_30219851115en00030003.pdf</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.pdfa1b.l_30219851115en00030003.pdf</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.pdfa1b.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_SIZE type="data">
+               <VALUE>190195</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_NAME type="data">
+               <VALUE>l_30219851115en00030003.pdf</VALUE>
+            </STREAM_NAME>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <TYPE>pdfa1b</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="pdfa1b"/>
+   <MANIFESTATION manifestation-type="xhtml">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+         <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+            <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+            <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+            <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04/DOC_2</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04:DOC_2</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0001.xml.jpg</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.xhtml.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_SIZE type="data">
+               <VALUE>6365</VALUE>
+            </STREAM_SIZE>
+            <STREAM_NAME type="data">
+               <VALUE>FOR-L_1985302EN.01039802.notes.0001.xml.jpg</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>2</VALUE>
+            </STREAM_ORDER>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_2</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_2</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04/DOC_3</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04:DOC_3</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml.FOR-L_1985302EN.01039802.notes.0002.xml.jpg</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>FOR-L_1985302EN.01039802.notes.0002.xml.jpg</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>7115</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>3</VALUE>
+            </STREAM_ORDER>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.xhtml.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_3</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_3</VALUE>
+         </IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+      </MANIFESTATION_HAS_ITEM>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>EUDOR:fmx2xhtml:7.2</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <CREATIONDATE type="date">
+         <VALUE>2016-07-28T14:28:24.278+02:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>28</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>xhtml</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04/DOC_1</VALUE>
+            <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml.L_1985302EN.01000301.doc.html</VALUE>
+               <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml.L_1985302EN.01000301.doc.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml.L_1985302EN.01000301.doc.html</VALUE>
+               <IDENTIFIER>11985I/AVI/COM.ENG.xhtml.L_1985302EN.01000301.doc.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml.L_1985302EN.01000301.doc.html</VALUE>
+               <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml.L_1985302EN.01000301.doc.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>L_1985302EN.01000301.doc.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_SIZE type="data">
+               <VALUE>4872</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1985_302_R_0003_118.ENG.xhtml.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</VALUE>
+               <IDENTIFIER>0c2c15c3-bcc2-455d-bd46-d5ade647f8e5.0004.04</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11985I%2FAVI%2FCOM.ENG.xhtml</VALUE>
+                  <IDENTIFIER>11985I/AVI/COM.ENG.xhtml</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1985.302.01.0003.01.ENG.xhtml</VALUE>
+                  <IDENTIFIER>OJ.L_.1985.302.01.0003.01.ENG.xhtml</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1985_302_R_0003_118.ENG.xhtml</VALUE>
+                  <IDENTIFIER>JOL_1985_302_R_0003_118.ENG.xhtml</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-07-28T14:28:20.198+02:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>28</DAY>
+      </LASTMODIFICATIONDATE>
+      <TYPE>xhtml</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="xhtml"/>
+</NOTICE>

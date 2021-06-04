@@ -1,0 +1,3437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad</VALUE>
+         <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024</VALUE>
+            <IDENTIFIER>JOL_1972_073_R_0003_024</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM</VALUE>
+            <IDENTIFIER>11972B/AVI/COM</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission of the European Communities</ALTLABEL>
+         <ALTLABEL>European Commission</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/aeef1fb4-6dcb-4471-8afe-04260a6c8b85</VALUE>
+            <IDENTIFIER>aeef1fb4-6dcb-4471-8afe-04260a6c8b85</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E237</VALUE>
+               <IDENTIFIER>11957E237</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_237/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_237:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/aeef1fb4-6dcb-4471-8afe-04260a6c8b85</VALUE>
+            <IDENTIFIER>aeef1fb4-6dcb-4471-8afe-04260a6c8b85</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957E237</VALUE>
+               <IDENTIFIER>11957E237</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teec/art_237/sign</VALUE>
+               <IDENTIFIER>treaty:teec:art_237:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <YEAR type="data">
+         <VALUE>1972</VALUE>
+      </YEAR>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0011.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0011.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FIN.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0011.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0011.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FIN.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FIN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0011</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.FIN</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FIN</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.FIN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1972</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <DATE type="date">
+         <VALUE>1972-01-19</VALUE>
+         <YEAR>1972</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>19</DAY>
+      </DATE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission of the European Communities</ALTLABEL>
+         <ALTLABEL>European Commission</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1972-01-19</VALUE>
+         <YEAR>1972</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>19</DAY>
+      </WORK_DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+                     <IDENTIFIER>GLE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>GLE</OP-CODE>
+                  <IDENTIFIER>GLE</IDENTIFIER>
+                  <PREFLABEL>Irish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tuairim an Choimisiúin dár dáta 19 Eanáir 1972 faoi na h-iarratasaí do rinne Ríocht na Danmhairge, Éire, Ríocht na hloruaidhe agus Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann chun beith ina gcomhaltaí de na Comhphobail Eorpacha</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0007.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0007.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.GLE.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.GLE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0007.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0007.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.GLE.pdf</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.GLE.pdf</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.GLE.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.GLE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0007</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.GLE</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.GLE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.GLE</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.GLE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.GLE</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.GLE</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+            <IDENTIFIER>JO</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>JO</OP-CODE>
+         <IDENTIFIER>JO</IDENTIFIER>
+         <PREFLABEL>JO</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/bcfd0e26-2886-41e4-af2a-a5c255d32912</VALUE>
+            <IDENTIFIER>bcfd0e26-2886-41e4-af2a-a5c255d32912</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K098</VALUE>
+               <IDENTIFIER>11951K098</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_98/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_98:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <IDENTIFIER type="data">
+         <VALUE>11972B/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/bcfd0e26-2886-41e4-af2a-a5c255d32912</VALUE>
+            <IDENTIFIER>bcfd0e26-2886-41e4-af2a-a5c255d32912</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11951K098</VALUE>
+               <IDENTIFIER>11951K098</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/ceca/art_98/sign</VALUE>
+               <IDENTIFIER>treaty:ceca:art_98:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <ID_CELEX type="data">
+         <VALUE>11972B/AVI/COM</VALUE>
+      </ID_CELEX>
+      <IDENTIFIER type="data">
+         <VALUE>oj:JOL_1972_073_R_0003_024</VALUE>
+      </IDENTIFIER>
+      <IDENTIFIER type="data">
+         <VALUE>/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+               <IDENTIFIER>PRIN</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>PRIN</OP-CODE>
+            <IDENTIFIER>PRIN</IDENTIFIER>
+            <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-03-27</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>27</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-L</VALUE>
+                     <IDENTIFIER>OJ-L</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-L</OP-CODE>
+                  <IDENTIFIER>OJ-L</IDENTIFIER>
+                  <PREFLABEL>OJ-L</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1972-03-27</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>27</DAY>
+               </DATE_PUBLICATION>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>073</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, L 73, 27 March 1972</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/7f6678c2-188b-41de-a8b3-08f40d5302d0</VALUE>
+            <IDENTIFIER>7f6678c2-188b-41de-a8b3-08f40d5302d0</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R</VALUE>
+               <IDENTIFIER>JOL_1972_073_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0005.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0005.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ITA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ITA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0005.03</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0005.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ATTI RELATIVI ALL' ADESIONE ALLE COMUNITA EUROPEE DEL REGNO DI DANIMARCA, DELL' IRLANDA, DEL REGNO DI NORVEGIA E DEL REGNO UNITO DI GRAN BRETAGNA E IRLANDA DEL NORD, PARERE DELLA COMMISSIONE, IN DATA 19 GENNAIO 1972, RELATIVO ALLE DOMANDE DI ADESIONE ALLE COMUNITA EUROPEE DEL REGNO DI DANIMARCA, DELL' IRLANDA, DEL REGNO DI NORVEGIA E DEL REGNO UNITO DI GRAN BRETAGNA E IRLANDA DEL NORD</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0005.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0005.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ITA.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ITA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0005</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ITA</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ITA</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ITA</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ITA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0013.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0013.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SWE.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.SWE.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0013.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0013.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SWE.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0013</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0013</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.SWE</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SWE</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.SWE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/CECA_1951</VALUE>
+            <IDENTIFIER>CECA_1951</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>CECA_1951</OP-CODE>
+         <IDENTIFIER>CECA_1951</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Coal and Steel Community (1951)</PREFLABEL>
+         <ALTLABEL>Treaty of Paris (1951)</ALTLABEL>
+         <ALTLABEL>Paris Treaty (1951)</ALTLABEL>
+         <ALTLABEL>ECSC Treaty (1951)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOKUMENTE BETREFFEND DEN BEITRITT ZU DEN EUROPAEISCHEN GEMEINSCHAFTEN DES KOENIGREICHS DAENEMARK, IRLANDS, DES KOENIGREICHS NORWEGEN UND DES VEREINIGTEN KOENIGREICHS GROSSBRITANNIEN UND NORDIRLAND, STELLUNGNAHME DER KOMMISSION VOM 19. JANUAR 1972 ZU DEN ANTRAEGEN DES KOENIGREICHS DAENEMARK, IRLANDS, DES KOENIGREICHS NORWEGEN UND DES VEREINIGTEN KOENIGREICHS GROSSBRITANNIEN UND NORDIRLAND AUF BEITRITT ZU DEN EUROPAEISCHEN GEMEINSCHAFTEN</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0002.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0002.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DEU.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DEU.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0002.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0002.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DEU.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DEU.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0002.03</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0002.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0002</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.DEU</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DEU</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.DEU</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.DEU</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11972B/AVI/COM</VALUE>
+      </IDENTIFIER>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+            <IDENTIFIER>PRIN</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>PRIN</OP-CODE>
+         <IDENTIFIER>PRIN</IDENTIFIER>
+         <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/EURATOM_1957</VALUE>
+            <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>EURATOM_1957</OP-CODE>
+         <IDENTIFIER>EURATOM_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Atomic Energy Community (1957)</PREFLABEL>
+         <ALTLABEL>Euratom Treaty (1957)</ALTLABEL>
+         <ALTLABEL>EAEC Treaty (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <IDENTIFIER type="data">
+         <VALUE>10581</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>B</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0009.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0009.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SPA.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.SPA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0009.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0009.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SPA.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0009</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.SPA</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.SPA</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.SPA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0006.03</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0006.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTEN BETREFFENDE DE TOETREDING TOT DE EUROPESE GEMEENSCHAPPEN VAN HET KONINKRIJK DENEMARKEN, IERLAND, HET KONINKRIJK NOORWEGEN EN HET VERENIGD KONINKRIJK VAN GROOT-BRITTANNIE EN NOORD-IERLAND, ADVIES VAN DE COMMISSIE VAN 19 JANUARI 1972 BETREFFENDE DE VERZOEKEN OM TOETREDING TOT DE EUROPESE GEMEENSCHAPPEN VAN HET KONINKRIJK DENEMARKEN, IERLAND, HET KONINKRIJK NOORWEGEN EN HET VERENIGD KONINKRIJK VAN GROOT-BRITTANNIE EN NOORD-IERLAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0006.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0006.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NLD.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.NLD.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0006.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0006.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NLD.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.NLD.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0006</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.NLD</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NLD</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.NLD</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.NLD</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Kommisjonens uttalelse av 19. januar 1972 vedrørende Kongeriker Danmarks, Irlands, Kongeriket Norges og Der Forente Kongerike Storbritannia og Nord-Irlands tiltredelse til De Europeiske Fellesskap</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NOR</VALUE>
+                     <IDENTIFIER>NOR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NOR</OP-CODE>
+                  <IDENTIFIER>NOR</IDENTIFIER>
+                  <PREFLABEL>Norwegian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0008.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0008.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NOR.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.NOR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0008.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0008.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NOR.pdf</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.NOR.pdf</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.NOR.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.NOR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0008</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.NOR</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.NOR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.NOR</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.NOR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.NOR</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.NOR</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0010.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0010.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ELL.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0010.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0010.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ELL.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.ELL.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0010</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ELL</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ELL</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ELL</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0012.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0012.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.POR.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0012.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0012.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.POR.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.POR.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0012</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0012</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.POR</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.POR</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.POR</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-01-29T14:13:52.032+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>29</DAY>
+      </LASTMODIFICATIONDATE>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+            <IDENTIFIER>OPIN</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>OPIN</OP-CODE>
+         <IDENTIFIER>OPIN</IDENTIFIER>
+         <PREFLABEL>Opinion</PREFLABEL>
+         <ALTLABEL>Opinions</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/AVIS</VALUE>
+            <IDENTIFIER>AVIS</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>AVIS</OP-CODE>
+         <IDENTIFIER>AVIS</IDENTIFIER>
+         <PREFLABEL>Opinion</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>oj:JOL_1972_073_R_0003_024</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11972B/AVI/COM</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FRA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA.xhtml</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FRA.xhtml</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACTES RELATIFS A L' ADHESION AUX COMMUNAUTES EUROPEENNES DU ROYAUME DE DANEMARK, DE L' IRLANDE, DU ROYAUME DE NORVEGE ET DU ROYAUME-UNI DE GRANDE-BRETAGNE ET D' IRLANDE DU NORD, AVIS DE LA COMMISSION, DU 19 JANVIER 1972, RELATIF AUX DEMANDES D' ADHESION AUX COMMUNAUTES EUROPEENNES DU ROYAUME DE DANEMARK, DE L' IRLANDE, DU ROYAUME DE NORVEGE ET DU ROYAUME-UNI DE GRANDE-BRETAGNE ET D' IRLANDE DU NORD</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FRA.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA.fmx4</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.FRA.fmx4</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="fmx4">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>fmx4</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="xhtml">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>xhtml</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0004</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.FRA</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.FRA</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.FRA</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.FRA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1972-03-27</VALUE>
+         <YEAR>1972</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>27</DAY>
+      </DATE_CREATION_LEGACY>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11972B/AVI/COM</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+               <IDENTIFIER>ADH</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>ADH</OP-CODE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <PREFLABEL>Accession</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c15089cd-f111-4c07-970f-0af5caf8f852</VALUE>
+            <IDENTIFIER>c15089cd-f111-4c07-970f-0af5caf8f852</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A205</VALUE>
+               <IDENTIFIER>11957A205</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_205/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_205:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </BASED_ON>
+      <DATE type="date">
+         <VALUE>1972-03-27</VALUE>
+         <YEAR>1972</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>27</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c15089cd-f111-4c07-970f-0af5caf8f852</VALUE>
+            <IDENTIFIER>c15089cd-f111-4c07-970f-0af5caf8f852</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11957A205</VALUE>
+               <IDENTIFIER>11957A205</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/euratom/art_205/sign</VALUE>
+               <IDENTIFIER>treaty:euratom:art_205:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1972-01-19</VALUE>
+         <YEAR>1972</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>19</DAY>
+      </DATE_DOCUMENT>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+            <IDENTIFIER>ADH</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>ADH</OP-CODE>
+         <IDENTIFIER>ADH</IDENTIFIER>
+         <PREFLABEL>Accession</PREFLABEL>
+      </IS_ABOUT>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/7d17fd1d-387a-4157-89fc-dd826aa2d606</VALUE>
+            <IDENTIFIER>7d17fd1d-387a-4157-89fc-dd826aa2d606</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FTXT</VALUE>
+               <IDENTIFIER>11972B/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1972/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1972:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1972</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1972-01-19</VALUE>
+                  <YEAR>1972</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>19</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PRIN</VALUE>
+                        <IDENTIFIER>PRIN</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PRIN</OP-CODE>
+                     <IDENTIFIER>PRIN</IDENTIFIER>
+                     <PREFLABEL>Principles, objectives and tasks of the Treaties</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>B</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OPIN</VALUE>
+                     <IDENTIFIER>OPIN</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OPIN</OP-CODE>
+                  <IDENTIFIER>OPIN</IDENTIFIER>
+                  <PREFLABEL>Opinion</PREFLABEL>
+                  <ALTLABEL>Opinions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11972B/AVI/COM</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0001.02</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0001.02</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DAN.html</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DAN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>DOKUMENTER VEDROERENDE KONGERIGET DANMARKS, IRLANDS, KONGERIGET NORGES OG DET FORENEDE KONGERIGE STORBRITANNIEN OG NORDIRLANDS TILTRAEDELSE AF DE EUROPAEISKE FAELLESSKABER, KOMMISSIONENS UDTALELSE AF 19. JANUAR 1972 VEDROERENDE KONGERIGET DANMARKS, IRLANDS, KONGERIGET NORGES OG DET FORENEDE KONGERIGE STORBRITANNIEN OG NORDIRLANDS ANSOEGNING OM TILTRAEDELSE AF DE EUROPAEISKE FAELLESSKABER</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0001.03</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0001.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0001.01</VALUE>
+                     <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0001.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DAN.pdfa1b</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R_0003_024.DAN.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOL_1972_073_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0003</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0001</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.DAN</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.DAN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.DAN</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.DAN</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <TYPE>B</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+         <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+            <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+            <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+            <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM</VALUE>
+               <IDENTIFIER>11972B/AVI/COM</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <TITLE type="data">
+         <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+      </TITLE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.html</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.html</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.print</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.print</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM</VALUE>
+               <IDENTIFIER>11972B/AVI/COM</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-18T19:30:47.028+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>DOCUMENTS CONCERNING THE ACCESSION TO THE EUROPEAN COMMUNITIES OF THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, COMMISSION OPINION OF 19 JANUARY 1972 ON THE APPLICATION TO THE EUROPEAN COMMUNITIES BY THE KINGDOM OF DENMARK, IRELAND, THE KINGDOM OF NORWAY AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</VALUE>
+      </EXPRESSION_TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</VALUE>
+         <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html</VALUE>
+            <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.html</VALUE>
+            <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.html</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.html</VALUE>
+            <IDENTIFIER>11972B/AVI/COM.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02/DOC_1</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html.11972B_AVI_COMen.html</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html.11972B_AVI_COMen.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.html.11972B_AVI_COMen.html</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.html.11972B_AVI_COMen.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.html.11972B_AVI_COMen.html</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG.html.11972B_AVI_COMen.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_ORDER type="data">
+               <VALUE>2</VALUE>
+            </STREAM_ORDER>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1972_073_R_0003_024.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_NAME type="data">
+               <VALUE>11972B_AVI_COMen.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>5059</VALUE>
+            </STREAM_SIZE>
+         </TECHMD>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</VALUE>
+               <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html</VALUE>
+                  <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.html</VALUE>
+                  <IDENTIFIER>11972B/AVI/COM.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</VALUE>
+               <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.02</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.html</VALUE>
+                  <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.html</VALUE>
+                  <IDENTIFIER>11972B/AVI/COM.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-18T19:30:47.028+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </LASTMODIFICATIONDATE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</VALUE>
+         <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.03</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.print</VALUE>
+            <IDENTIFIER>11972B/AVI/COM.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.print</VALUE>
+            <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.print</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.print</VALUE>
+            <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.print</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <PAGE_LAST type="data">
+         <VALUE>0003</VALUE>
+      </PAGE_LAST>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/7f6678c2-188b-41de-a8b3-08f40d5302d0.0003.02</VALUE>
+            <IDENTIFIER>7f6678c2-188b-41de-a8b3-08f40d5302d0.0003.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R.ENG.print</VALUE>
+               <IDENTIFIER>JOL_1972_073_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-18T19:30:47.029+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </LASTMODIFICATIONDATE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_TYPEDOC_PRINTER type="data">
+         <VALUE>OPIN</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_TYPEDOC_PRINTER>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_SECTION_OJ type="data">
+         <VALUE>L1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_SECTION_OJ>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <TYPEDOC_PRINTER type="data">
+         <VALUE>OPIN</VALUE>
+      </TYPEDOC_PRINTER>
+      <PAGE_FIRST type="data">
+         <VALUE>0003</VALUE>
+      </PAGE_FIRST>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0003</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="pdfa1b">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</VALUE>
+         <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>11972B/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b</VALUE>
+            <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eudor</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>pdfa1b</VALUE>
+      </MANIFESTATION_TYPE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01/DOC_1</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.pdfa1b.l_07319720327en00030003.pdf</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.pdfa1b.l_07319720327en00030003.pdf</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b.l_07319720327en00030003.pdf</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b.l_07319720327en00030003.pdf</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.pdfa1b.l_07319720327en00030003.pdf</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG.pdfa1b.l_07319720327en00030003.pdf</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_NAME type="data">
+               <VALUE>l_07319720327en00030003.pdf</VALUE>
+            </STREAM_NAME>
+            <STREAM_SIZE type="data">
+               <VALUE>178833</VALUE>
+            </STREAM_SIZE>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOL_1972_073_R_0003_024.ENG.pdfa1b.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</VALUE>
+               <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11972B/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</VALUE>
+               <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>11972B/AVI/COM.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG.pdfa1b</VALUE>
+                  <IDENTIFIER>JOL_1972_073_R_0003_024.ENG.pdfa1b</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-18T19:30:47.028+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>18</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/74199a6d-11f1-49fd-8081-123e77b195ad.0003</VALUE>
+            <IDENTIFIER>74199a6d-11f1-49fd-8081-123e77b195ad.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1972_073_R_0003_024.ENG</VALUE>
+               <IDENTIFIER>JOL_1972_073_R_0003_024.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11972B%2FAVI%2FCOM.ENG</VALUE>
+               <IDENTIFIER>11972B/AVI/COM.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.1972.073.01.0003.01.ENG</VALUE>
+               <IDENTIFIER>OJ.L_.1972.073.01.0003.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <TYPE>pdfa1b</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="pdfa1b"/>
+</NOTICE>

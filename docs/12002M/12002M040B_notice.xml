@@ -1,0 +1,3173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d</VALUE>
+         <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12002M040B</VALUE>
+            <IDENTIFIER>12002M040B</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2002/art_40b/oj</VALUE>
+            <IDENTIFIER>treaty:teu_2002:art_40b:oj</IDENTIFIER>
+            <TYPE>eli</TYPE>
+         </URI>
+      </SAMEAS>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2002/art_40b/oj</VALUE>
+      </ELI>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finnish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>12002M040B</VALUE>
+      </IDENTIFIER>
+      <TREATY_NAME type="data">
+         <VALUE>teu_2002</VALUE>
+      </TREATY_NAME>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>M</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+               <IDENTIFIER>COOP</IDENTIFIER>
+               <TYPE>fd_070</TYPE>
+            </URI>
+            <OP-CODE>COOP</OP-CODE>
+            <IDENTIFIER>COOP</IDENTIFIER>
+            <PREFLABEL>Cooperation</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/653767ca-12b0-45c1-9b1e-0286a8afc6bc</VALUE>
+            <IDENTIFIER>653767ca-12b0-45c1-9b1e-0286a8afc6bc</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M%2FTXT</VALUE>
+               <IDENTIFIER>12002M/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>2001-02-26</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>26</DAY>
+      </WORK_DATE_DOCUMENT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+            <IDENTIFIER>SPA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SPA</OP-CODE>
+         <IDENTIFIER>SPA</IDENTIFIER>
+         <PREFLABEL>Spanish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/GLE</VALUE>
+            <IDENTIFIER>GLE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>GLE</OP-CODE>
+         <IDENTIFIER>GLE</IDENTIFIER>
+         <PREFLABEL>Irish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+            <IDENTIFIER>NLD</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>NLD</OP-CODE>
+         <IDENTIFIER>NLD</IDENTIFIER>
+         <PREFLABEL>Dutch</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_DATE_SIGNATURE type="date">
+         <VALUE>2001-02-26</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>26</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:29/01/2015 14:36:45</BUILD_INFO>
+            <COMMENT_ON_DATE>{FRA_NCE|http://publications.europa.eu/resource/authority/place/FRA_NCE}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_SIGNATURE>
+      <DATE type="date">
+         <VALUE>2001-02-26</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>26</DAY>
+      </DATE>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:12002M040B</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+            <IDENTIFIER>DEU</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DEU</OP-CODE>
+         <IDENTIFIER>DEU</IDENTIFIER>
+         <PREFLABEL>German</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Vertrag über die Europäische Union (Nizza konsolidierte Fassung)#Titel VI: Bestimmungen über die polizeiliche und justitielle Zusammenarbeit in Strafsachen#Artikel 40 b</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DEU.html</VALUE>
+                        <IDENTIFIER>12002M040B.DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DEU.print</VALUE>
+                        <IDENTIFIER>12002M040B.DEU.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0002</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DEU</VALUE>
+               <IDENTIFIER>12002M040B.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.DEU</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.NLD.print</VALUE>
+                        <IDENTIFIER>12002M040B.NLD.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.NLD.html</VALUE>
+                        <IDENTIFIER>12002M040B.NLD.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verdrag betreffende de Europese Unie (Geconsolideerde Versie Nice)#Titel VI: Bepalingen inzake politiële en justitiële samenwerking in strafzaken#Artikel 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0003</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.NLD</VALUE>
+               <IDENTIFIER>12002M040B.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.NLD</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>325</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>2002</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2002-12-24</VALUE>
+                  <YEAR>2002</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>2002-12-24</VALUE>
+                  <YEAR>2002</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>24</DAY>
+               </DATE_PUBLICATION>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.pdf</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ENG.pdf</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 325, 24 December 2002</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/92222d07-3ada-4801-853e-96210c6bd021</VALUE>
+            <IDENTIFIER>92222d07-3ada-4801-853e-96210c6bd021</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R</VALUE>
+               <IDENTIFIER>JOC_2002_325_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <DATE type="date">
+         <VALUE>2003-02-01</VALUE>
+         <YEAR>2003</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>01</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <DATE type="date">
+         <VALUE>2003-02-11</VALUE>
+         <YEAR>2003</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>11</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SPA.print</VALUE>
+                        <IDENTIFIER>12002M040B.SPA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de la Unión Europea (versión consolidada Niza)#Título VI: Disposiciones relativas a la Cooperación Policial y Judicial en Materia Penal#Artículo 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SPA.html</VALUE>
+                        <IDENTIFIER>12002M040B.SPA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0008</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.SPA</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SPA</VALUE>
+               <IDENTIFIER>12002M040B.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.print</VALUE>
+                        <IDENTIFIER>12002M040B.ENG.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty on European Union (Nice consolidated version)#Title VI: Provisions on police and judicial cooperation in criminal matters#Article 40 b</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html</VALUE>
+                        <IDENTIFIER>12002M040B.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+               <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/1c4fb08a-f8da-46d7-beab-9fa05e5f41d1</VALUE>
+            <IDENTIFIER>1c4fb08a-f8da-46d7-beab-9fa05e5f41d1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M044</VALUE>
+               <IDENTIFIER>12002M044</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2002/art_44/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2002:art_44:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS15</VALUE>
+            <IDENTIFIER>EUMS15</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS15</OP-CODE>
+         <IDENTIFIER>EUMS15</IDENTIFIER>
+         <PREFLABEL>The fifteen Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Austria, Portugal, Finland, Sweden, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FIN.print</VALUE>
+                        <IDENTIFIER>12002M040B.FIN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FIN.html</VALUE>
+                        <IDENTIFIER>12002M040B.FIN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Sopimus Euroopan unionista (konsolidoitu toisinto Nizza)#VI osasto: Määräykset poliisiyhteistyöstä ja oikeudellisesta yhteistyöstä rikosasioissa#40 b artikla</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0010</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.FIN</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.FIN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FIN</VALUE>
+               <IDENTIFIER>12002M040B.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CITES_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/14ff0285-ddc6-41fe-add3-5bef9da71633</VALUE>
+            <IDENTIFIER>14ff0285-ddc6-41fe-add3-5bef9da71633</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040</VALUE>
+               <IDENTIFIER>12002M040</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2002/art_40/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2002:art_40:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_CITES_WORK>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traktaten om Den Europæiske Union (konsolideret udgave Nice)#Afsnit VI: Bestemmelse en Politisamarbejde og Retligt Samarbejde i Kriminalsager#Artikel 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DAN.html</VALUE>
+                        <IDENTIFIER>12002M040B.DAN.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DAN.print</VALUE>
+                        <IDENTIFIER>12002M040B.DAN.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0006</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.DAN</VALUE>
+               <IDENTIFIER>12002M040B.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.DAN</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>393803</VALUE>
+      </IDENTIFIER>
+      <ID_CELEX type="data">
+         <VALUE>12002M040B</VALUE>
+      </ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FRA.html</VALUE>
+                        <IDENTIFIER>12002M040B.FRA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traité sur l'Union européenne (version consolidée Nice)#Titre VI: Dispositions relatives à la coopération policière et judiciaire en matière pénale#Article 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FRA.print</VALUE>
+                        <IDENTIFIER>12002M040B.FRA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0001</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.FRA</VALUE>
+               <IDENTIFIER>12002M040B.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.FRA</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+            <IDENTIFIER>COOP</IDENTIFIER>
+            <TYPE>fd_070</TYPE>
+         </URI>
+         <OP-CODE>COOP</OP-CODE>
+         <IDENTIFIER>COOP</IDENTIFIER>
+         <PREFLABEL>Cooperation</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+            <IDENTIFIER>ITA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ITA</OP-CODE>
+         <IDENTIFIER>ITA</IDENTIFIER>
+         <PREFLABEL>Italian</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_ELI type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2002/art_40b/oj</VALUE>
+      </RESOURCE_LEGAL_ELI>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη για την Ευρωπαϊκή Ένωση (﻿Ενισχυμένη έκδοση Νίκαια)#Τίτλος VI: Διατάξεις για την αστυνομική και δικαστική συνεργασία σε ποινικές υποθέσεις#Άρθρο 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ELL.print</VALUE>
+                        <IDENTIFIER>12002M040B.ELL.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ELL.html</VALUE>
+                        <IDENTIFIER>12002M040B.ELL.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0007</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ELL</VALUE>
+               <IDENTIFIER>12002M040B.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ELL</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Swedish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.POR.print</VALUE>
+                        <IDENTIFIER>12002M040B.POR.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado da União Europeia (versão compilada Nice)#Título VI: Disposições relativas à Cooperação Policial e Judiciária em Matéria Pénal#Artigo 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.POR.html</VALUE>
+                        <IDENTIFIER>12002M040B.POR.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.POR.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0009</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.POR</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.POR</VALUE>
+               <IDENTIFIER>12002M040B.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEU_1992</VALUE>
+            <IDENTIFIER>TEU_1992</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEU_1992</OP-CODE>
+         <IDENTIFIER>TEU_1992</IDENTIFIER>
+         <PREFLABEL>Treaty on European Union (1992)</PREFLABEL>
+         <ALTLABEL>Treaty of Maastricht (1992)</ALTLABEL>
+         <ALTLABEL>TEU (1992)</ALTLABEL>
+         <ALTLABEL>EU Treaty (1992)</ALTLABEL>
+         <ALTLABEL>Maastricht Treaty (1992)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+            <IDENTIFIER>POR</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>POR</OP-CODE>
+         <IDENTIFIER>POR</IDENTIFIER>
+         <PREFLABEL>Portuguese</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <IDENTIFIER type="data">
+         <VALUE>celex:12002M040B</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ITA.html</VALUE>
+                        <IDENTIFIER>12002M040B.ITA.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Trattato sull'Unione europea (versione consolidata Nizza)#Titolo VI: Disposizioni sulla cooperazione di polizia e giudiziaria in materia penale#Articolo 40 B</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ITA.print</VALUE>
+                        <IDENTIFIER>12002M040B.ITA.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0004</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ITA</VALUE>
+               <IDENTIFIER>12002M040B.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ITA</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+            <IDENTIFIER>ELL</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ELL</OP-CODE>
+         <IDENTIFIER>ELL</IDENTIFIER>
+         <PREFLABEL>Greek</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>2001-02-26</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>26</DAY>
+      </DATE_DOCUMENT>
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2002-12-24</VALUE>
+                  <YEAR>2002</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>24</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:14/08/2014 13:20:49</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2002</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4068</VALUE>
+                        <IDENTIFIER>4068</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4068</IDENTIFIER>
+                     <PREFLABEL>Treaty on European Union</PREFLABEL>
+                     <ALTLABEL>EU Treaty</ALTLABEL>
+                     <ALTLABEL>TEU</ALTLABEL>
+                     <ALTLABEL>European Union Treaty</ALTLABEL>
+                     <ALTLABEL>Treaty of Maastricht</ALTLABEL>
+                     <ALTLABEL>Maastricht Treaty</ALTLABEL>
+                     <ALTLABEL>Draft Treaty on European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4480</VALUE>
+                        <IDENTIFIER>4480</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4480</IDENTIFIER>
+                     <PREFLABEL>ECSC Treaty</PREFLABEL>
+                     <ALTLABEL>Paris Treaty</ALTLABEL>
+                     <ALTLABEL>Treaty establishing the European Coal and Steel Community</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_SECTOR type="data">
+                  <VALUE>C</VALUE>
+               </ID_SECTOR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/255</VALUE>
+                        <IDENTIFIER>255</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>255</IDENTIFIER>
+                     <PREFLABEL>Court of Justice of the European Union</PREFLABEL>
+                     <ALTLABEL>Court of Justice of the European Union (institution)</ALTLABEL>
+                     <ALTLABEL>Community court</ALTLABEL>
+                     <ALTLABEL>Court of Justice of the European Communities</ALTLABEL>
+                     <ALTLABEL>CJEC</ALTLABEL>
+                     <ALTLABEL>European Court of Justice</ALTLABEL>
+                     <ALTLABEL>EC Court of Justice</ALTLABEL>
+                     <ALTLABEL>CJEU</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1451</VALUE>
+                        <IDENTIFIER>1451</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1451</IDENTIFIER>
+                     <PREFLABEL>EU institution</PREFLABEL>
+                     <ALTLABEL>Community institution</ALTLABEL>
+                     <ALTLABEL>European Union institution</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4031</VALUE>
+                        <IDENTIFIER>4031</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4031</IDENTIFIER>
+                     <PREFLABEL>Protocol (EU)</PREFLABEL>
+                     <ALTLABEL>protocol of the EU</ALTLABEL>
+                     <ALTLABEL>privileges and immunities of the EU</ALTLABEL>
+                     <ALTLABEL>protocol of the European Union</ALTLABEL>
+                     <ALTLABEL>EC Protocol</ALTLABEL>
+                     <ALTLABEL>Community privilege</ALTLABEL>
+                     <ALTLABEL>privileges and immunities of the European Union</ALTLABEL>
+                     <ALTLABEL>EU protocol</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4057</VALUE>
+                        <IDENTIFIER>4057</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4057</IDENTIFIER>
+                     <PREFLABEL>enlargement of the Union</PREFLABEL>
+                     <ALTLABEL>enlargement of the Community</ALTLABEL>
+                     <ALTLABEL>Natali report</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4057</VALUE>
+                        <IDENTIFIER>4057</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4057</IDENTIFIER>
+                     <PREFLABEL>enlargement of the Union</PREFLABEL>
+                     <ALTLABEL>enlargement of the Community</ALTLABEL>
+                     <ALTLABEL>Natali report</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100176</VALUE>
+                        <IDENTIFIER>100176</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1016</IDENTIFIER>
+                     <PREFLABEL>1016 European construction</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6726</VALUE>
+                        <IDENTIFIER>6726</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6726</IDENTIFIER>
+                     <PREFLABEL>Treaty of Nice</PREFLABEL>
+                     <ALTLABEL>Nice Treaty</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:oj_c</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>European Union — Consolidated versions of the Treaty on European Union and of the Treaty establishing the European Community (2002)</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0184</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0001</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8e15a9fe-9fc1-47a1-93ba-66b1c3fac601</VALUE>
+            <IDENTIFIER>8e15a9fe-9fc1-47a1-93ba-66b1c3fac601</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/C2002%2F325%2F01</VALUE>
+               <IDENTIFIER>C2002/325/01</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R_0001_01</VALUE>
+               <IDENTIFIER>JOC_2002_325_R_0001_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>2003-02-11</VALUE>
+         <YEAR>2003</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>11</DAY>
+      </DATE_CREATION_LEGACY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>M</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/COOP</VALUE>
+                        <IDENTIFIER>COOP</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>COOP</OP-CODE>
+                     <IDENTIFIER>COOP</IDENTIFIER>
+                     <PREFLABEL>Cooperation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-02-26</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>02</MONTH>
+                  <DAY>26</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12002M040B</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Fördraget om Europeiska union (konsoliderad Nice version)#Avdelning VI: Bestämmelser om polissamarbete och straffrättsligt#samarbete#Artikel 40 b#</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SWE.print</VALUE>
+                        <IDENTIFIER>12002M040B.SWE.print</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SWE.html</VALUE>
+                        <IDENTIFIER>12002M040B.SWE.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0027</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0011</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.SWE</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.SWE</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.SWE</VALUE>
+               <IDENTIFIER>12002M040B.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2018-12-21T02:44:40.269+01:00</VALUE>
+         <YEAR>2018</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>21</DAY>
+      </LASTMODIFICATIONDATE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS15</VALUE>
+            <IDENTIFIER>EUMS15</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS15</OP-CODE>
+         <IDENTIFIER>EUMS15</IDENTIFIER>
+         <PREFLABEL>The fifteen Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Austria, Portugal, Finland, Sweden, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+         <VALUE>2003-02-01</VALUE>
+         <YEAR>2003</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>01</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:29/01/2015 14:36:45</BUILD_INFO>
+            <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {12001C012|http://publications.europa.eu/resource/celex/12001C012}-P2</COMMENT_ON_DATE>
+            <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+      <IDENTIFIER type="data">
+         <VALUE>040B</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+            <IDENTIFIER>FRA</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>FRA</OP-CODE>
+         <IDENTIFIER>FRA</IDENTIFIER>
+         <PREFLABEL>French</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>12002M040B</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <IDENTIFIER type="data">
+         <VALUE>http://data.europa.eu/eli/treaty/teu_2002/art_40b/oj</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+            <IDENTIFIER>DAN</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>DAN</OP-CODE>
+         <IDENTIFIER>DAN</IDENTIFIER>
+         <PREFLABEL>Danish</PREFLABEL>
+      </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <TYPE>M</TYPE>
+      <TYPE>cdm:work</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <WORK_PART_OF_WORK type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2002-12-24</VALUE>
+                  <YEAR>2002</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>24</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:14/08/2014 13:20:49</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2002</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4068</VALUE>
+                        <IDENTIFIER>4068</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4068</IDENTIFIER>
+                     <PREFLABEL>Treaty on European Union</PREFLABEL>
+                     <ALTLABEL>EU Treaty</ALTLABEL>
+                     <ALTLABEL>TEU</ALTLABEL>
+                     <ALTLABEL>European Union Treaty</ALTLABEL>
+                     <ALTLABEL>Treaty of Maastricht</ALTLABEL>
+                     <ALTLABEL>Maastricht Treaty</ALTLABEL>
+                     <ALTLABEL>Draft Treaty on European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4480</VALUE>
+                        <IDENTIFIER>4480</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4480</IDENTIFIER>
+                     <PREFLABEL>ECSC Treaty</PREFLABEL>
+                     <ALTLABEL>Paris Treaty</ALTLABEL>
+                     <ALTLABEL>Treaty establishing the European Coal and Steel Community</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_SECTOR type="data">
+                  <VALUE>C</VALUE>
+               </ID_SECTOR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/255</VALUE>
+                        <IDENTIFIER>255</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>255</IDENTIFIER>
+                     <PREFLABEL>Court of Justice of the European Union</PREFLABEL>
+                     <ALTLABEL>Court of Justice of the European Union (institution)</ALTLABEL>
+                     <ALTLABEL>Community court</ALTLABEL>
+                     <ALTLABEL>Court of Justice of the European Communities</ALTLABEL>
+                     <ALTLABEL>CJEC</ALTLABEL>
+                     <ALTLABEL>European Court of Justice</ALTLABEL>
+                     <ALTLABEL>EC Court of Justice</ALTLABEL>
+                     <ALTLABEL>CJEU</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1451</VALUE>
+                        <IDENTIFIER>1451</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1451</IDENTIFIER>
+                     <PREFLABEL>EU institution</PREFLABEL>
+                     <ALTLABEL>Community institution</ALTLABEL>
+                     <ALTLABEL>European Union institution</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4031</VALUE>
+                        <IDENTIFIER>4031</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4031</IDENTIFIER>
+                     <PREFLABEL>Protocol (EU)</PREFLABEL>
+                     <ALTLABEL>protocol of the EU</ALTLABEL>
+                     <ALTLABEL>privileges and immunities of the EU</ALTLABEL>
+                     <ALTLABEL>protocol of the European Union</ALTLABEL>
+                     <ALTLABEL>EC Protocol</ALTLABEL>
+                     <ALTLABEL>Community privilege</ALTLABEL>
+                     <ALTLABEL>privileges and immunities of the European Union</ALTLABEL>
+                     <ALTLABEL>EU protocol</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4057</VALUE>
+                        <IDENTIFIER>4057</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4057</IDENTIFIER>
+                     <PREFLABEL>enlargement of the Union</PREFLABEL>
+                     <ALTLABEL>enlargement of the Community</ALTLABEL>
+                     <ALTLABEL>Natali report</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4057</VALUE>
+                        <IDENTIFIER>4057</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4057</IDENTIFIER>
+                     <PREFLABEL>enlargement of the Union</PREFLABEL>
+                     <ALTLABEL>enlargement of the Community</ALTLABEL>
+                     <ALTLABEL>Natali report</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100176</VALUE>
+                        <IDENTIFIER>100176</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1016</IDENTIFIER>
+                     <PREFLABEL>1016 European construction</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6726</VALUE>
+                        <IDENTIFIER>6726</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6726</IDENTIFIER>
+                     <PREFLABEL>Treaty of Nice</PREFLABEL>
+                     <ALTLABEL>Nice Treaty</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4479</VALUE>
+                        <IDENTIFIER>4479</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4479</IDENTIFIER>
+                     <PREFLABEL>European treaties</PREFLABEL>
+                     <ALTLABEL>EU treaties</ALTLABEL>
+                     <ALTLABEL>European Union treaties</ALTLABEL>
+                     <ALTLABEL>primary law</ALTLABEL>
+                     <ALTLABEL>treaties of the European Union</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100175</VALUE>
+                        <IDENTIFIER>100175</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1011</IDENTIFIER>
+                     <PREFLABEL>1011 European Union law</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>C2002/325/01</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:oj_c</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>European Union — Consolidated versions of the Treaty on European Union and of the Treaty establishing the European Community (2002)</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdf"/>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>0184</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>0001</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2002_325_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8e15a9fe-9fc1-47a1-93ba-66b1c3fac601</VALUE>
+            <IDENTIFIER>8e15a9fe-9fc1-47a1-93ba-66b1c3fac601</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/C2002%2F325%2F01</VALUE>
+               <IDENTIFIER>C2002/325/01</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R_0001_01</VALUE>
+               <IDENTIFIER>JOC_2002_325_R_0001_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_WORK>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+         <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+            <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+            <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-14T21:53:17.853+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>14</DAY>
+      </LASTMODIFICATIONDATE>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.02</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.02</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.print</VALUE>
+               <IDENTIFIER>12002M040B.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <TITLE type="data">
+         <VALUE>Treaty on European Union (Nice consolidated version)#Title VI: Provisions on police and judicial cooperation in criminal matters#Article 40 b</VALUE>
+      </TITLE>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Treaty on European Union (Nice consolidated version)#Title VI: Provisions on police and judicial cooperation in criminal matters#Article 40 b</VALUE>
+      </EXPRESSION_TITLE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.01</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html</VALUE>
+               <IDENTIFIER>12002M040B.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.html</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B</VALUE>
+               <IDENTIFIER>12002M040B</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/teu_2002/art_40b/oj</VALUE>
+               <IDENTIFIER>treaty:teu_2002:art_40b:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.02</VALUE>
+         <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.02</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.print</VALUE>
+            <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.print</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.print</VALUE>
+            <IDENTIFIER>12002M040B.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <PAGE_FIRST type="data">
+         <VALUE>0027</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE/>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>0027</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/92222d07-3ada-4801-853e-96210c6bd021.0004.01</VALUE>
+            <IDENTIFIER>92222d07-3ada-4801-853e-96210c6bd021.0004.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2002_325_R.ENG.print</VALUE>
+               <IDENTIFIER>JOC_2002_325_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-14T21:53:17.854+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>14</DAY>
+      </LASTMODIFICATIONDATE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+               <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+               <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>0027</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <PAGE_LAST type="data">
+         <VALUE>0027</VALUE>
+      </PAGE_LAST>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.01</VALUE>
+         <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html</VALUE>
+            <IDENTIFIER>12002M040B.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.html</VALUE>
+            <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.html</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+               <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG</VALUE>
+               <IDENTIFIER>12002M040B.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.01/DOC_1</VALUE>
+            <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html.12002M040Ben.html</VALUE>
+               <IDENTIFIER>12002M040B.ENG.html.12002M040Ben.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.html.12002M040Ben.html</VALUE>
+               <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.html.12002M040Ben.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_LABEL type="data">
+               <VALUE>celex-12002M040B.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+            <STREAM_NAME type="data">
+               <VALUE>12002M040Ben.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>1</VALUE>
+            </STREAM_ORDER>
+            <STREAM_SIZE type="data">
+               <VALUE>2755</VALUE>
+            </STREAM_SIZE>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+         </TECHMD>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.01</VALUE>
+               <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html</VALUE>
+                  <IDENTIFIER>12002M040B.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/d69558e1-0341-4378-9e78-e459d507b89d.0005.01</VALUE>
+               <IDENTIFIER>d69558e1-0341-4378-9e78-e459d507b89d.0005.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12002M040B.ENG.html</VALUE>
+                  <IDENTIFIER>12002M040B.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2002.325.01.0027.02.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.2002.325.01.0027.02.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+      </MANIFESTATION_HAS_ITEM>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2013-08-14T21:53:17.854+02:00</VALUE>
+         <YEAR>2013</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>14</DAY>
+      </LASTMODIFICATIONDATE>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

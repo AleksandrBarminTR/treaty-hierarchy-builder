@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</VALUE>
+         <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12001C</VALUE>
+            <IDENTIFIER>12001C</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01</VALUE>
+            <IDENTIFIER>JOC_2001_080_R_0001_01</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>12001C</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE/>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Vertrag von Nizza zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte, unterzeichnet in Nizza am 26. Februar 2001#Inhalt</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DEU.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.DEU.html.12001Cde.html</VALUE>
+                        <IDENTIFIER>12001C.DEU.html.12001Cde.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU.html.12001Cde.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DEU.html.12001Cde.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DEU.html.12001Cde.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DEU.html.12001Cde.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.DEU.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DEU.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DEU.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.DEU.html</VALUE>
+                           <IDENTIFIER>12001C.DEU.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.DEU.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DEU.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DEU.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.DEU.html</VALUE>
+                           <IDENTIFIER>12001C.DEU.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.DEU.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.DEU.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0014</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DEU</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DEU</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DEU</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.DEU</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.DEU</VALUE>
+               <IDENTIFIER>12001C.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SWE.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Nicefördraget om ändring av fördraget om Europeiska unionen, fördragen om upprättandet av Europeiska gemenskaperna och vissa akter som hör samman med dem, undertecknat i Nice den 26 februari 2001#Innehållsförteckning</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SWE.html.12001Csv.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SWE.html.12001Csv.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE.html.12001Csv.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SWE.html.12001Csv.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.SWE.html.12001Csv.html</VALUE>
+                        <IDENTIFIER>12001C.SWE.html.12001Csv.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.SWE.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.SWE.html</VALUE>
+                           <IDENTIFIER>12001C.SWE.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SWE.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SWE.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.SWE.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.SWE.html</VALUE>
+                           <IDENTIFIER>12001C.SWE.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SWE.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SWE.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+               </MANIFESTATION_HAS_ITEM>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.SWE.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.SWE.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0023</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.SWE</VALUE>
+               <IDENTIFIER>12001C.SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SWE</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SWE</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SWE</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.SWE</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IDENTIFIER type="data">
+         <VALUE>celex:12001C</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FRA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Traité de Nice modifiant le traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes connexes, signé à Nice le 26 février 2001#Sommaire</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA.html.12001Cfr.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FRA.html.12001Cfr.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FRA.html.12001Cfr.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FRA.html.12001Cfr.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.FRA.html.12001Cfr.html</VALUE>
+                        <IDENTIFIER>12001C.FRA.html.12001Cfr.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.FRA.html</VALUE>
+                           <IDENTIFIER>12001C.FRA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.FRA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FRA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FRA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.FRA.html</VALUE>
+                           <IDENTIFIER>12001C.FRA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.FRA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FRA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FRA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.FRA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.FRA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0019</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.FRA</VALUE>
+               <IDENTIFIER>12001C.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FRA</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FRA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FRA</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.FRA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+               </WORK_DATE_DOCUMENT>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+               </DATE_PUBLICATION>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>080</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 80, 10 March 2001</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ENG.pdf</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.ENG.pdf</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="pdf">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdf</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4b785c68-54be-47c3-9033-8c8a1c18e27d</VALUE>
+            <IDENTIFIER>4b785c68-54be-47c3-9033-8c8a1c18e27d</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R</VALUE>
+               <IDENTIFIER>JOC_2001_080_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <IDENTIFIER type="data">
+         <VALUE>oj:JOC_2001_080_R_0001_01</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.POR.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice em 26 de Fevereiro de 2001#Índice</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR.html.12001Cpt.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.POR.html.12001Cpt.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.POR.html.12001Cpt.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.POR.html.12001Cpt.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.POR.html.12001Cpt.html</VALUE>
+                        <IDENTIFIER>12001C.POR.html.12001Cpt.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.POR.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.POR.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.POR.html</VALUE>
+                           <IDENTIFIER>12001C.POR.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.POR.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.POR.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.POR.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.POR.html</VALUE>
+                           <IDENTIFIER>12001C.POR.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.POR.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+               </MANIFESTATION_HAS_ITEM>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.POR.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.POR.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0022</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.POR</VALUE>
+               <IDENTIFIER>12001C.POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.POR</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.POR</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.POR</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.POR</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Συνθήκη της Νίκαιας που τροποποιεί τη Συνθήκη για την Ευρωπαϊκή Ένωση, τις Συνθήκες περί ιδρύσεως των Ευρωπαϊκών Κοινοτήτων και ορισμένες συναφείς Πράξεις, που υπογράφηκε στη Νίκαια στις 26 Φεβρουαρίου 2001#Περιεχόμενα</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ELL.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ELL.html.12001Cel.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ELL.html.12001Cel.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL.html.12001Cel.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ELL.html.12001Cel.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.ELL.html.12001Cel.html</VALUE>
+                        <IDENTIFIER>12001C.ELL.html.12001Cel.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ELL.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ELL.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ELL.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ELL.html</VALUE>
+                           <IDENTIFIER>12001C.ELL.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ELL.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ELL.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ELL.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ELL.html</VALUE>
+                           <IDENTIFIER>12001C.ELL.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ELL.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.ELL.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0015</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ELL</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ELL</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ELL</VALUE>
+               <IDENTIFIER>12001C.ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ELL</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ELL</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Nice-traktaten om ændring af traktaten om Den Europæiske Union, traktaterne om oprettelse af De Europæiske Fællesskaber og visse tilknyttede akter, underskrevet i Nice den 26. februar 2001#Indhold</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DAN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN.html.12001Cda.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.DAN.html.12001Cda.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DAN.html.12001Cda.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DAN.html.12001Cda.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.DAN.html.12001Cda.html</VALUE>
+                        <IDENTIFIER>12001C.DAN.html.12001Cda.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DAN.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DAN.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.DAN.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.DAN.html</VALUE>
+                           <IDENTIFIER>12001C.DAN.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DAN.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DAN.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.DAN.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.DAN.html</VALUE>
+                           <IDENTIFIER>12001C.DAN.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.DAN.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.DAN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0013</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.DAN</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.DAN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.DAN</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.DAN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.DAN</VALUE>
+               <IDENTIFIER>12001C.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-01-29T14:13:26.154+01:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>29</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_IN-FORCE type="data">
+         <VALUE>true</VALUE>
+      </RESOURCE_LEGAL_IN-FORCE>
+      <WORK_RELATED_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b0c0b150-4fae-4526-a5ed-41f9d417a4a5</VALUE>
+            <IDENTIFIER>b0c0b150-4fae-4526-a5ed-41f9d417a4a5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2003_024_R_0011_01</VALUE>
+               <IDENTIFIER>JOC_2003_024_R_0011_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/52003XG0131%2802%29</VALUE>
+               <IDENTIFIER>52003XG0131(02)</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>RD</TYPE_OF_LINK_TARGET>
+         </ANNOTATION>
+      </WORK_RELATED_TO_WORK>
+      <YEAR type="data">
+         <VALUE>2001</VALUE>
+      </YEAR>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>2001-03-10</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>10</DAY>
+         <ANNOTATION>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+            <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+         </ANNOTATION>
+      </WORK_DATE_DOCUMENT>
+      <DATE type="date">
+         <VALUE>9999-12-31</VALUE>
+         <YEAR>9999</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>31</DAY>
+      </DATE>
+      <DATE type="date">
+         <VALUE>2001-03-10</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>10</DAY>
+      </DATE>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS15</VALUE>
+            <IDENTIFIER>EUMS15</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS15</OP-CODE>
+         <IDENTIFIER>EUMS15</IDENTIFIER>
+         <PREFLABEL>The fifteen Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Austria, Portugal, Finland, Sweden, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <DATE type="date">
+         <VALUE>2001-03-13</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </DATE>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/LNK_CELEX</VALUE>
+            <IDENTIFIER>LNK_CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>LNK_CELEX</OP-CODE>
+         <IDENTIFIER>LNK_CELEX</IDENTIFIER>
+         <PREFLABEL>LNK_CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0309b11b-f7a9-4763-a52b-cba8ada43934</VALUE>
+            <IDENTIFIER>0309b11b-f7a9-4763-a52b-cba8ada43934</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/nice/sign</VALUE>
+               <IDENTIFIER>treaty:nice:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C%2FTXT</VALUE>
+               <IDENTIFIER>12001C/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>2001</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <ID_CELEX type="data">
+         <VALUE>12001C</VALUE>
+      </ID_CELEX>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SPA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Tratado de Niza por el que se modifican el Tratado de la Unión Europea, los Tratados Constitutivos de las Comunidades Europeas y determinados actos conexos, firmado en Niza el 26 de febrero de 2001#Sumario</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SPA.html.12001Ces.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SPA.html.12001Ces.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA.html.12001Ces.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.SPA.html.12001Ces.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.SPA.html.12001Ces.html</VALUE>
+                        <IDENTIFIER>12001C.SPA.html.12001Ces.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.SPA.html</VALUE>
+                           <IDENTIFIER>12001C.SPA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SPA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SPA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.SPA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.SPA.html</VALUE>
+                           <IDENTIFIER>12001C.SPA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SPA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SPA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.SPA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+               </MANIFESTATION_HAS_ITEM>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.SPA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.SPA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0017</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.SPA</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.SPA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.SPA</VALUE>
+               <IDENTIFIER>12001C.SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.SPA</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.SPA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.NLD.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, ondertekend te Nice, 26 februari 2001#Inhoud</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.NLD.html.12001Cnl.html</VALUE>
+                        <IDENTIFIER>12001C.NLD.html.12001Cnl.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.NLD.html.12001Cnl.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.NLD.html.12001Cnl.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD.html.12001Cnl.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.NLD.html.12001Cnl.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.NLD.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.NLD.html</VALUE>
+                           <IDENTIFIER>12001C.NLD.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.NLD.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.NLD.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.NLD.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.NLD.html</VALUE>
+                           <IDENTIFIER>12001C.NLD.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.NLD.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.NLD.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.NLD.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.NLD.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0021</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.NLD</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.NLD</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.NLD</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.NLD</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.NLD</VALUE>
+               <IDENTIFIER>12001C.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Nizzan sopimus Euroopan unionista tehdyn sopimuksen sekä Euroopan yhteisöjen perustamissopimusten ja niihin liittyvien tiettyjen asiakirjojen muuttamisesta, allekirjoitettu Nizzassa 26 päivänä helmikuuta 2001#Sisältö</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FIN.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN.html.12001Cfi.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.FIN.html.12001Cfi.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.FIN.html.12001Cfi.html</VALUE>
+                        <IDENTIFIER>12001C.FIN.html.12001Cfi.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FIN.html.12001Cfi.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FIN.html.12001Cfi.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FIN.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FIN.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.FIN.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.FIN.html</VALUE>
+                           <IDENTIFIER>12001C.FIN.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FIN.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FIN.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.FIN.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.FIN.html</VALUE>
+                           <IDENTIFIER>12001C.FIN.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.FIN.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.FIN.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0018</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.FIN</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.FIN</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.FIN</VALUE>
+               <IDENTIFIER>12001C.FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.FIN</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.FIN</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>C</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <DATE_DOCUMENT type="date">
+         <VALUE>2001-03-10</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>10</DAY>
+      </DATE_DOCUMENT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Treaty of Nice amending the Treaty on European Union, the Treaties establishing the European Communities and certain related acts, signed at Nice, 26 February 2001#Contents</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html.12001Cen.html</VALUE>
+                        <IDENTIFIER>12001C.ENG.html.12001Cen.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html.12001Cen.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html.12001Cen.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html.12001Cen.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html.12001Cen.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+                           <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+                           <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+               </MANIFESTATION_HAS_ITEM>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+               <IDENTIFIER>12001C.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:12001C</VALUE>
+      </WORK_ID_DOCUMENT>
+      <IDENTIFIER type="data">
+         <VALUE>252750</VALUE>
+      </IDENTIFIER>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>oj:JOC_2001_080_R_0001_01</VALUE>
+      </WORK_ID_DOCUMENT>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS15</VALUE>
+            <IDENTIFIER>EUMS15</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS15</OP-CODE>
+         <IDENTIFIER>EUMS15</IDENTIFIER>
+         <PREFLABEL>The fifteen Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Austria, Portugal, Finland, Sweden, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2001-03-10</VALUE>
+                  <YEAR>2001</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>10</DAY>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/08/2014 18:20:35</BUILD_INFO>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_365/DATPUB}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2001</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>12001C</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>C</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Trattato di Nizza che modifica il trattato sull'Unione europea, i trattati che istituiscono le Comunità europee e alcuni atti connessi, firmato a Nizza il 26 febbraio 2001#Sommario</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.03</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.03</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ITA.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_HAS_ITEM>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01/DOC_1</VALUE>
+                     <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01:DOC_1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12001C.ITA.html.12001Cit.html</VALUE>
+                        <IDENTIFIER>12001C.ITA.html.12001Cit.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ITA.html.12001Cit.html</VALUE>
+                        <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ITA.html.12001Cit.html</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA.html.12001Cit.html</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R_0001_01.ITA.html.12001Cit.html</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <TECHMD/>
+                  <BELONGS_TO type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ITA.html</VALUE>
+                           <IDENTIFIER>12001C.ITA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ITA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ITA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ITA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </BELONGS_TO>
+                  <ITEM_IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </ITEM_IDENTIFIER>
+                  <ITEM_BELONGS_TO_MANIFESTATION type="embedded_link">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</VALUE>
+                        <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020.01</IDENTIFIER>
+                        <TYPE>cellar</TYPE>
+                     </URI>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/celex/12001C.ITA.html</VALUE>
+                           <IDENTIFIER>12001C.ITA.html</IDENTIFIER>
+                           <TYPE>celex</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ITA.html</VALUE>
+                           <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ITA.html</IDENTIFIER>
+                           <TYPE>uriserv</TYPE>
+                        </URI>
+                     </SAMEAS>
+                     <SAMEAS>
+                        <URI>
+                           <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA.html</VALUE>
+                           <IDENTIFIER>JOC_2001_080_R_0001_01.ITA.html</IDENTIFIER>
+                           <TYPE>oj</TYPE>
+                        </URI>
+                     </SAMEAS>
+                  </ITEM_BELONGS_TO_MANIFESTATION>
+                  <IDENTIFIER type="data">
+                     <VALUE>DOC_1</VALUE>
+                  </IDENTIFIER>
+               </MANIFESTATION_HAS_ITEM>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+               <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+                  <VALUE>s1</VALUE>
+               </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+               <MANIFESTATION_PART_OF_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ITA.print</VALUE>
+                        <IDENTIFIER>JOC_2001_080_R.ITA.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </MANIFESTATION_PART_OF_MANIFESTATION>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0020</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ITA</VALUE>
+               <IDENTIFIER>12001C.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ITA</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ITA</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ITA</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ITA</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+            <IDENTIFIER>JO</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>JO</OP-CODE>
+         <IDENTIFIER>JO</IDENTIFIER>
+         <PREFLABEL>JO</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>2001-03-13</VALUE>
+         <YEAR>2001</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>13</DAY>
+      </DATE_CREATION_LEGACY>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>12001C</VALUE>
+      </IDENTIFIER>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>C</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true">
+      <WORK_RELATED_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b0c0b150-4fae-4526-a5ed-41f9d417a4a5</VALUE>
+            <IDENTIFIER>b0c0b150-4fae-4526-a5ed-41f9d417a4a5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2003_024_R_0011_01</VALUE>
+               <IDENTIFIER>JOC_2003_024_R_0011_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/52003XG0131%2802%29</VALUE>
+               <IDENTIFIER>52003XG0131(02)</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>RD</TYPE_OF_LINK_TARGET>
+         </ANNOTATION>
+      </WORK_RELATED_TO_WORK>
+   </INVERSE>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+         <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+            <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+            <IDENTIFIER>12001C.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+            <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C</VALUE>
+               <IDENTIFIER>12001C</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.print</VALUE>
+               <IDENTIFIER>12001C.ENG.print</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.print</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>Treaty of Nice amending the Treaty on European Union, the Treaties establishing the European Communities and certain related acts, signed at Nice, 26 February 2001#Contents</VALUE>
+      </TITLE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+               <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C</VALUE>
+               <IDENTIFIER>12001C</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>Treaty of Nice amending the Treaty on European Union, the Treaties establishing the European Communities and certain related acts, signed at Nice, 26 February 2001#Contents</VALUE>
+      </EXPRESSION_TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-16T09:11:53.894+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>16</DAY>
+      </LASTMODIFICATIONDATE>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+   </EXPRESSION>
+   <MANIFESTATION manifestation-type="print">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</VALUE>
+         <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.03</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.print</VALUE>
+            <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.print</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.print</VALUE>
+            <IDENTIFIER>12001C.ENG.print</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.print</VALUE>
+            <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.print</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL type="data">
+         <VALUE>1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGES_TOTAL>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>print</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_PART_OF_MANIFESTATION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4b785c68-54be-47c3-9033-8c8a1c18e27d.0004.01</VALUE>
+            <IDENTIFIER>4b785c68-54be-47c3-9033-8c8a1c18e27d.0004.01</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.FULL.ENG.print</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.FULL.ENG.print</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R.ENG.print</VALUE>
+               <IDENTIFIER>JOC_2001_080_R.ENG.print</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_PART_OF_MANIFESTATION>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST type="data">
+         <VALUE>s1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_FIRST>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-16T09:11:53.894+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>16</DAY>
+      </LASTMODIFICATIONDATE>
+      <PAGE_LAST type="data">
+         <VALUE>s1</VALUE>
+      </PAGE_LAST>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+               <IDENTIFIER>12001C.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <PAGE_FIRST type="data">
+         <VALUE>s1</VALUE>
+      </PAGE_FIRST>
+      <MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST type="data">
+         <VALUE>s1</VALUE>
+      </MANIFESTATION_OFFICIAL-JOURNAL_PART_PAGE_LAST>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+               <IDENTIFIER>12001C.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <TYPE>print</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="print"/>
+   <MANIFESTATION manifestation-type="html">
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+         <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+            <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+            <TYPE>oj</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+            <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+            <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+            <TYPE>uriserv</TYPE>
+         </URI>
+      </SAMEAS>
+      <MANIFESTATION_MANIFESTS_EXPRESSION type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+               <IDENTIFIER>12001C.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </MANIFESTATION_MANIFESTS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-05-16T09:11:53.894+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>05</MONTH>
+         <DAY>16</DAY>
+      </LASTMODIFICATIONDATE>
+      <MANIFESTATION_TYPE type="data">
+         <VALUE>html</VALUE>
+      </MANIFESTATION_TYPE>
+      <MANIFESTATION_HAS_ITEM>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01/DOC_1</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01:DOC_1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html.12001Cen.html</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html.12001Cen.html</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html.12001Cen.html</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html.12001Cen.html</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html.12001Cen.html</VALUE>
+               <IDENTIFIER>12001C.ENG.html.12001Cen.html</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <TECHMD>
+            <STREAM_NAME type="data">
+               <VALUE>12001Cen.html</VALUE>
+            </STREAM_NAME>
+            <STREAM_ORDER type="data">
+               <VALUE>2</VALUE>
+            </STREAM_ORDER>
+            <STREAM_COMPOSITION_LEVEL type="data">
+               <VALUE>0</VALUE>
+            </STREAM_COMPOSITION_LEVEL>
+            <STREAM_SIZE type="data">
+               <VALUE>3187</VALUE>
+            </STREAM_SIZE>
+            <STREAM_LABEL type="data">
+               <VALUE>oj-JOC_2001_080_R_0001_01.ENG.html.techmd.rdf</VALUE>
+            </STREAM_LABEL>
+         </TECHMD>
+         <IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </IDENTIFIER>
+         <ITEM_IDENTIFIER type="data">
+            <VALUE>DOC_1</VALUE>
+         </ITEM_IDENTIFIER>
+         <BELONGS_TO type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+               <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+                  <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+                  <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </BELONGS_TO>
+         <ITEM_BELONGS_TO_MANIFESTATION type="link">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</VALUE>
+               <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016.01</IDENTIFIER>
+               <TYPE>cellar</TYPE>
+            </URI>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG.html</VALUE>
+                  <IDENTIFIER>JOC_2001_080_R_0001_01.ENG.html</IDENTIFIER>
+                  <TYPE>oj</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG.html</VALUE>
+                  <IDENTIFIER>12001C.ENG.html</IDENTIFIER>
+                  <TYPE>celex</TYPE>
+               </URI>
+            </SAMEAS>
+            <SAMEAS>
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG.html</VALUE>
+                  <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG.html</IDENTIFIER>
+                  <TYPE>uriserv</TYPE>
+               </URI>
+            </SAMEAS>
+         </ITEM_BELONGS_TO_MANIFESTATION>
+      </MANIFESTATION_HAS_ITEM>
+      <METSSTRUCTSUPERDIV type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</VALUE>
+            <IDENTIFIER>0a223e1e-2f65-484e-9bcb-e9a1c25f55eb.0016</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/uriserv/OJ.C_.2001.080.01.00s1.01.ENG</VALUE>
+               <IDENTIFIER>OJ.C_.2001.080.01.00s1.01.ENG</IDENTIFIER>
+               <TYPE>uriserv</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/12001C.ENG</VALUE>
+               <IDENTIFIER>12001C.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_2001_080_R_0001_01.ENG</VALUE>
+               <IDENTIFIER>JOC_2001_080_R_0001_01.ENG</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </METSSTRUCTSUPERDIV>
+      <MANIFESTATION_SOURCE-POOL type="data">
+         <VALUE>src/eurlex/content</VALUE>
+      </MANIFESTATION_SOURCE-POOL>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TYPE>html</TYPE>
+   </MANIFESTATION>
+   <INVERSE complete="true" manifestation-type="html"/>
+</NOTICE>

@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf</VALUE>
+         <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29</VALUE>
+            <IDENTIFIER>11994N172R(01)</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <DATE type="date">
+         <VALUE>1996-12-06</VALUE>
+         <YEAR>1996</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>06</DAY>
+      </DATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICAÇÃO DO :# ACTO relativo às condições de adesão do Reino da Noruega, da República da Áustria, da República da Finlândia e do Reino da Suécia e às adaptações dos Tratados em que se funda a União Europeia - QUINTA PARTE : DISPOSIÇÕES RELATIVAS À APLICAÇÃO DO PRESENTE ACTO - TÍTULO II : APLICABILIDADE DOS ACTOS DAS INSTITUIÇÕES - Artigo 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0009</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0009</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.POR</VALUE>
+               <IDENTIFIER>11994N172R(01).POR</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/fd_030/TRAITE</VALUE>
+            <IDENTIFIER>TRAITE</IDENTIFIER>
+            <TYPE>fd_030</TYPE>
+         </URI>
+         <OP-CODE>TRAITE</OP-CODE>
+         <IDENTIFIER>TRAITE</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+      </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1996-12-06</VALUE>
+         <YEAR>1996</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>06</DAY>
+      </WORK_DATE_DOCUMENT>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+            <IDENTIFIER>TREATY</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>TREATY</OP-CODE>
+         <IDENTIFIER>TREATY</IDENTIFIER>
+         <PREFLABEL>Treaty</PREFLABEL>
+         <ALTLABEL>Treaties</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_CORRECTS_RESOURCE_LEGAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ADH</VALUE>
+                        <IDENTIFIER>ADH</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ADH</OP-CODE>
+                     <IDENTIFIER>ADH</IDENTIFIER>
+                     <PREFLABEL>Accession</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172</VALUE>
+               </ID_CELEX>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1994-06-24</VALUE>
+                  <YEAR>1994</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:treaty</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N172.ENG.html</VALUE>
+                        <IDENTIFIER>11994N172.ENG.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE II : APPLICABILITY OF THE ACTS OF THE INSTITUTIONS - Article 172</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>html</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/da8ded2c-2897-4377-aea8-74edd5af5d61</VALUE>
+            <IDENTIFIER>da8ded2c-2897-4377-aea8-74edd5af5d61</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/act_1/art_172/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:act_1:art_172:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172</VALUE>
+               <IDENTIFIER>11994N172</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:18/07/2014 16:59:54</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_CORRECTS_RESOURCE_LEGAL>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>BERIGTIGELSE TIL :# AKT vedrørende vilkårene for Kongeriget Norges, Republikken Østrigs, Republikken Finlands og Kongeriget Sveriges tiltrædelse og tilpasningerne af de traktater, der danner grundlag for Den Europæiske Union - FEMTE DEL BESTEMMELSER OM IVÆRKSÆTTELSEN AF DENNE AKT - AFSNIT II : ANVENDELSE AF INSTITUTIONERNES RETSAKTER - Artikel 172</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0005</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.DAN</VALUE>
+               <IDENTIFIER>11994N172R(01).DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>11994N172R(01)</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICATIF A :# ACTE relatif aux conditions d' adhésion du Royaume de Norvège, de la République d' Autriche, de la République de Finlande et du Royaume de Suède et aux adaptations des traités sur lesquels est fondée l' Union européenne - CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À LA MISE EN APPLICATION DU PRÉSENT ACTE - TITRE II : APPLICABILITÉ DES ACTES DES INSTITUTIONS - Article 172</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0001</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.FRA</VALUE>
+               <IDENTIFIER>11994N172R(01).FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Rättelse#Akt om villkoren för Konungariket Norges, Republiken Österrikes, Republiken Finlands och Konungariket Sveriges anslutning till de fördrag som ligger till grund för Europeiska unionen och om anpassning av fördragen - Del fem : Genomförandebestämmelser - Avdelning II : Tillämpning av institutionernas rättsakter - Artikel 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0011</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0011</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.SWE</VALUE>
+               <IDENTIFIER>11994N172R(01).SWE</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Oikaistaan#Asiakirja Norjan kuningaskunnan, Itävallan tasavallan, Suomen tasavallan ja Ruotsin kuningaskunnan liittymisehdoista ja niiden sopimusten mukautuksista, joihin Euroopan unioni perustuu - Viides osa: Tämän Asiakirjan soveltamista koskevat määräykset - II osasto: Toimielinten antamien säädösten sovellettavuus - 172 artikla</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0010</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0010</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.FIN</VALUE>
+               <IDENTIFIER>11994N172R(01).FIN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2016-08-11T14:37:31.041+02:00</VALUE>
+         <YEAR>2016</YEAR>
+         <MONTH>08</MONTH>
+         <DAY>11</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_NUMBER_CORRIGENDUM type="data">
+         <VALUE>1</VALUE>
+      </RESOURCE_LEGAL_NUMBER_CORRIGENDUM>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICACIÓN A :# ACTA relativa a las condiciones de adhesión del Reino de Noruega, de la República de Austria, de la República de Finlandia y del Reino de Suecia y a las adaptaciones de los Tratados en los que se basa la Unión Europea - QUINTA PARTE : DISPOSICIONES RELATIVAS A LA APLICACIÓN DE LA PRESENTE ACTA - TÍTULO II : APLICABILIDAD DE LOS ACTOS DE LAS INSTITUCIONES - Artículo 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0008</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0008</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.SPA</VALUE>
+               <IDENTIFIER>11994N172R(01).SPA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/NOR</VALUE>
+            <IDENTIFIER>NOR</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>NOR</OP-CODE>
+         <IDENTIFIER>NOR</IDENTIFIER>
+         <PREFLABEL>Norway</PREFLABEL>
+         <ALTLABEL>Norwegian</ALTLABEL>
+         <ALTLABEL>Kingdom of Norway</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RECTIFICATIE VOOR :# AKTE betreffende de toetredingsvoorwaarden voor het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden en de aanpassing van de Verdragen waarop de Europese Unie is gegrond - VIJFDE DEEL : BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN DEZE AKTE - TITEL II : TOEPASSING VAN DE BESLUITEN DER INSTELLINGEN - Artikel 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0004</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.NLD</VALUE>
+               <IDENTIFIER>11994N172R(01).NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/NOR</VALUE>
+            <IDENTIFIER>NOR</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>NOR</OP-CODE>
+         <IDENTIFIER>NOR</IDENTIFIER>
+         <PREFLABEL>Norway</PREFLABEL>
+         <ALTLABEL>Norwegian</ALTLABEL>
+         <ALTLABEL>Kingdom of Norway</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>N</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>celex:11994N172R(01)</VALUE>
+      </IDENTIFIER>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </CREATED_BY>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1994</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Sweden</PREFLABEL>
+         <ALTLABEL>Swedish</ALTLABEL>
+         <ALTLABEL>Kingdom of Sweden</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>CORRIGENDUM TO:# ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE II : APPLICABILITY OF THE ACTS OF THE INSTITUTIONS - Article 172</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0006</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.ENG</VALUE>
+               <IDENTIFIER>11994N172R(01).ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:11994N172R(01)</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finland</PREFLABEL>
+         <ALTLABEL>Republic of Finland</ALTLABEL>
+         <ALTLABEL>Finnish</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <IDENTIFIER type="data">
+         <VALUE>190137</VALUE>
+      </IDENTIFIER>
+      <DATE type="date">
+         <VALUE>1997-03-18</VALUE>
+         <YEAR>1997</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>18</DAY>
+      </DATE>
+      <IDENTIFIER type="data">
+         <VALUE>172R(01)</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>RETTIFICA A:# ATTO relativo alle condizioni di adesione del Regno di Norvegia, della Repubblica d' Austria, della Repubblica di Finlandia e del Regno di Svezia e agli adattamenti dei trattati sui quali si fonda l' Unione europea - PARTE QUINTA : DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE ATTO - TITOLO II : APPLICABILITÀ DEGLI ATTI DELLE ISTITUZIONI - Articolo 172</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0003</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.ITA</VALUE>
+               <IDENTIFIER>11994N172R(01).ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS12</VALUE>
+            <IDENTIFIER>EUMS12</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>EUMS12</OP-CODE>
+         <IDENTIFIER>EUMS12</IDENTIFIER>
+         <PREFLABEL>The twelve Member States: Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, Netherlands, Portugal, United Kingdom</PREFLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/FIN</VALUE>
+            <IDENTIFIER>FIN</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>FIN</OP-CODE>
+         <IDENTIFIER>FIN</IDENTIFIER>
+         <PREFLABEL>Finland</PREFLABEL>
+         <ALTLABEL>Republic of Finland</ALTLABEL>
+         <ALTLABEL>Finnish</ALTLABEL>
+      </CREATED_BY>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1997-03-18</VALUE>
+         <YEAR>1997</YEAR>
+         <MONTH>03</MONTH>
+         <DAY>18</DAY>
+      </DATE_CREATION_LEGACY>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/SWE</VALUE>
+            <IDENTIFIER>SWE</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>SWE</OP-CODE>
+         <IDENTIFIER>SWE</IDENTIFIER>
+         <PREFLABEL>Sweden</PREFLABEL>
+         <ALTLABEL>Swedish</ALTLABEL>
+         <ALTLABEL>Kingdom of Sweden</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <YEAR type="data">
+         <VALUE>1994</VALUE>
+      </YEAR>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.DEU.html</VALUE>
+                        <IDENTIFIER>11994N172R(01).DEU.html</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>BERICHTIGUNG FÜR :# AKTE über die Bedingungen des Beitritts des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden und die Anpassungen der die Europäische Union begründenden Verträge - FÜNFTER TEIL : BESTIMMUNGEN ÜBER DIE DURCHFÜHRUNG DIESER AKTE - TITEL II : ANWENDBARKEIT DER RECHTSAKTE DER ORGANE - Artikel 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="html"/>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0002</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.DEU</VALUE>
+               <IDENTIFIER>11994N172R(01).DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/4543e868-c347-11e4-bbe1-01aa75ed71a1</VALUE>
+            <IDENTIFIER>4543e868-c347-11e4-bbe1-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/treaty/acc_1994/sign</VALUE>
+               <IDENTIFIER>treaty:acc_1994:sign</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N%2FTXT</VALUE>
+               <IDENTIFIER>11994N/TXT</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </FRAGMENT_RESOURCE_LEGAL_PART_OF_RESOURCE_LEGAL>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+            <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>CORRIGENDUM</OP-CODE>
+         <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+         <PREFLABEL>Corrigendum</PREFLABEL>
+         <ALTLABEL>Corrigenda</ALTLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <OFFICIAL-JOURNAL_NUMBER type="data">
+                  <VALUE>368</VALUE>
+               </OFFICIAL-JOURNAL_NUMBER>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <OFFICIAL-JOURNAL_YEAR type="data">
+                  <VALUE>1996</VALUE>
+               </OFFICIAL-JOURNAL_YEAR>
+               <DATE_PUBLICATION type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </DATE_PUBLICATION>
+               <OFFICIAL-JOURNAL_CLASS type="data">
+                  <VALUE>R</VALUE>
+               </OFFICIAL-JOURNAL_CLASS>
+               <OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/OJ-C</VALUE>
+                     <IDENTIFIER>OJ-C</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>OJ-C</OP-CODE>
+                  <IDENTIFIER>OJ-C</IDENTIFIER>
+                  <PREFLABEL>OJ-C</PREFLABEL>
+               </OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/OJ</VALUE>
+                     <IDENTIFIER>OJ</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>OJ</OP-CODE>
+                  <IDENTIFIER>OJ</IDENTIFIER>
+                  <PREFLABEL>Official Journal</PREFLABEL>
+                  <ALTLABEL>Official Journal of the European Union</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:official-journal</TYPE>
+               <TYPE>cdm:publication_general</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1996_368_R.ENG.print</VALUE>
+                        <IDENTIFIER>JOC_1996_368_R.ENG.print</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_MANIFESTED_BY_MANIFESTATION type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1996_368_R.ENG.pdfa1b</VALUE>
+                        <IDENTIFIER>JOC_1996_368_R.ENG.pdfa1b</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EXPRESSION_MANIFESTED_BY_MANIFESTATION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Official Journal of the European Communities, C 368, 6 December 1996</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+            <MANIFESTATION manifestation-type="pdfa1b">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>pdfa1b</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+            <MANIFESTATION manifestation-type="print">
+               <MANIFESTATION_TYPE type="data">
+                  <VALUE>print</VALUE>
+               </MANIFESTATION_TYPE>
+            </MANIFESTATION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/41535303-ccbb-49b3-9782-e7e5534645e0</VALUE>
+            <IDENTIFIER>41535303-ccbb-49b3-9782-e7e5534645e0</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOC_1996_368_R</VALUE>
+               <IDENTIFIER>JOC_1996_368_R</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+      </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+      <IDENTIFIER type="data">
+         <VALUE>11994N172R(01)</VALUE>
+      </IDENTIFIER>
+      <ID_CELEX type="data">
+         <VALUE>11994N172R(01)</VALUE>
+      </ID_CELEX>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/AUT</VALUE>
+            <IDENTIFIER>AUT</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>AUT</OP-CODE>
+         <IDENTIFIER>AUT</IDENTIFIER>
+         <PREFLABEL>Austria</PREFLABEL>
+         <ALTLABEL>Republic of Austria</ALTLABEL>
+         <ALTLABEL>Austrian</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <ID_SECTOR type="data">
+         <VALUE>1</VALUE>
+      </ID_SECTOR>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/TREATY</VALUE>
+                     <IDENTIFIER>TREATY</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>TREATY</OP-CODE>
+                  <IDENTIFIER>TREATY</IDENTIFIER>
+                  <PREFLABEL>Treaty</PREFLABEL>
+                  <ALTLABEL>Treaties</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM</VALUE>
+                     <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>CORRIGENDUM</OP-CODE>
+                  <IDENTIFIER>CORRIGENDUM</IDENTIFIER>
+                  <PREFLABEL>Corrigendum</PREFLABEL>
+                  <ALTLABEL>Corrigenda</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1996-12-06</VALUE>
+                  <YEAR>1996</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>06</DAY>
+               </WORK_DATE_DOCUMENT>
+               <ID_SECTOR type="data">
+                  <VALUE>1</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>N</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1994</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <ID_CELEX type="data">
+                  <VALUE>11994N172R(01)</VALUE>
+               </ID_CELEX>
+               <TYPE>cdm:treaty</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:fragment_resource_legal</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>ΔΙΟΡΘΩΤΙΚΟ Α :# ΠΡΑΞΗ περί των όρων προσχωρήσεως του Βασιλείου της Νορβηγίας, της Δημοκρατίας της Αυστρίας, της Δημοκρατίας της Φινλανδίας και του Βασιλείου της Σουηδίας και των προσαρμογών των συνθηκών επί των οποίων βασίζεται η Ένωση - ΜΕΡΟΣ ΠΕΜΠΤΟ : ΔΙΑΤΑΞΕΙΣ ΕΦΑΡΜΟΓΗΣ ΤΗΣ ΠΑΡΟΥΣΑΣ ΠΡΑΞΗΣ - ΤΙΤΛΟΣ ΙΙ : ΕΦΑΡΜΟΓΗ ΤΩΝ ΠΡΑΞΕΩΝ ΤΩΝ ΟΡΓΑΝΩΝ - Άρθρο 172</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0007</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0007</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.ELL</VALUE>
+               <IDENTIFIER>11994N172R(01).ELL</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/country/AUT</VALUE>
+            <IDENTIFIER>AUT</IDENTIFIER>
+            <TYPE>country</TYPE>
+         </URI>
+         <OP-CODE>AUT</OP-CODE>
+         <IDENTIFIER>AUT</IDENTIFIER>
+         <PREFLABEL>Austria</PREFLABEL>
+         <ALTLABEL>Republic of Austria</ALTLABEL>
+         <ALTLABEL>Austrian</ALTLABEL>
+      </CREATED_BY>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1996-12-06</VALUE>
+         <YEAR>1996</YEAR>
+         <MONTH>12</MONTH>
+         <DAY>06</DAY>
+      </DATE_DOCUMENT>
+      <TYPE>cdm:fragment_resource_legal</TYPE>
+      <TYPE>N</TYPE>
+      <TYPE>cdm:treaty</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <INVERSE complete="true"/>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0006</VALUE>
+         <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf.0006</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29.ENG</VALUE>
+            <IDENTIFIER>11994N172R(01).ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <TITLE type="data">
+         <VALUE>CORRIGENDUM TO:# ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE II : APPLICABILITY OF THE ACTS OF THE INSTITUTIONS - Article 172</VALUE>
+      </TITLE>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf</VALUE>
+            <IDENTIFIER>f26ecc4e-d101-4d93-8ac8-9c0d2d7901bf</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/11994N172R%2801%29</VALUE>
+               <IDENTIFIER>11994N172R(01)</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>CORRIGENDUM TO:# ACT concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded - PART FIVE : PROVISIONS RELATING TO THE IMPLEMENTATION OF THIS ACT - TITLE II : APPLICABILITY OF THE ACTS OF THE INSTITUTIONS - Article 172</VALUE>
+      </EXPRESSION_TITLE>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2014-04-02T05:20:09.159+02:00</VALUE>
+         <YEAR>2014</YEAR>
+         <MONTH>04</MONTH>
+         <DAY>02</DAY>
+      </LASTMODIFICATIONDATE>
+   </EXPRESSION>
+</NOTICE>
