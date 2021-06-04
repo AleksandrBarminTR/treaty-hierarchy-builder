@@ -13,7 +13,9 @@ import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.nio.file.Path;
 import java.util.Collection;
+import java.util.List;
 import java.util.Optional;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -41,12 +43,14 @@ class CelexBasedRuleTest {
 
   static class TestCelexBasedRule extends CelexBasedRule {
     @Override
-    public Pattern getCelexPattern() {
-      return Pattern.compile("^1\\d{4}[a-zA-Z]\\d+$");
+    public Collection<Pattern> getCelexPatterns() {
+      return List.of(
+          Pattern.compile("^1\\d{4}[a-zA-Z]\\d+$")
+      );
     }
 
     @Override
-    public Collection<PathItem> apply(String celex) {
+    public Collection<PathItem> apply(Matcher matcher) {
       return null;
     }
   }

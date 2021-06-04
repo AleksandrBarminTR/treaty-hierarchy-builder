@@ -3,6 +3,7 @@ package com.thomsonreuters.treaties.hierarchy.builder.rule.engine;
 import com.google.common.collect.Iterables;
 import com.thomsonreuters.treaties.hierarchy.builder.CollectionUtils;
 import com.thomsonreuters.treaties.hierarchy.builder.NoticePathProvider;
+import com.thomsonreuters.treaties.hierarchy.builder.TestUtils;
 import com.thomsonreuters.treaties.hierarchy.builder.extractor.CelexExtractor;
 import com.thomsonreuters.treaties.hierarchy.builder.extractor.NoticeMetadataProvider;
 import com.thomsonreuters.treaties.hierarchy.builder.model.NoticeMetadata;
@@ -50,13 +51,13 @@ class SectionWithLetterRuleTest {
   @ParameterizedTest
   @CsvSource({
       "12016M0123A,true",
-      "12016M01234,false"
+      "12016M01234,false",
+      "11992MI/8,true",
+      "11992MI/10,true",
+      "11992MJ01,true"
   })
   void canApply_appliedOnlyToCelexNumbersWithLetters(String celex, boolean shouldApply) {
-    final NoticeMetadata metadata = new NoticeMetadata();
-    metadata.setCelex(celex);
-
-    final boolean canApply = rule.canApply(metadata);
+    final boolean canApply = rule.canApply(TestUtils.withCelex(celex));
 
     assertEquals(shouldApply, canApply);
   }
@@ -64,7 +65,10 @@ class SectionWithLetterRuleTest {
   @ParameterizedTest
   @CsvSource({
       "12016M01234A,12016M01234,art_1,art_1A",
-      "12016M01234PRIME,12016M01234,art_1,art_1PRIME"
+      "12016M01234PRIME,12016M01234,art_1,art_1PRIME",
+      "11992MI/8,11992MI,art_I,art_I8",
+      "11992MI/10,11992MI,art_I,art_I10",
+      "11992MJ01,11992MJ,art_J,art_J01"
   })
   void apply_shouldExtractPath(String currentCelex, String mainCelex, String mainPath, String expectedPath) {
     final NoticeMetadata mainMetadata = mock(NoticeMetadata.class);
@@ -75,7 +79,7 @@ class SectionWithLetterRuleTest {
         StringUtils.substringAfter(mainPath, "_")
     )));
 
-    final Collection<PathItem> path = rule.apply(currentCelex);
+    final Collection<PathItem> path = rule.apply(TestUtils.withCelex(currentCelex));
 
     assertNotNull(path);
     assertFalse(path.isEmpty());

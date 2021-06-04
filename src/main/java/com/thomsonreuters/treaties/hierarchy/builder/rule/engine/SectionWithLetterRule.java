@@ -14,10 +14,13 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 12016M0123A
+ * 11992MJ01
+ * 11992MI/8
+ */
 @Component
 public class SectionWithLetterRule extends CelexBasedRule {
-  private final Pattern CELEX_SUB_ARTICLE_PATTERN = Pattern.compile("(1\\d{4}[a-zA-Z]\\d+)([a-zA-Z]+)");
-
   @Autowired
   private RuleEngine engine;
 
@@ -31,17 +34,18 @@ public class SectionWithLetterRule extends CelexBasedRule {
   private CollectionUtils collectionUtils;
 
   @Override
-  public Pattern getCelexPattern() {
-    return CELEX_SUB_ARTICLE_PATTERN;
+  public Collection<Pattern> getCelexPatterns() {
+    return List.of(
+        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z]\\d+)(?<subpart>[a-zA-Z]+)"),
+        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z]+)(?<subpart>\\d{2})"),
+        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z][a-zA-Z])/(?<subpart>[\\da-zA-Z]+)")
+    );
   }
 
   @Override
-  public Collection<PathItem> apply(String celex) {
-    final Matcher matcher = CELEX_SUB_ARTICLE_PATTERN.matcher(celex);
-    matcher.find();
-
-    final String mainCelex = matcher.group(1);
-    final String subPart = matcher.group(2);
+  public Collection<PathItem> apply(Matcher matcher) {
+    final String mainCelex = matcher.group("basecelex");
+    final String subPart = matcher.group("subpart");
 
     // get metadata for the base notice
     final NoticeMetadata parentMetadata = noticePathProvider.getNoticePathByCelex(mainCelex)
