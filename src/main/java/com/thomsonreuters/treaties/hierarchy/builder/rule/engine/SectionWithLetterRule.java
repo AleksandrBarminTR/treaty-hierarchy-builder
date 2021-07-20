@@ -36,9 +36,9 @@ public class SectionWithLetterRule extends CelexBasedRule {
   @Override
   public Collection<Pattern> getCelexPatterns() {
     return List.of(
-        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z]\\d+)(?<subpart>[a-zA-Z]+)"),
-        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z]+)(?<subpart>\\d{2})"),
-        Pattern.compile("(?<basecelex>1\\d{4}[a-zA-Z][a-zA-Z])/(?<subpart>[\\da-zA-Z]+)")
+        Pattern.compile("^(?<basecelex>1\\d{4}[a-zA-Z]\\d+)(?<subpart>[a-zA-Z]+)$"),
+        Pattern.compile("^(?<basecelex>1\\d{4}[a-zA-Z]+)(?<subpart>\\d{2})$"),
+        Pattern.compile("^(?<basecelex>1\\d{4}[a-zA-Z][a-zA-Z])/(?<subpart>[\\da-zA-Z]+)$")
     );
   }
 
